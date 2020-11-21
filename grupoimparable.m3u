@@ -1,0 +1,11 @@
+#EXTM3U
+#EXTINF:-1,LMP1
+https://extrabasetv.com/live/lmpenvivo1.m3u8
+#EXTINF:-1,LMP2
+https://extrabasetv.com/live/lmpenvivo2.m3u8
+#EXTINF:-1,LMP3
+https://extrabasetv.com/live/lmpenvivo3.m3u8
+#EXTINF:-1,LMP4
+https://extrabasetv.com/live/lmpenvivo4.m3u8
+#EXTINF:-1,LMP5
+https://extrabasetv.com/live/lmpenvivo5.m3u8
