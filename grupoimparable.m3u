@@ -1,8 +1,3 @@
 #EXTM3U
 #EXTINF:0 type="stream", METS
 https://hlslive-ftc-ewr1.media.mlb.com/token=exp=1628031038~id=00u7q9qdurrm89xtl356~data=26fa6955-d4d7-4895-a835-ee3ec4b14a2c~hash=ee10ec971684b3f36ac528b340501cbaa2e2d667/ls01/mlb/2021/08/02/Away_VIDEO_spa_New_York_Mets_Miami_Marli_20210802_1627938654050/5600K/5600_complete_gdfp.m3u8
-#EXTINF:-1,ROCKIES@PADRES
-https://hlslive-akc-ewr1.media.mlb.com/hdnts=exp=1627861467~acl=/*~id=00u7q9qdurrm89xtl356~data=866c08fd-ed75-4f1a-9f2a-927d50387c40~hmac=847751e6c6ff8f8a27f9c6ce1f90fbb136cc64038935279a5ae102f54718cc96/00eeef6f369a9ad26b6bd41b55a1a2a6/ls01/mlb/2021/08/01/Away_VIDEO_eng_Los_Angeles_Dodgers_Arizo_20210801_1627769412092/master_desktop_complete_gdfp.m3u8
-#EXTINF:-1,REDS@METS
-https://hlslive-akc-ewr1.media.mlb.com/hdnts=exp=1627857889~acl=/*~id=00u7q9qdurrm89xtl356~data=3a7b653f-94ca-445b-a6fe-69d211fcf6cc~hmac=3952fca52ca3a2a3e044953ae9eee1c68a09c97564ce5dc8d3c453aec03d5fcf/b3c4473d075e1e74d6674ad2b22c33ea/ls01/mlb/2021/07/31/Home_VIDEO_spa_Cincinnati_Reds_New_York__20210731_1627765846031/master_desktop_complete_gdfp.m3u8
-
