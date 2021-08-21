@@ -1,11 +1,3053 @@
 EXTM3U
 
-EXTINF:-1,LISTA30
-https://blackghost.live/819/?tv30
-EXTINF:-1,LISTA26
-https://blackghost.live/819/?tv26
-https://blackghost.live/819/?tv29
-https://blackghost.live/819/?tv27
-https://blackghost.live/819/?tv28
-https://blackghost.live/819/?tv31
-https://blackghost.live/819/?tv32
+#EXTINF:-1 tvg-logo="https://i.imgur.com/L0zLsl9.png"  group-title="Lista 01",BLACKGHOST 01
+https://blackghost.live/TV&f=.ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/3akxcS6.png" group-title="Lista 01", http://paypal.me/blackghost
+https://blackghost.live/TV&f=.ts
+#EXTINF:-1 group-title="Lista 01",TUDN MEXICO 
+https://blackghost.live/play/zutv-827.php?c=40968|User-agent=XCIPTV-v5.0.1
+#EXTINF:-1 group-title="Lista 01",CANAL 5 MX SD
+https://blackghost.live/play/zutv-827.php?c=40969|User-agent=XCIPTV-v5.0.1
+#EXTINF:-1 group-title="Lista 01",LAS ESTRELLAS
+https://blackghost.live/play/zutv-827.php?c=40970|User-agent=XCIPTV-v5.0.1
+#EXTINF:-1 group-title="Lista 01",BEIN ESPORT SD  
+https://blackghost.live/play/zutv-827.php?c=40971|User-agent=XCIPTV-v5.0.1
+#EXTINF:-1 group-title="Lista 01",CartoonNetwork
+https://blackghost.live/play/zutv-827.php?c=40972|User-agent=XCIPTV-v5.0.1
+#EXTINF:-1 group-title="Lista 01",FoxSports3 SD 
+https://blackghost.live/play/zutv-827.php?c=40976|User-agent=XCIPTV-v5.0.1
+#EXTINF:-1 group-title="Lista 01",Estrella TV
+https://blackghost.live/play/zutv-827.php?c=40977|User-agent=XCIPTV-v5.0.1
+#EXTINF:-1 group-title="Lista 01",FoxSport1 SD
+https://blackghost.live/play/zutv-827.php?c=40978|User-agent=XCIPTV-v5.0.1
+#EXTINF:-1 group-title="Lista 01",HBO SD 
+https://blackghost.live/play/zutv-827.php?c=40979|User-agent=XCIPTV-v5.0.1
+#EXTINF:-1 group-title="Lista 01",UNIVISION SD   
+https://blackghost.live/play/zutv-827.php?c=40980|User-agent=XCIPTV-v5.0.1
+#EXTINF:-1 group-title="Lista 01",Canal FOX Mexico SD
+https://blackghost.live/play/zutv-827.php?c=40981|User-agent=XCIPTV-v5.0.1
+#EXTINF:-1 group-title="Lista 01",FX Latin SD
+https://blackghost.live/play/zutv-827.php?c=40982|User-agent=XCIPTV-v5.0.1
+#EXTINF:-1 group-title="Lista 01",SD: A&E LATINO
+https://blackghost.live/play/zutv-827.php?c=40983|User-agent=XCIPTV-v5.0.1
+#EXTINF:-1 group-title="Lista 01",SD: FOX_LIFE
+https://blackghost.live/play/zutv-827.php?c=40984|User-agent=XCIPTV-v5.0.1
+#EXTINF:-1 group-title="Lista 01",SD: TBS
+https://blackghost.live/play/zutv-827.php?c=40985|User-agent=XCIPTV-v5.0.1
+#EXTINF:-1 group-title="Lista 01",SD: SYFY 
+https://blackghost.live/play/zutv-827.php?c=40986|User-agent=XCIPTV-v5.0.1
+#EXTINF:-1 group-title="Lista 01",SD: AXN
+https://blackghost.live/play/zutv-827.php?c=40988|User-agent=XCIPTV-v5.0.1
+#EXTINF:-1 group-title="Lista 01",SD: UNIVERSAL
+https://blackghost.live/play/zutv-827.php?c=40989|User-agent=XCIPTV-v5.0.1
+#EXTINF:-1 group-title="Lista 01",SD: Warner
+https://blackghost.live/play/zutv-827.php?c=40990|User-agent=XCIPTV-v5.0.1
+#EXTINF:-1 group-title="Lista 01",SD: SONY
+https://blackghost.live/play/zutv-827.php?c=40991|User-agent=XCIPTV-v5.0.1
+#EXTINF:-1 group-title="Lista 01",SD: STUDIO UNIVERSAL
+https://blackghost.live/play/zutv-827.php?c=40992|User-agent=XCIPTV-v5.0.1
+#EXTINF:-1 group-title="Lista 01",SD: TNT SERIES 
+https://blackghost.live/play/zutv-827.php?c=40993|User-agent=XCIPTV-v5.0.1
+#EXTINF:-1 group-title="Lista 01",SD: E!
+https://blackghost.live/play/zutv-827.php?c=40994|User-agent=XCIPTV-v5.0.1
+#EXTINF:-1 group-title="Lista 01",SD: COMEDY CENTRAL
+https://blackghost.live/play/zutv-827.php?c=40995|User-agent=XCIPTV-v5.0.1
+#EXTINF:-1 group-title="Lista 01",SD: HISTORY CHANNEL  
+https://blackghost.live/play/zutv-827.php?c=40996|User-agent=XCIPTV-v5.0.1
+#EXTINF:-1 group-title="Lista 01",SD: NATIONAL GEOGRAPHIC
+https://blackghost.live/play/zutv-827.php?c=40997|User-agent=XCIPTV-v5.0.1
+#EXTINF:-1 group-title="Lista 01",SD: DISCOVERY CHANNEL 
+https://blackghost.live/play/zutv-827.php?c=40998|User-agent=XCIPTV-v5.0.1
+#EXTINF:-1 group-title="Lista 01",SD: ANIMAL PLANET
+https://blackghost.live/play/zutv-827.php?c=41000|User-agent=XCIPTV-v5.0.1
+#EXTINF:-1 group-title="Lista 01",SD: NICK JR
+https://blackghost.live/play/zutv-827.php?c=41001|User-agent=XCIPTV-v5.0.1
+#EXTINF:-1 group-title="Lista 01",SD: DISCOVERY KIDS
+https://blackghost.live/play/zutv-827.php?c=41002|User-agent=XCIPTV-v5.0.1
+#EXTINF:-1 group-title="Lista 01",SD: DISNEY JUNIOR
+https://blackghost.live/play/zutv-827.php?c=41003|User-agent=XCIPTV-v5.0.1
+#EXTINF:-1 group-title="Lista 01",SD: NICKELODEON
+https://blackghost.live/play/zutv-827.php?c=41004|User-agent=XCIPTV-v5.0.1
+#EXTINF:-1 group-title="Lista 01",SD: DISNEY XD
+https://blackghost.live/play/zutv-827.php?c=41005|User-agent=XCIPTV-v5.0.1
+#EXTINF:-1 group-title="Lista 01",SD: DISNEY CHANNEL
+https://blackghost.live/play/zutv-827.php?c=41006|User-agent=XCIPTV-v5.0.1
+#EXTINF:-1 group-title="Lista 01",SD Fox Sports 2
+https://blackghost.live/play/zutv-827.php?c=41007|User-agent=XCIPTV-v5.0.1
+#EXTINF:-1 group-title="Lista 01",SD: ESPN 3
+https://blackghost.live/play/zutv-827.php?c=41008|User-agent=XCIPTV-v5.0.1
+#EXTINF:-1 group-title="Lista 01",SD: ESPN 2
+https://blackghost.live/play/zutv-827.php?c=41009|User-agent=XCIPTV-v5.0.1
+#EXTINF:-1 group-title="Lista 01",SD: ESPN
+https://blackghost.live/play/zutv-827.php?c=41010|User-agent=XCIPTV-v5.0.1
+#EXTINF:-1 group-title="Lista 01",SD: CLARO SPORT
+https://blackghost.live/play/zutv-827.php?c=41011|User-agent=XCIPTV-v5.0.1
+#EXTINF:-1 group-title="Lista 01",SD: HolaTv
+https://blackghost.live/play/zutv-827.php?c=41012|User-agent=XCIPTV-v5.0.1
+#EXTINF:-1 group-title="Lista 01",SD: TNT
+https://blackghost.live/play/zutv-827.php?c=41014|User-agent=XCIPTV-v5.0.1
+#EXTINF:-1 group-title="Lista 01",SD: HBO2
+https://blackghost.live/play/zutv-827.php?c=41015|User-agent=XCIPTV-v5.0.1
+#EXTINF:-1 group-title="Lista 01",SD: HBO Family
+https://blackghost.live/play/zutv-827.php?c=41016|User-agent=XCIPTV-v5.0.1
+#EXTINF:-1 group-title="Lista 01",SD: FOX FAMILY
+https://blackghost.live/play/zutv-827.php?c=41017|User-agent=XCIPTV-v5.0.1
+#EXTINF:-1 group-title="Lista 01",SD: MAX PRIME
+https://blackghost.live/play/zutv-827.php?c=41018|User-agent=XCIPTV-v5.0.1
+#EXTINF:-1 group-title="Lista 01",SD: BabyTvLAT America
+https://blackghost.live/play/zutv-827.php?c=41019|User-agent=XCIPTV-v5.0.1
+#EXTINF:-1 group-title="Lista 01",BOORMERANG MEXICO
+https://blackghost.live/play/zutv-827.php?c=41020|User-agent=XCIPTV-v5.0.1
+#EXTINF:-1 group-title="Lista 01",SD: NBC SPORT
+https://blackghost.live/play/zutv-827.php?c=41021|User-agent=XCIPTV-v5.0.1
+#EXTINF:-1 group-title="Lista 01",SD: NatGeoKids
+https://blackghost.live/play/zutv-827.php?c=41022|User-agent=XCIPTV-v5.0.1
+#EXTINF:-1 group-title="Lista 01",ESPN DEPORTES
+https://blackghost.live/play/zutv-827.php?c=41023|User-agent=XCIPTV-v5.0.1
+#EXTINF:-1 group-title="Lista 01",SD: TUDN
+https://blackghost.live/play/zutv-827.php?c=41024|User-agent=XCIPTV-v5.0.1
+#EXTINF:-1 group-title="Lista 01",SD: UNICABLE
+https://blackghost.live/play/zutv-827.php?c=41025|User-agent=XCIPTV-v5.0.1
+#EXTINF:-1 group-title="Lista 01",SD: SPACEMEXICO
+https://blackghost.live/play/zutv-827.php?c=41027|User-agent=XCIPTV-v5.0.1
+#EXTINF:-1 group-title="Lista 01",SD: MTV HITLIST
+https://blackghost.live/play/zutv-827.php?c=41028|User-agent=XCIPTV-v5.0.1
+#EXTINF:-1 group-title="Lista 01",SD: MTVLA
+https://blackghost.live/play/zutv-827.php?c=41029|User-agent=XCIPTV-v5.0.1
+#EXTINF:-1 group-title="Lista 01",SD: VH1
+https://blackghost.live/play/zutv-827.php?c=41030|User-agent=XCIPTV-v5.0.1
+#EXTINF:-1 group-title="Lista 01",SD: VROLA
+https://blackghost.live/play/zutv-827.php?c=41031|User-agent=XCIPTV-v5.0.1
+#EXTINF:-1 group-title="Lista 01",SD: TELEMUNDO
+https://blackghost.live/play/zutv-827.php?c=41032|User-agent=XCIPTV-v5.0.1
+#EXTINF:-1 group-title="Lista 01",SD: FOODN
+https://blackghost.live/play/zutv-827.php?c=41033|User-agent=XCIPTV-v5.0.1
+#EXTINF:-1 group-title="Lista 01",SD: DISCOVERY FAMILY
+https://blackghost.live/play/zutv-827.php?c=41034|User-agent=XCIPTV-v5.0.1
+#EXTINF:-1 group-title="Lista 01",SD: BRAVO TV
+https://blackghost.live/play/zutv-827.php?c=41035|User-agent=XCIPTV-v5.0.1
+#EXTINF:-1 group-title="Lista 01",SD: CNN
+https://blackghost.live/play/zutv-827.php?c=41036|User-agent=XCIPTV-v5.0.1
+#EXTINF:-1 group-title="Lista 01",RealExtreme
+https://blackghost.live/play/zutv-827.php?c=41038|User-agent=XCIPTV-v5.0.1
+#EXTINF:-1 group-title="Lista 01",Brazzers TV
+https://blackghost.live/play/zutv-827.php?c=41039|User-agent=XCIPTV-v5.0.1
+#EXTINF:-1 group-title="Lista 01",TEN
+https://blackghost.live/play/zutv-827.php?c=41040|User-agent=XCIPTV-v5.0.1
+#EXTINF:-1 group-title="Lista 01",RK
+https://blackghost.live/play/zutv-827.php?c=41041|User-agent=XCIPTV-v5.0.1
+#EXTINF:-1 group-title="Lista 01",Hustler TV
+https://blackghost.live/play/zutv-827.php?c=41042|User-agent=XCIPTV-v5.0.1
+#EXTINF:-1 group-title="Lista 01",XTSY
+https://blackghost.live/play/zutv-827.php?c=41043|User-agent=XCIPTV-v5.0.1
+#EXTINF:-1 group-title="Lista 01",Playboy TV
+https://blackghost.live/play/zutv-827.php?c=41044|User-agent=XCIPTV-v5.0.1
+#EXTINF:-1 group-title="Lista 01",Venus
+https://blackghost.live/play/zutv-827.php?c=41045|User-agent=XCIPTV-v5.0.1
+#EXTINF:-1 group-title="Lista 01",Sextreme
+https://blackghost.live/play/zutv-827.php?c=41046|User-agent=XCIPTV-v5.0.1
+#EXTINF:-1 group-title="Lista 01",SD: ATRES
+https://blackghost.live/play/zutv-827.php?c=41047|User-agent=XCIPTV-v5.0.1
+#EXTINF:-1 group-title="Lista 01",SD: AZTECA 7
+https://blackghost.live/play/zutv-827.php?c=41048|User-agent=XCIPTV-v5.0.1
+#EXTINF:-1 group-title="Lista 01",SD: IMAGEN
+https://blackghost.live/play/zutv-827.php?c=41049|User-agent=XCIPTV-v5.0.1
+#EXTINF:-1 group-title="Lista 01",FORO TV
+https://blackghost.live/play/zutv-827.php?c=41050|User-agent=XCIPTV-v5.0.1
+#EXTINF:-1 group-title="Lista 01",SD: CANAL 22
+https://blackghost.live/play/zutv-827.php?c=41051|User-agent=XCIPTV-v5.0.1
+#EXTINF:-1 group-title="Lista 01",SD: ONCETVMEXICO
+https://blackghost.live/play/zutv-827.php?c=41053|User-agent=XCIPTV-v5.0.1
+#EXTINF:-1 group-title="Lista 01",INGENIO TV
+https://blackghost.live/play/zutv-827.php?c=41054|User-agent=XCIPTV-v5.0.1
+#EXTINF:-1 group-title="Lista 01",Sky Sport Bundesliga 1 HD
+https://blackghost.live/play/zutv-827.php?c=41055|User-agent=XCIPTV-v5.0.1
+#EXTINF:-1 group-title="Lista 01",FORMULA 1
+https://blackghost.live/play/zutv-827.php?c=41056|User-agent=XCIPTV-v5.0.1
+#EXTINF:-1 group-title="Lista 01",ESPA: CUATRO
+https://blackghost.live/play/zutv-827.php?c=41057|User-agent=XCIPTV-v5.0.1
+#EXTINF:-1 group-title="Lista 01",ESPA: TELECINCO
+https://blackghost.live/play/zutv-827.php?c=41058|User-agent=XCIPTV-v5.0.1
+#EXTINF:-1 group-title="Lista 01",ESPA: Antena 3
+https://blackghost.live/play/zutv-827.php?c=41059|User-agent=XCIPTV-v5.0.1
+#EXTINF:-1 group-title="Lista 01",ESPA: EUROSPORT 2
+https://blackghost.live/play/zutv-827.php?c=41060|User-agent=XCIPTV-v5.0.1
+#EXTINF:-1 group-title="Lista 01",ESPA: CRIME&INVESTIGATION
+https://blackghost.live/play/zutv-827.php?c=41061|User-agent=XCIPTV-v5.0.1
+#EXTINF:-1 group-title="Lista 01",ESPA: COMEDY CENTRAL
+https://blackghost.live/play/zutv-827.php?c=41062|User-agent=XCIPTV-v5.0.1
+#EXTINF:-1 group-title="Lista 01",ESPA: AMC
+https://blackghost.live/play/zutv-827.php?c=41063|User-agent=XCIPTV-v5.0.1
+#EXTINF:-1 group-title="Lista 01",ESPA: TOROS HD
+https://blackghost.live/play/zutv-827.php?c=41064|User-agent=XCIPTV-v5.0.1
+#EXTINF:-1 group-title="Lista 01",ESPA: TNT
+https://blackghost.live/play/zutv-827.php?c=41065|User-agent=XCIPTV-v5.0.1
+#EXTINF:-1 group-title="Lista 01",ESPA: TAQ 6
+https://blackghost.live/play/zutv-827.php?c=41066|User-agent=XCIPTV-v5.0.1
+#EXTINF:-1 group-title="Lista 01",ESPA: TAQ 5
+https://blackghost.live/play/zutv-827.php?c=41067|User-agent=XCIPTV-v5.0.1
+#EXTINF:-1 group-title="Lista 01",ESPA: TAQ 4
+https://blackghost.live/play/zutv-827.php?c=41068|User-agent=XCIPTV-v5.0.1
+#EXTINF:-1 group-title="Lista 01",ESPA: TAQ 3
+https://blackghost.live/play/zutv-827.php?c=41069|User-agent=XCIPTV-v5.0.1
+#EXTINF:-1 group-title="Lista 01",ESPA: TAQ 2
+https://blackghost.live/play/zutv-827.php?c=41070|User-agent=XCIPTV-v5.0.1
+#EXTINF:-1 group-title="Lista 01",ESPA: TAQ 1
+https://blackghost.live/play/zutv-827.php?c=41071|User-agent=XCIPTV-v5.0.1
+#EXTINF:-1 group-title="Lista 01",ESPA: SYFY HD
+https://blackghost.live/play/zutv-827.php?c=41072|User-agent=XCIPTV-v5.0.1
+#EXTINF:-1 group-title="Lista 01",ESPA: SERIES HD
+https://blackghost.live/play/zutv-827.php?c=41073
+|User-agent=XCIPTV-v5.0.1
+#EXTINF:-1 group-title="Lista 01",SD: UNIVERSO
+https://blackghost.live/play/zutv-827.php?c=41452|User-agent=XCIPTV-v5.0.1
+#EXTINF:-1 group-title="Lista 01",US: HBO EAST
+https://blackghost.live/play/zutv-827.php?c=41453|User-agent=XCIPTV-v5.0.1
+#EXTINF:-1 group-title="Lista 01",US: HBO 2
+https://blackghost.live/play/zutv-827.php?c=41454|User-agent=XCIPTV-v5.0.1
+#EXTINF:-1 group-title="Lista 01",US: HBO COMEDY
+https://blackghost.live/play/zutv-827.php?c=41455|User-agent=XCIPTV-v5.0.1
+#EXTINF:-1 group-title="Lista 01",US: HBO FAMILY
+https://blackghost.live/play/zutv-827.php?c=41456|User-agent=XCIPTV-v5.0.1
+#EXTINF:-1 group-title="Lista 01",US: HBO SIGNATURE
+https://blackghost.live/play/zutv-827.php?c=41457|User-agent=XCIPTV-v5.0.1
+#EXTINF:-1 group-title="Lista 01",US: HBO PLUS
+https://blackghost.live/play/zutv-827.php?c=41458|User-agent=XCIPTV-v5.0.1
+#EXTINF:-1 group-title="Lista 01",US: HBO WEST
+https://blackghost.live/play/zutv-827.php?c=41459|User-agent=XCIPTV-v5.0.1
+#EXTINF:-1 group-title="Lista 01",US: HBO ZONE
+https://blackghost.live/play/zutv-827.php?c=41460|User-agent=XCIPTV-v5.0.1
+#EXTINF:-1 group-title="Lista 01",fox sport 1
+https://blackghost.live/play/zutv-827.php?c=41461|User-agent=XCIPTV-v5.0.1
+#EXTINF:-1 group-title="Lista 01",MLB
+https://blackghost.live/play/zutv-827.php?c=41463|User-agent=XCIPTV-v5.0.1
+#EXTINF:-1 group-title="Lista 01",NBA
+https://blackghost.live/play/zutv-827.php?c=41464|User-agent=XCIPTV-v5.0.1
+#EXTINF:-1 group-title="Lista 01",WAPA
+https://blackghost.live/play/zutv-827.php?c=41465|User-agent=XCIPTV-v5.0.1
+#EXTINF:-1 group-title="Lista 01",REALMADRID
+https://blackghost.live/play/zutv-827.php?c=41466|User-agent=XCIPTV-v5.0.1
+#EXTINF:-1 group-title="Lista 01",FOX SPORT 3
+https://blackghost.live/play/zutv-827.php?c=41467|User-agent=XCIPTV-v5.0.1
+#EXTINF:-1 group-title="Lista 01",ESPN 1
+https://blackghost.live/play/zutv-827.php?c=41468|User-agent=XCIPTV-v5.0.1
+#EXTINF:-1 group-title="Lista 01",ESPN EXTRA
+https://blackghost.live/play/zutv-827.php?c=41469|User-agent=XCIPTV-v5.0.1
+#EXTINF:-1 group-title="Lista 01",ESPN 2
+https://blackghost.live/play/zutv-827.php?c=41470|User-agent=XCIPTV-v5.0.1
+#EXTINF:-1 group-title="Lista 01",Multimediosmty
+https://blackghost.live/play/zutv-827.php?c=41471|User-agent=XCIPTV-v5.0.1
+#EXTINF:-1 group-title="Lista 01",EL FINANCIERO
+https://blackghost.live/play/zutv-827.php?c=41472|User-agent=XCIPTV-v5.0.1
+#EXTINF:-1 group-title="Lista 01",DW
+https://blackghost.live/play/zutv-827.php?c=41473|User-agent=XCIPTV-v5.0.1
+#EXTINF:-1 group-title="Lista 01",AMC
+https://blackghost.live/play/zutv-827.php?c=41474|User-agent=XCIPTV-v5.0.1
+#EXTINF:-1 group-title="Lista 01",CINEMAX
+https://blackghost.live/play/zutv-827.php?c=41475|User-agent=XCIPTV-v5.0.1
+#EXTINF:-1 group-title="Lista 01",CINECANAL
+https://blackghost.live/play/zutv-827.php?c=41476|User-agent=XCIPTV-v5.0.1
+#EXTINF:-1 group-title="Lista 01",FXM
+https://blackghost.live/play/zutv-827.php?c=41477|User-agent=XCIPTV-v5.0.1
+#EXTINF:-1 group-title="Lista 01",CINELATINO
+https://blackghost.live/play/zutv-827.php?c=41478|User-agent=XCIPTV-v5.0.1
+#EXTINF:-1 group-title="Lista 01",ISAT
+https://blackghost.live/play/zutv-827.php?c=41479|User-agent=XCIPTV-v5.0.1
+#EXTINF:-1 group-title="Lista 01",PARAMOOUNT
+https://blackghost.live/play/zutv-827.php?c=41480|User-agent=XCIPTV-v5.0.1
+#EXTINF:-1 group-title="Lista 01",START LIFE
+https://blackghost.live/play/zutv-827.php?c=41481|User-agent=XCIPTV-v5.0.1
+#EXTINF:-1 group-title="Lista 01",PASIONES
+https://blackghost.live/play/zutv-827.php?c=41482|User-agent=XCIPTV-v5.0.1
+#EXTINF:-1 group-title="Lista 01",GOLDEN
+https://blackghost.live/play/zutv-827.php?c=41483|User-agent=XCIPTV-v5.0.1
+#EXTINF:-1 group-title="Lista 01",GOLDEN PREMIER
+https://blackghost.live/play/zutv-827.php?c=41484|User-agent=XCIPTV-v5.0.1
+#EXTINF:-1 group-title="Lista 01",STAR ACCION
+https://blackghost.live/play/zutv-827.php?c=41485|User-agent=XCIPTV-v5.0.1
+#EXTINF:-1 group-title="Lista 01",FOXCINEMA
+https://blackghost.live/play/zutv-827.php?c=41486|User-agent=XCIPTV-v5.0.1
+#EXTINF:-1 group-title="Lista 01",FOXCLASSICS
+https://blackghost.live/play/zutv-827.php?c=41487|User-agent=XCIPTV-v5.0.1
+#EXTINF:-1 group-title="Lista 01",foxFamily
+https://blackghost.live/play/zutv-827.php?c=41488|User-agent=XCIPTV-v5.0.1
+#EXTINF:-1 group-title="Lista 01",FOX MOVIES
+https://blackghost.live/play/zutv-827.php?c=41489|User-agent=XCIPTV-v5.0.1
+#EXTINF:-1 group-title="Lista 01",FOXSERIES
+https://blackghost.live/play/zutv-827.php?c=41490|User-agent=XCIPTV-v5.0.1
+#EXTINF:-1 group-title="Lista 01",HBO
+https://blackghost.live/play/zutv-827.php?c=41491|User-agent=XCIPTV-v5.0.1
+#EXTINF:-1 group-title="Lista 01",HBOPlus
+https://blackghost.live/play/zutv-827.php?c=41492|User-agent=XCIPTV-v5.0.1
+#EXTINF:-1 group-title="Lista 01",AZTECA 1
+https://blackghost.live/play/zutv-827.php?c=41493|User-agent=XCIPTV-v5.0.1
+#EXTINF:-1 group-title="Lista 01",AZMUNDO
+https://blackghost.live/play/zutv-827.php?c=41494|User-agent=XCIPTV-v5.0.1
+#EXTINF:-1 group-title="Lista 01",LIFETIME
+https://blackghost.live/play/zutv-827.php?c=41495|User-agent=XCIPTV-v5.0.1
+#EXTINF:-1 group-title="Lista 01",UNICABLE
+https://blackghost.live/play/zutv-827.php?c=41496|User-agent=XCIPTV-v5.0.1
+#EXTINF:-1 group-title="Lista 01",9603UNIMW
+https://blackghost.live/play/zutv-827.php?c=41497|User-agent=XCIPTV-v5.0.1
+#EXTINF:-1 group-title="Lista 01",GALAVISION
+https://blackghost.live/play/zutv-827.php?c=41498|User-agent=XCIPTV-v5.0.1
+#EXTINF:-1 group-title="Lista 01",MC
+https://blackghost.live/play/zutv-827.php?c=41500|User-agent=XCIPTV-v5.0.1
+#EXTINF:-1 group-title="Lista 01",MultiPremiere
+https://blackghost.live/play/zutv-827.php?c=41501|User-agent=XCIPTV-v5.0.1
+#EXTINF:-1 group-title="Lista 01",TL PR
+https://blackghost.live/play/zutv-827.php?c=41502|User-agent=XCIPTV-v5.0.1
+#EXTINF:-1 group-title="Lista 01",UNIVISION PR
+https://blackghost.live/play/zutv-827.php?c=41503|User-agent=XCIPTV-v5.0.1
+#EXTINF:-1 group-title="Lista 01",TOONCAST
+https://blackghost.live/play/zutv-827.php?c=41504
+
+|User-agent=XCIPTV-v5.0.1
+#EXTINF:-1 group-title="Lista 01",24/7 POWER RANGERS
+https://blackghost.live/play/zutv-827.php?c=303|User-agent=XCIPTV-v5.0.1
+#EXTINF:-1 group-title="Lista 01",24/7 ROBOTECH
+https://blackghost.live/play/zutv-827.php?c=304|User-agent=XCIPTV-v5.0.1
+#EXTINF:-1 group-title="Lista 01",24/7 SAILOR MOON
+https://blackghost.live/play/zutv-827.php?c=305|User-agent=XCIPTV-v5.0.1
+#EXTINF:-1 group-title="Lista 01",24/7  LOS SIMPSON-
+https://blackghost.live/play/zutv-827.php?c=307|User-agent=XCIPTV-v5.0.1
+#EXTINF:-1 group-title="Lista 01",24/7 SMALLVILLE
+https://blackghost.live/play/zutv-827.php?c=308|User-agent=XCIPTV-v5.0.1
+#EXTINF:-1 group-title="Lista 01",24/7  SOUTH PARK
+https://blackghost.live/play/zutv-827.php?c=309|User-agent=XCIPTV-v5.0.1
+#EXTINF:-1 group-title="Lista 01",24/7 SPIDER-MAN
+https://blackghost.live/play/zutv-827.php?c=310|User-agent=XCIPTV-v5.0.1
+#EXTINF:-1 group-title="Lista 01",24/7 STRANGER THINGS
+https://blackghost.live/play/zutv-827.php?c=311|User-agent=XCIPTV-v5.0.1
+#EXTINF:-1 group-title="Lista 01",24/7 SUPER CAMPEONES
+https://blackghost.live/play/zutv-827.php?c=312|User-agent=XCIPTV-v5.0.1
+#EXTINF:-1 group-title="Lista 01",24/7 Peliculas de terror
+https://blackghost.live/play/zutv-827.php?c=313|User-agent=XCIPTV-v5.0.1
+#EXTINF:-1 group-title="Lista 01",24/7 THUNDERCAST
+https://blackghost.live/play/zutv-827.php?c=314|User-agent=XCIPTV-v5.0.1
+#EXTINF:-1 group-title="Lista 01",24/7  THE WALKING DEAD
+https://blackghost.live/play/zutv-827.php?c=315|User-agent=XCIPTV-v5.0.1
+#EXTINF:-1 group-title="Lista 01",24/7 BARNY Y SUS AMIGOS
+https://blackghost.live/play/zutv-827.php?c=316|User-agent=XCIPTV-v5.0.1
+#EXTINF:-1 group-title="Lista 01",24/7 BOB ESPONJA
+https://blackghost.live/play/zutv-827.php?c=317|User-agent=XCIPTV-v5.0.1
+#EXTINF:-1 group-title="Lista 01",24/7  CAILLOU
+https://blackghost.live/play/zutv-827.php?c=318|User-agent=XCIPTV-v5.0.1
+#EXTINF:-1 group-title="Lista 01",24/7 EL COYOTE Y CORRE CAMINOS
+https://blackghost.live/play/zutv-827.php?c=319|User-agent=XCIPTV-v5.0.1
+#EXTINF:-1 group-title="Lista 01",24/7 DESAFIO SOBRE FUEGO LATIN AMERICA
+https://blackghost.live/play/zutv-827.php?c=320|User-agent=XCIPTV-v5.0.1
+#EXTINF:-1 group-title="Lista 01",24/7 HAPPY TREE FRIENDS
+https://blackghost.live/play/zutv-827.php?c=321|User-agent=XCIPTV-v5.0.1
+#EXTINF:-1 group-title="Lista 01",24/7 LA RISA EN VACIONES
+https://blackghost.live/play/zutv-827.php?c=322|User-agent=XCIPTV-v5.0.1
+#EXTINF:-1 group-title="Lista 01",24/7 LAZY TOWN
+https://blackghost.live/play/zutv-827.php?c=323|User-agent=XCIPTV-v5.0.1
+#EXTINF:-1 group-title="Lista 01",24/7 LA PANTERA ROSA
+https://blackghost.live/play/zutv-827.php?c=325|User-agent=XCIPTV-v5.0.1
+#EXTINF:-1 group-title="Lista 01",24/7 PEPPA PIG
+https://blackghost.live/play/zutv-827.php?c=326|User-agent=XCIPTV-v5.0.1
+#EXTINF:-1 group-title="Lista 01",24/7 LA HORA PICO
+https://blackghost.live/play/zutv-827.php?c=327|User-agent=XCIPTV-v5.0.1
+#EXTINF:-1 group-title="Lista 01",24/7 HÉROES EN PIJAMAS
+https://blackghost.live/play/zutv-827.php?c=328|User-agent=XCIPTV-v5.0.1
+#EXTINF:-1 group-title="Lista 01",24/7 Shark Tank México TEP 2
+https://blackghost.live/play/zutv-827.php?c=329|User-agent=XCIPTV-v5.0.1
+#EXTINF:-1 group-title="Lista 01",24/7 Shark Tank México TEP 1
+https://blackghost.live/play/zutv-827.php?c=330|User-agent=XCIPTV-v5.0.1
+#EXTINF:-1 group-title="Lista 01",24/7 XMEN ANIME
+https://blackghost.live/play/zutv-827.php?c=331|User-agent=XCIPTV-v5.0.1
+#EXTINF:-1 group-title="Lista 01",24/7 BREAKING  BAD
+https://blackghost.live/play/zutv-827.php?c=332|User-agent=XCIPTV-v5.0.1
+#EXTINF:-1 group-title="Lista 01",24/7 CABALLEROS DEL ZODIACO
+https://blackghost.live/play/zutv-827.php?c=333|User-agent=XCIPTV-v5.0.1
+#EXTINF:-1 group-title="Lista 01",24/7 LA CASA DE PAPEL
+https://blackghost.live/play/zutv-827.php?c=334|User-agent=XCIPTV-v5.0.1
+#EXTINF:-1 group-title="Lista 01",24/7 EL CHAVO DEL 8
+https://blackghost.live/play/zutv-827.php?c=335|User-agent=XCIPTV-v5.0.1
+#EXTINF:-1 group-title="Lista 01",24/7 EL CHEMA
+https://blackghost.live/play/zutv-827.php?c=336|User-agent=XCIPTV-v5.0.1
+#EXTINF:-1 group-title="Lista 01",24/7 EL SEÑOR DE LOS CIELOS
+https://blackghost.live/play/zutv-827.php?c=337|User-agent=XCIPTV-v5.0.1
+#EXTINF:-1 group-title="Lista 01",24/7  CORAJE EL PERRO COBARDE
+https://blackghost.live/play/zutv-827.php?c=338|User-agent=XCIPTV-v5.0.1
+#EXTINF:-1 group-title="Lista 01",24/7 CSI: MIAMI
+https://blackghost.live/play/zutv-827.php?c=339|User-agent=XCIPTV-v5.0.1
+#EXTINF:-1 group-title="Lista 01",24/7  CUENTRO GREEM
+https://blackghost.live/play/zutv-827.php?c=340|User-agent=XCIPTV-v5.0.1
+#EXTINF:-1 group-title="Lista 01",24/7 DRAGON BALL SUPER
+https://blackghost.live/play/zutv-827.php?c=341|User-agent=XCIPTV-v5.0.1
+#EXTINF:-1 group-title="Lista 01",24/7 ALF
+https://blackghost.live/play/zutv-827.php?c=342|User-agent=XCIPTV-v5.0.1
+#EXTINF:-1 group-title="Lista 01",24/7 SHERA
+https://blackghost.live/play/zutv-827.php?c=343|User-agent=XCIPTV-v5.0.1
+#EXTINF:-1 group-title="Lista 01",24/7  DINOSAURIOS 1991
+https://blackghost.live/play/zutv-827.php?c=344|User-agent=XCIPTV-v5.0.1
+#EXTINF:-1 group-title="Lista 01",24/7  DRAGON BALL 1984
+https://blackghost.live/play/zutv-827.php?c=345|User-agent=XCIPTV-v5.0.1
+#EXTINF:-1 group-title="Lista 01",24/7 DRAGON BALL GT 1996
+https://blackghost.live/play/zutv-827.php?c=346|User-agent=XCIPTV-v5.0.1
+#EXTINF:-1 group-title="Lista 01",24/7 DRAGON BALL Z 1989
+https://blackghost.live/play/zutv-827.php?c=347|User-agent=XCIPTV-v5.0.1
+#EXTINF:-1 group-title="Lista 01",24/7 EL CHAPULIN COLORADO
+https://blackghost.live/play/zutv-827.php?c=348|User-agent=XCIPTV-v5.0.1
+#EXTINF:-1 group-title="Lista 01",24/7 EL PATRON DEL MAL 
+https://blackghost.live/play/zutv-827.php?c=349|User-agent=XCIPTV-v5.0.1
+#EXTINF:-1 group-title="Lista 01",24/7 PELICULAS ESTRENOS 2018
+https://blackghost.live/play/zutv-827.php?c=350|User-agent=XCIPTV-v5.0.1
+#EXTINF:-1 group-title="Lista 01",24/7 FUTURAMA 1999
+https://blackghost.live/play/zutv-827.php?c=351|User-agent=XCIPTV-v5.0.1
+#EXTINF:-1 group-title="Lista 01",24/7 JUEGO DE TRONOS
+https://blackghost.live/play/zutv-827.php?c=352|User-agent=XCIPTV-v5.0.1
+#EXTINF:-1 group-title="Lista 01",24/7 He-Man
+https://blackghost.live/play/zutv-827.php?c=353|User-agent=XCIPTV-v5.0.1
+#EXTINF:-1 group-title="Lista 01",24/7 LA ROSA DE GUADALUPE
+https://blackghost.live/play/zutv-827.php?c=354|User-agent=XCIPTV-v5.0.1
+#EXTINF:-1 group-title="Lista 01",24/7 LOS LOCOS ADDAMS
+https://blackghost.live/play/zutv-827.php?c=355|User-agent=XCIPTV-v5.0.1
+#EXTINF:-1 group-title="Lista 01",24/7 LA FAMILIA MONSTERS 1964
+https://blackghost.live/play/zutv-827.php?c=356|User-agent=XCIPTV-v5.0.1
+#EXTINF:-1 group-title="Lista 01",24/7 LUIS MIGUEL LA SERIE 2018
+https://blackghost.live/play/zutv-827.php?c=357|User-agent=XCIPTV-v5.0.1
+#EXTINF:-1 group-title="Lista 01",24/7 Malcolm in the middle 2000
+https://blackghost.live/play/zutv-827.php?c=358|User-agent=XCIPTV-v5.0.1
+#EXTINF:-1 group-title="Lista 01",24/7 AÑOS MARAVILLOSOS 1988
+https://blackghost.live/play/zutv-827.php?c=359|User-agent=XCIPTV-v5.0.1
+#EXTINF:-1 group-title="Lista 01",24/7 Mazinger Z
+https://blackghost.live/play/zutv-827.php?c=360|User-agent=XCIPTV-v5.0.1
+#EXTINF:-1 group-title="Lista 01",24/7 Naruto
+https://blackghost.live/play/zutv-827.php?c=361|User-agent=XCIPTV-v5.0.1
+#EXTINF:-1 group-title="Lista 01",24/7 PINKY y CEREBRO
+https://blackghost.live/play/zutv-827.php?c=362|User-agent=XCIPTV-v5.0.1
+#EXTINF:-1 group-title="Lista 01",24/7 Pokémon
+https://blackghost.live/play/zutv-827.php?c=363
+
+|User-agent=XCIPTV-v5.0.1
+#EXTINF:-1 group-title="Lista 01",ESPA: NATIONAL GEOGRAPHIC HD
+https://blackghost.live/play/zutv-827.php?c=41074|User-agent=XCIPTV-v5.0.1
+#EXTINF:-1 group-title="Lista 01",ESPA: NAT GEO WILD HD
+https://blackghost.live/play/zutv-827.php?c=41075|User-agent=XCIPTV-v5.0.1
+#EXTINF:-1 group-title="Lista 01",ESPA: MTV
+https://blackghost.live/play/zutv-827.php?c=41076|User-agent=XCIPTV-v5.0.1
+#EXTINF:-1 group-title="Lista 01",ESPA: MOTOGP
+https://blackghost.live/play/zutv-827.php?c=41077|User-agent=XCIPTV-v5.0.1
+#EXTINF:-1 group-title="Lista 01",ESPA: LIGA CAMPEONES
+https://blackghost.live/play/zutv-827.php?c=41078|User-agent=XCIPTV-v5.0.1
+#EXTINF:-1 group-title="Lista 01",ESPA: LA LIGA TV HD
+https://blackghost.live/play/zutv-827.php?c=41079|User-agent=XCIPTV-v5.0.1
+#EXTINF:-1 group-title="Lista 01",ESPA: HISTORIA HD
+https://blackghost.live/play/zutv-827.php?c=41080|User-agent=XCIPTV-v5.0.1
+#EXTINF:-1 group-title="Lista 01",ESPA: GOLTV
+https://blackghost.live/play/zutv-827.php?c=41081|User-agent=XCIPTV-v5.0.1
+#EXTINF:-1 group-title="Lista 01",ESPA: GOLF HD
+https://blackghost.live/play/zutv-827.php?c=41082|User-agent=XCIPTV-v5.0.1
+#EXTINF:-1 group-title="Lista 01",ESPA: FOX HD
+https://blackghost.live/play/zutv-827.php?c=41083|User-agent=XCIPTV-v5.0.1
+#EXTINF:-1 group-title="Lista 01",ESPA: EUROSPORT HD
+https://blackghost.live/play/zutv-827.php?c=41084|User-agent=XCIPTV-v5.0.1
+#EXTINF:-1 group-title="Lista 01",ESPA: ESTRENOS HD
+https://blackghost.live/play/zutv-827.php?c=41085|User-agent=XCIPTV-v5.0.1
+#EXTINF:-1 group-title="Lista 01",ESPA: DRAMA
+https://blackghost.live/play/zutv-827.php?c=41086|User-agent=XCIPTV-v5.0.1
+#EXTINF:-1 group-title="Lista 01",ESPA: DMAX
+https://blackghost.live/play/zutv-827.php?c=41087|User-agent=XCIPTV-v5.0.1
+#EXTINF:-1 group-title="Lista 01",ESPA: DEPORTES HD
+https://blackghost.live/play/zutv-827.php?c=41088|User-agent=XCIPTV-v5.0.1
+#EXTINF:-1 group-title="Lista 01",ESPA: COMEDIA HD
+https://blackghost.live/play/zutv-827.php?c=41089|User-agent=XCIPTV-v5.0.1
+#EXTINF:-1 group-title="Lista 01",ESPA: COCINA
+https://blackghost.live/play/zutv-827.php?c=41090|User-agent=XCIPTV-v5.0.1
+#EXTINF:-1 group-title="Lista 01",ESPA: CAZA Y PESCA
+https://blackghost.live/play/zutv-827.php?c=41091|User-agent=XCIPTV-v5.0.1
+#EXTINF:-1 group-title="Lista 01",ESPA: CALLE 13
+https://blackghost.live/play/zutv-827.php?c=41092|User-agent=XCIPTV-v5.0.1
+#EXTINF:-1 group-title="Lista 01",ESPA: BEIN SPORT HD
+https://blackghost.live/play/zutv-827.php?c=41093|User-agent=XCIPTV-v5.0.1
+#EXTINF:-1 group-title="Lista 01",ESPA: BEIN LA LIGA HD
+https://blackghost.live/play/zutv-827.php?c=41094|User-agent=XCIPTV-v5.0.1
+#EXTINF:-1 group-title="Lista 01",ESPA: AXN WHITE HD
+https://blackghost.live/play/zutv-827.php?c=41095|User-agent=XCIPTV-v5.0.1
+#EXTINF:-1 group-title="Lista 01",ESPA: AXN HD
+https://blackghost.live/play/zutv-827.php?c=41096|User-agent=XCIPTV-v5.0.1
+#EXTINF:-1 group-title="Lista 01",ESPA: ACCION HD
+https://blackghost.live/play/zutv-827.php?c=41097|User-agent=XCIPTV-v5.0.1
+#EXTINF:-1 group-title="Lista 01",ESPA: #V
+https://blackghost.live/play/zutv-827.php?c=41098|User-agent=XCIPTV-v5.0.1
+#EXTINF:-1 group-title="Lista 01",ESPA: #0 HD
+https://blackghost.live/play/zutv-827.php?c=41099|User-agent=XCIPTV-v5.0.1
+#EXTINF:-1 group-title="Lista 01",ESPA: VIAJAR HD
+https://blackghost.live/play/zutv-827.php?c=41100|User-agent=XCIPTV-v5.0.1
+#EXTINF:-1 group-title="Lista 01",ESPA: TCM HD
+https://blackghost.live/play/zutv-827.php?c=41101|User-agent=XCIPTV-v5.0.1
+#EXTINF:-1 group-title="Lista 01",ESPA: DOC&ROLL HD
+https://blackghost.live/play/zutv-827.php?c=41102|User-agent=XCIPTV-v5.0.1
+#EXTINF:-1 group-title="Lista 01",ESPA: A&E
+https://blackghost.live/play/zutv-827.php?c=41103|User-agent=XCIPTV-v5.0.1
+#EXTINF:-1 group-title="Lista 01",ESPA: HOLLYWOOD
+https://blackghost.live/play/zutv-827.php?c=41104|User-agent=XCIPTV-v5.0.1
+#EXTINF:-1 group-title="Lista 01",ESPA: Sky Sport Bundesliga 2 HD
+https://blackghost.live/play/zutv-827.php?c=41105|User-agent=XCIPTV-v5.0.1
+#EXTINF:-1 tvg-logo="https://i.imgur.com/L0zLsl9.png"  group-title="Lista 02",BLACKGHOST 02
+https://blackghost.live/TV&f=.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/3akxcS6.png" group-title="Lista 02", http://paypal.me/blackghost
+https://blackghost.live/TV&f=.m3u8
+
+
+
+#EXTINF:-1 group-title="Lista 02",A&E
+https://blackghost.live/play/megapro-827.php?c=1&token=LBZfvJ97nP&play=sonpro|User-Agent=sonpro
+#EXTINF:-1 group-title="Lista 02",AXN
+https://blackghost.live/play/megapro-827.php?c=2&token=LBZfvJ97nP&play=sonpro|User-Agent=sonpro
+#EXTINF:-1 group-title="Lista 02",Animal Planet
+https://blackghost.live/play/megapro-827.php?c=3&token=LBZfvJ97nP&play=sonpro|User-Agent=sonpro
+#EXTINF:-1 group-title="Lista 02",Az Corazon
+https://blackghost.live/play/megapro-827.php?c=4&token=LBZfvJ97nP&play=sonpro|User-Agent=sonpro
+#EXTINF:-1 group-title="Lista 02",Az Mundo
+https://blackghost.live/play/megapro-827.php?c=5&token=LBZfvJ97nP&play=sonpro|User-Agent=sonpro
+#EXTINF:-1 group-title="Lista 02",AMC
+https://blackghost.live/play/megapro-827.php?c=6&token=LBZfvJ97nP&play=sonpro|User-Agent=sonpro
+#EXTINF:-1 group-title="Lista 02",Antena 3 Internacional
+https://blackghost.live/play/megapro-827.php?c=7&token=LBZfvJ97nP&play=sonpro|User-Agent=sonpro
+#EXTINF:-1 group-title="Lista 02",BBC World
+https://blackghost.live/play/megapro-827.php?c=8&token=LBZfvJ97nP&play=sonpro|User-Agent=sonpro
+#EXTINF:-1 group-title="Lista 02",Baby TV
+https://blackghost.live/play/megapro-827.php?c=9&token=LBZfvJ97nP&play=sonpro|User-Agent=sonpro
+#EXTINF:-1 group-title="Lista 02",Bloomberg
+https://blackghost.live/play/megapro-827.php?c=10&token=LBZfvJ97nP&play=sonpro|User-Agent=sonpro
+#EXTINF:-1 group-title="Lista 02",CNN Espanol
+https://blackghost.live/play/megapro-827.php?c=11&token=LBZfvJ97nP&play=sonpro|User-Agent=sonpro
+#EXTINF:-1 group-title="Lista 02",CNN Internacional
+https://blackghost.live/play/megapro-827.php?c=12&token=LBZfvJ97nP&play=sonpro|User-Agent=sonpro
+#EXTINF:-1 group-title="Lista 02",Cable Noticias
+https://blackghost.live/play/megapro-827.php?c=13&token=LBZfvJ97nP&play=sonpro|User-Agent=sonpro
+#EXTINF:-1 group-title="Lista 02",Canal Claro
+https://blackghost.live/play/megapro-827.php?c=14&token=LBZfvJ97nP&play=sonpro|User-Agent=sonpro
+#EXTINF:-1 group-title="Lista 02",Caracol
+https://blackghost.live/play/megapro-827.php?c=16&token=LBZfvJ97nP&play=sonpro|User-Agent=sonpro
+#EXTINF:-1 group-title="Lista 02",Caracol Internacional
+https://blackghost.live/play/megapro-827.php?c=17&token=LBZfvJ97nP&play=sonpro|User-Agent=sonpro
+#EXTINF:-1 group-title="Lista 02",Cartoon Network
+https://blackghost.live/play/megapro-827.php?c=18&token=LBZfvJ97nP&play=sonpro|User-Agent=sonpro
+#EXTINF:-1 group-title="Lista 02",Cine Canal
+https://blackghost.live/play/megapro-827.php?c=19&token=LBZfvJ97nP&play=sonpro|User-Agent=sonpro
+#EXTINF:-1 group-title="Lista 02",Cine Latino
+https://blackghost.live/play/megapro-827.php?c=20&token=LBZfvJ97nP&play=sonpro|User-Agent=sonpro
+#EXTINF:-1 group-title="Lista 02",Cinema Dinamita
+https://blackghost.live/play/megapro-827.php?c=21&token=LBZfvJ97nP&play=sonpro|User-Agent=sonpro
+#EXTINF:-1 group-title="Lista 02",Cinema Plus
+https://blackghost.live/play/megapro-827.php?c=22&token=LBZfvJ97nP&play=sonpro|User-Agent=sonpro
+#EXTINF:-1 group-title="Lista 02",City TV
+https://blackghost.live/play/megapro-827.php?c=23&token=LBZfvJ97nP&play=sonpro|User-Agent=sonpro
+#EXTINF:-1 group-title="Lista 02",Claro Cinema
+https://blackghost.live/play/megapro-827.php?c=24&token=LBZfvJ97nP&play=sonpro|User-Agent=sonpro
+#EXTINF:-1 group-title="Lista 02",Claro Music 1
+https://blackghost.live/play/megapro-827.php?c=25&token=LBZfvJ97nP&play=sonpro|User-Agent=sonpro
+#EXTINF:-1 group-title="Lista 02",Claro Music 2
+https://blackghost.live/play/megapro-827.php?c=26&token=LBZfvJ97nP&play=sonpro|User-Agent=sonpro
+#EXTINF:-1 group-title="Lista 02",Claro Sports
+https://blackghost.live/play/megapro-827.php?c=27&token=LBZfvJ97nP&play=sonpro|User-Agent=sonpro
+#EXTINF:-1 group-title="Lista 02",Claro Sports Latinoamerica
+https://blackghost.live/play/megapro-827.php?c=28&token=LBZfvJ97nP&play=sonpro|User-Agent=sonpro
+#EXTINF:-1 group-title="Lista 02",Comedy Central
+https://blackghost.live/play/megapro-827.php?c=29&token=LBZfvJ97nP&play=sonpro|User-Agent=sonpro
+#EXTINF:-1 group-title="Lista 02",DHE
+https://blackghost.live/play/megapro-827.php?c=31&token=LBZfvJ97nP&play=sonpro|User-Agent=sonpro
+#EXTINF:-1 group-title="Lista 02",DW
+https://blackghost.live/play/megapro-827.php?c=32&token=LBZfvJ97nP&play=sonpro|User-Agent=sonpro
+#EXTINF:-1 group-title="Lista 02",Concert Channel
+https://blackghost.live/play/megapro-827.php?c=30&token=LBZfvJ97nP&play=sonpro|User-Agent=sonpro
+#EXTINF:-1 group-title="Lista 02",DW America
+https://blackghost.live/play/megapro-827.php?c=33&token=LBZfvJ97nP&play=sonpro|User-Agent=sonpro
+#EXTINF:-1 group-title="Lista 02",De Pelicula Plus
+https://blackghost.live/play/megapro-827.php?c=34&token=LBZfvJ97nP&play=sonpro|User-Agent=sonpro
+#EXTINF:-1 group-title="Lista 02",Discovery Channel
+https://blackghost.live/play/megapro-827.php?c=36&token=LBZfvJ97nP&play=sonpro|User-Agent=sonpro
+#EXTINF:-1 group-title="Lista 02",Discovery Home and Health
+https://blackghost.live/play/megapro-827.php?c=37&token=LBZfvJ97nP&play=sonpro|User-Agent=sonpro
+#EXTINF:-1 group-title="Lista 02",Discovery Kids
+https://blackghost.live/play/megapro-827.php?c=38&token=LBZfvJ97nP&play=sonpro|User-Agent=sonpro
+#EXTINF:-1 group-title="Lista 02",Discovery Science
+https://blackghost.live/play/megapro-827.php?c=39&token=LBZfvJ97nP&play=sonpro|User-Agent=sonpro
+#EXTINF:-1 group-title="Lista 02",Discovery Turbo
+https://blackghost.live/play/megapro-827.php?c=41&token=LBZfvJ97nP&play=sonpro|User-Agent=sonpro
+#EXTINF:-1 group-title="Lista 02",Discovery World
+https://blackghost.live/play/megapro-827.php?c=42&token=LBZfvJ97nP&play=sonpro|User-Agent=sonpro
+#EXTINF:-1 group-title="Lista 02",Discovery Theater
+https://blackghost.live/play/megapro-827.php?c=40&token=LBZfvJ97nP&play=sonpro|User-Agent=sonpro
+#EXTINF:-1 group-title="Lista 02",Disney
+https://blackghost.live/play/megapro-827.php?c=43&token=LBZfvJ97nP&play=sonpro|User-Agent=sonpro
+#EXTINF:-1 group-title="Lista 02",Disney JR
+https://blackghost.live/play/megapro-827.php?c=44&token=LBZfvJ97nP&play=sonpro|User-Agent=sonpro
+#EXTINF:-1 group-title="Lista 02",Disney XD
+https://blackghost.live/play/megapro-827.php?c=45&token=LBZfvJ97nP&play=sonpro|User-Agent=sonpro
+#EXTINF:-1 group-title="Lista 02",E !
+https://blackghost.live/play/megapro-827.php?c=46&token=LBZfvJ97nP&play=sonpro|User-Agent=sonpro
+#EXTINF:-1 group-title="Lista 02",El Gourmet
+https://blackghost.live/play/megapro-827.php?c=47&token=LBZfvJ97nP&play=sonpro|User-Agent=sonpro
+#EXTINF:-1 group-title="Lista 02",Mas Chic
+https://blackghost.live/play/megapro-827.php?c=48&token=LBZfvJ97nP&play=sonpro|User-Agent=sonpro
+#EXTINF:-1 group-title="Lista 02",MTV Hits
+https://blackghost.live/play/megapro-827.php?c=49&token=LBZfvJ97nP&play=sonpro|User-Agent=sonpro
+#EXTINF:-1 group-title="Lista 02",MTV
+https://blackghost.live/play/megapro-827.php?c=50&token=LBZfvJ97nP&play=sonpro|User-Agent=sonpro
+#EXTINF:-1 group-title="Lista 02",Lifetime
+https://blackghost.live/play/megapro-827.php?c=51&token=LBZfvJ97nP&play=sonpro|User-Agent=sonpro
+#EXTINF:-1 group-title="Lista 02",Investigation Discovery
+https://blackghost.live/play/megapro-827.php?c=52&token=LBZfvJ97nP&play=sonpro|User-Agent=sonpro
+#EXTINF:-1 group-title="Lista 02",I.Sat
+https://blackghost.live/play/megapro-827.php?c=53&token=LBZfvJ97nP&play=sonpro|User-Agent=sonpro
+#EXTINF:-1 group-title="Lista 02",Hola TV
+https://blackghost.live/play/megapro-827.php?c=54&token=LBZfvJ97nP&play=sonpro|User-Agent=sonpro
+#EXTINF:-1 group-title="Lista 02",H2
+https://blackghost.live/play/megapro-827.php?c=55&token=LBZfvJ97nP&play=sonpro|User-Agent=sonpro
+#EXTINF:-1 group-title="Lista 02",History Channel
+https://blackghost.live/play/megapro-827.php?c=56&token=LBZfvJ97nP&play=sonpro|User-Agent=sonpro
+#EXTINF:-1 group-title="Lista 02",HTV
+https://blackghost.live/play/megapro-827.php?c=57&token=LBZfvJ97nP&play=sonpro|User-Agent=sonpro
+#EXTINF:-1 group-title="Lista 02",HLN
+https://blackghost.live/play/megapro-827.php?c=58&token=LBZfvJ97nP&play=sonpro|User-Agent=sonpro
+#EXTINF:-1 group-title="Lista 02",HBO plus
+https://blackghost.live/play/megapro-827.php?c=59&token=LBZfvJ97nP&play=sonpro|User-Agent=sonpro
+#EXTINF:-1 group-title="Lista 02",HBO Subtitulado
+https://blackghost.live/play/megapro-827.php?c=60&token=LBZfvJ97nP&play=sonpro|User-Agent=sonpro
+#EXTINF:-1 group-title="Lista 02",HBO Signature
+https://blackghost.live/play/megapro-827.php?c=61&token=LBZfvJ97nP&play=sonpro|User-Agent=sonpro
+#EXTINF:-1 group-title="Lista 02",HBO Family
+https://blackghost.live/play/megapro-827.php?c=62&token=LBZfvJ97nP&play=sonpro|User-Agent=sonpro
+#EXTINF:-1 group-title="Lista 02",HBO 2
+https://blackghost.live/play/megapro-827.php?c=63&token=LBZfvJ97nP&play=sonpro|User-Agent=sonpro
+#EXTINF:-1 group-title="Lista 02",HBO
+https://blackghost.live/play/megapro-827.php?c=64&token=LBZfvJ97nP&play=sonpro|User-Agent=sonpro
+#EXTINF:-1 group-title="Lista 02",Golf Channel
+https://blackghost.live/play/megapro-827.php?c=65&token=LBZfvJ97nP&play=sonpro|User-Agent=sonpro
+#EXTINF:-1 group-title="Lista 02",Golden Premium
+https://blackghost.live/play/megapro-827.php?c=66&token=LBZfvJ97nP&play=sonpro|User-Agent=sonpro
+#EXTINF:-1 group-title="Lista 02",Golden
+https://blackghost.live/play/megapro-827.php?c=67&token=LBZfvJ97nP&play=sonpro|User-Agent=sonpro
+#EXTINF:-1 group-title="Lista 02",Glitz
+https://blackghost.live/play/megapro-827.php?c=68&token=LBZfvJ97nP&play=sonpro|User-Agent=sonpro
+#EXTINF:-1 group-title="Lista 02",Fx Movie Mex
+https://blackghost.live/play/megapro-827.php?c=69&token=LBZfvJ97nP&play=sonpro|User-Agent=sonpro
+#EXTINF:-1 group-title="Lista 02",France 24
+https://blackghost.live/play/megapro-827.php?c=71&token=LBZfvJ97nP&play=sonpro|User-Agent=sonpro
+#EXTINF:-1 group-title="Lista 02",Fox Sports 3 Sur
+https://blackghost.live/play/megapro-827.php?c=72&token=LBZfvJ97nP&play=sonpro|User-Agent=sonpro
+#EXTINF:-1 group-title="Lista 02",Fox Sports 2 MX
+https://blackghost.live/play/megapro-827.php?c=74&token=LBZfvJ97nP&play=sonpro|User-Agent=sonpro
+#EXTINF:-1 group-title="Lista 02",Fox Sports 2 Sur
+https://blackghost.live/play/megapro-827.php?c=75&token=LBZfvJ97nP&play=sonpro|User-Agent=sonpro
+#EXTINF:-1 group-title="Lista 02",Fox Sports 1 Sur
+https://blackghost.live/play/megapro-827.php?c=76&token=LBZfvJ97nP&play=sonpro|User-Agent=sonpro
+#EXTINF:-1 group-title="Lista 02",Fox Sports 1 MX
+https://blackghost.live/play/megapro-827.php?c=77&token=LBZfvJ97nP&play=sonpro|User-Agent=sonpro
+#EXTINF:-1 group-title="Lista 02",Fox Premium Series Subtitulado
+https://blackghost.live/play/megapro-827.php?c=78&token=LBZfvJ97nP&play=sonpro|User-Agent=sonpro
+#EXTINF:-1 group-title="Lista 02",Fox Premium Series
+https://blackghost.live/play/megapro-827.php?c=79&token=LBZfvJ97nP&play=sonpro|User-Agent=sonpro
+#EXTINF:-1 group-title="Lista 02",Fox News
+https://blackghost.live/play/megapro-827.php?c=80&token=LBZfvJ97nP&play=sonpro|User-Agent=sonpro
+#EXTINF:-1 group-title="Lista 02",Fox Premium Movies
+https://blackghost.live/play/megapro-827.php?c=81&token=LBZfvJ97nP&play=sonpro|User-Agent=sonpro
+#EXTINF:-1 group-title="Lista 02",Fox Life Mex
+https://blackghost.live/play/megapro-827.php?c=82&token=LBZfvJ97nP&play=sonpro|User-Agent=sonpro
+#EXTINF:-1 group-title="Lista 02",Fox Life
+https://blackghost.live/play/megapro-827.php?c=83&token=LBZfvJ97nP&play=sonpro|User-Agent=sonpro
+#EXTINF:-1 group-title="Lista 02",Fox Premium Family
+https://blackghost.live/play/megapro-827.php?c=84&token=LBZfvJ97nP&play=sonpro|User-Agent=sonpro
+#EXTINF:-1 group-title="Lista 02",Fox Premium Comedy
+https://blackghost.live/play/megapro-827.php?c=85&token=LBZfvJ97nP&play=sonpro|User-Agent=sonpro
+#EXTINF:-1 group-title="Lista 02",Fox Premium Classics
+https://blackghost.live/play/megapro-827.php?c=86&token=LBZfvJ97nP&play=sonpro|User-Agent=sonpro
+#EXTINF:-1 group-title="Lista 02",Fox Cinema Subtitulado
+https://blackghost.live/play/megapro-827.php?c=87&token=LBZfvJ97nP&play=sonpro|User-Agent=sonpro
+#EXTINF:-1 group-title="Lista 02",Fox Premium Cinema
+https://blackghost.live/play/megapro-827.php?c=88&token=LBZfvJ97nP&play=sonpro|User-Agent=sonpro
+#EXTINF:-1 group-title="Lista 02",Fox Premium Action MX
+https://blackghost.live/play/megapro-827.php?c=89&token=LBZfvJ97nP&play=sonpro|User-Agent=sonpro
+#EXTINF:-1 group-title="Lista 02",Fox Premium Action
+https://blackghost.live/play/megapro-827.php?c=90&token=LBZfvJ97nP&play=sonpro|User-Agent=sonpro
+#EXTINF:-1 group-title="Lista 02",Fox
+https://blackghost.live/play/megapro-827.php?c=91&token=LBZfvJ97nP&play=sonpro|User-Agent=sonpro
+#EXTINF:-1 group-title="Lista 02",FX
+https://blackghost.live/play/megapro-827.php?c=92&token=LBZfvJ97nP&play=sonpro|User-Agent=sonpro
+#EXTINF:-1 group-title="Lista 02",Euro Channel
+https://blackghost.live/play/megapro-827.php?c=93&token=LBZfvJ97nP&play=sonpro|User-Agent=sonpro
+#EXTINF:-1 group-title="Lista 02",Espn Plus Sur
+https://blackghost.live/play/megapro-827.php?c=94&token=LBZfvJ97nP&play=sonpro|User-Agent=sonpro
+#EXTINF:-1 group-title="Lista 02",Espn 3 Sur
+https://blackghost.live/play/megapro-827.php?c=95&token=LBZfvJ97nP&play=sonpro|User-Agent=sonpro
+#EXTINF:-1 group-title="Lista 02",Espn 2 Sur
+https://blackghost.live/play/megapro-827.php?c=96&token=LBZfvJ97nP&play=sonpro|User-Agent=sonpro
+#EXTINF:-1 group-title="Lista 02",Espn 1 Sur
+https://blackghost.live/play/megapro-827.php?c=97&token=LBZfvJ97nP&play=sonpro|User-Agent=sonpro
+#EXTINF:-1 group-title="Lista 02",Win Sports
+https://blackghost.live/play/megapro-827.php?c=98&token=LBZfvJ97nP&play=sonpro|User-Agent=sonpro
+#EXTINF:-1 group-title="Lista 02",Warner Channel
+https://blackghost.live/play/megapro-827.php?c=99&token=LBZfvJ97nP&play=sonpro|User-Agent=sonpro
+#EXTINF:-1 group-title="Lista 02",Vh1 Classic
+https://blackghost.live/play/megapro-827.php?c=100&token=LBZfvJ97nP&play=sonpro|User-Agent=sonpro
+#EXTINF:-1 group-title="Lista 02",Vh1
+https://blackghost.live/play/megapro-827.php?c=101&token=LBZfvJ97nP&play=sonpro|User-Agent=sonpro
+#EXTINF:-1 group-title="Lista 02",Univision
+https://blackghost.live/play/megapro-827.php?c=102&token=LBZfvJ97nP&play=sonpro|User-Agent=sonpro
+#EXTINF:-1 group-title="Lista 02",Universal Channel
+https://blackghost.live/play/megapro-827.php?c=103&token=LBZfvJ97nP&play=sonpro|User-Agent=sonpro
+#EXTINF:-1 group-title="Lista 02",Unicable
+https://blackghost.live/play/megapro-827.php?c=104&token=LBZfvJ97nP&play=sonpro|User-Agent=sonpro
+#EXTINF:-1 group-title="Lista 02",Tru TV
+https://blackghost.live/play/megapro-827.php?c=105&token=LBZfvJ97nP&play=sonpro|User-Agent=sonpro
+#EXTINF:-1 group-title="Lista 02",Tve
+https://blackghost.live/play/megapro-827.php?c=106&token=LBZfvJ97nP&play=sonpro|User-Agent=sonpro
+#EXTINF:-1 group-title="Lista 02",Tooncast
+https://blackghost.live/play/megapro-827.php?c=107&token=LBZfvJ97nP&play=sonpro|User-Agent=sonpro
+#EXTINF:-1 group-title="Lista 02",Telemundo
+https://blackghost.live/play/megapro-827.php?c=108&token=LBZfvJ97nP&play=sonpro|User-Agent=sonpro
+#EXTINF:-1 group-title="Lista 02",TNT Series
+https://blackghost.live/play/megapro-827.php?c=109&token=LBZfvJ97nP&play=sonpro|User-Agent=sonpro
+#EXTINF:-1 group-title="Lista 02",TNT
+https://blackghost.live/play/megapro-827.php?c=110&token=LBZfvJ97nP&play=sonpro|User-Agent=sonpro
+#EXTINF:-1 group-title="Lista 02",TLC
+https://blackghost.live/play/megapro-827.php?c=111&token=LBZfvJ97nP&play=sonpro|User-Agent=sonpro
+#EXTINF:-1 group-title="Lista 02",TCM
+https://blackghost.live/play/megapro-827.php?c=112&token=LBZfvJ97nP&play=sonpro|User-Agent=sonpro
+#EXTINF:-1 group-title="Lista 02",TBS
+https://blackghost.live/play/megapro-827.php?c=113&token=LBZfvJ97nP&play=sonpro|User-Agent=sonpro
+#EXTINF:-1 group-title="Lista 02",Sundance Channel
+https://blackghost.live/play/megapro-827.php?c=114&token=LBZfvJ97nP&play=sonpro|User-Agent=sonpro
+#EXTINF:-1 group-title="Lista 02",Studio Universal
+https://blackghost.live/play/megapro-827.php?c=115&token=LBZfvJ97nP&play=sonpro|User-Agent=sonpro
+#EXTINF:-1 group-title="Lista 02",Space
+https://blackghost.live/play/megapro-827.php?c=116&token=LBZfvJ97nP&play=sonpro|User-Agent=sonpro
+#EXTINF:-1 group-title="Lista 02",Sony
+https://blackghost.live/play/megapro-827.php?c=117&token=LBZfvJ97nP&play=sonpro|User-Agent=sonpro
+#EXTINF:-1 group-title="Lista 02",RCN Telenovelas
+https://blackghost.live/play/megapro-827.php?c=118&token=LBZfvJ97nP&play=sonpro|User-Agent=sonpro
+#EXTINF:-1 group-title="Lista 02",Pasiones
+https://blackghost.live/play/megapro-827.php?c=119&token=LBZfvJ97nP&play=sonpro|User-Agent=sonpro
+#EXTINF:-1 group-title="Lista 02",Paramount Channel
+https://blackghost.live/play/megapro-827.php?c=120&token=LBZfvJ97nP&play=sonpro|User-Agent=sonpro
+#EXTINF:-1 group-title="Lista 02",Nickelodeon
+https://blackghost.live/play/megapro-827.php?c=121&token=LBZfvJ97nP&play=sonpro|User-Agent=sonpro
+#EXTINF:-1 group-title="Lista 02",Nick Jr
+https://blackghost.live/play/megapro-827.php?c=122&token=LBZfvJ97nP&play=sonpro|User-Agent=sonpro
+#EXTINF:-1 group-title="Lista 02",Nick 2
+https://blackghost.live/play/megapro-827.php?c=123&token=LBZfvJ97nP&play=sonpro|User-Agent=sonpro
+#EXTINF:-1 group-title="Lista 02",Nat Geo Wild
+https://blackghost.live/play/megapro-827.php?c=124&token=LBZfvJ97nP&play=sonpro|User-Agent=sonpro
+#EXTINF:-1 group-title="Lista 02",Nat Geo Mex
+https://blackghost.live/play/megapro-827.php?c=125&token=LBZfvJ97nP&play=sonpro|User-Agent=sonpro
+#EXTINF:-1 group-title="Lista 02",Nat Geo Kids Mex
+https://blackghost.live/play/megapro-827.php?c=126&token=LBZfvJ97nP&play=sonpro|User-Agent=sonpro
+#EXTINF:-1 group-title="Lista 02",Nat Geo Kids
+https://blackghost.live/play/megapro-827.php?c=127&token=LBZfvJ97nP&play=sonpro|User-Agent=sonpro
+#EXTINF:-1 group-title="Lista 02",National Geographic Channel
+https://blackghost.live/play/megapro-827.php?c=128&token=LBZfvJ97nP&play=sonpro|User-Agent=sonpro
+#EXTINF:-1 group-title="Lista 02",Multipremier
+https://blackghost.live/play/megapro-827.php?c=129&token=LBZfvJ97nP&play=sonpro|User-Agent=sonpro
+#EXTINF:-1 group-title="Lista 02",Mtv Live
+https://blackghost.live/play/megapro-827.php?c=130&token=LBZfvJ97nP&play=sonpro|User-Agent=sonpro
+#EXTINF:-1 group-title="Lista 02",HBO Pop
+https://blackghost.live/play/megapro-827.php?c=131&token=LBZfvJ97nP&play=sonpro|User-Agent=sonpro
+#EXTINF:-1 group-title="Lista 02",HBO Xtreme
+https://blackghost.live/play/megapro-827.php?c=132&token=LBZfvJ97nP&play=sonpro|User-Agent=sonpro
+#EXTINF:-1 group-title="Lista 02",HBO Mundi
+https://blackghost.live/play/megapro-827.php?c=133&token=LBZfvJ97nP&play=sonpro|User-Agent=sonpro
+#EXTINF:-1 group-title="Lista 02",MX | Azteca 7
+https://blackghost.live/play/megapro-827.php?c=134&token=LBZfvJ97nP&play=sonpro|User-Agent=sonpro
+#EXTINF:-1 group-title="Lista 02",MX | Azteca Uno
+https://blackghost.live/play/megapro-827.php?c=135&token=LBZfvJ97nP&play=sonpro|User-Agent=sonpro
+#EXTINF:-1 group-title="Lista 02",MX | ADN 40
+https://blackghost.live/play/megapro-827.php?c=136&token=LBZfvJ97nP&play=sonpro|User-Agent=sonpro
+#EXTINF:-1 group-title="Lista 02",MX | Az Clic
+https://blackghost.live/play/megapro-827.php?c=139&token=LBZfvJ97nP&play=sonpro|User-Agent=sonpro
+#EXTINF:-1 group-title="Lista 02",MX | Az Cinema
+https://blackghost.live/play/megapro-827.php?c=140&token=LBZfvJ97nP&play=sonpro|User-Agent=sonpro
+#EXTINF:-1 group-title="Lista 02",MX | A3 Series
+https://blackghost.live/play/megapro-827.php?c=141&token=LBZfvJ97nP&play=sonpro|User-Agent=sonpro
+#EXTINF:-1 group-title="Lista 02",MX | Antena 3
+https://blackghost.live/play/megapro-827.php?c=142&token=LBZfvJ97nP&play=sonpro|User-Agent=sonpro
+#EXTINF:-1 group-title="Lista 02",MX | Aym Sports
+https://blackghost.live/play/megapro-827.php?c=143&token=LBZfvJ97nP&play=sonpro|User-Agent=sonpro
+#EXTINF:-1 group-title="Lista 02",MX | Canal 5
+https://blackghost.live/play/megapro-827.php?c=144&token=LBZfvJ97nP&play=sonpro|User-Agent=sonpro
+#EXTINF:-1 group-title="Lista 02",MX | Las Estrellas
+https://blackghost.live/play/megapro-827.php?c=145&token=LBZfvJ97nP&play=sonpro|User-Agent=sonpro
+#EXTINF:-1 group-title="Lista 02",MX | Galatv
+https://blackghost.live/play/megapro-827.php?c=146&token=LBZfvJ97nP&play=sonpro|User-Agent=sonpro
+#EXTINF:-1 group-title="Lista 02",MX | Foro TV
+https://blackghost.live/play/megapro-827.php?c=147&token=LBZfvJ97nP&play=sonpro|User-Agent=sonpro
+#EXTINF:-1 group-title="Lista 02",MX | Europa Europa
+https://blackghost.live/play/megapro-827.php?c=148&token=LBZfvJ97nP&play=sonpro|User-Agent=sonpro
+#EXTINF:-1 group-title="Lista 02",MX | Distrito Comedia
+https://blackghost.live/play/megapro-827.php?c=149&token=LBZfvJ97nP&play=sonpro|User-Agent=sonpro
+#EXTINF:-1 group-title="Lista 02",MX | Multimedios
+https://blackghost.live/play/megapro-827.php?c=150&token=LBZfvJ97nP&play=sonpro|User-Agent=sonpro
+#EXTINF:-1 group-title="Lista 02",MX | Televisa MTY
+https://blackghost.live/play/megapro-827.php?c=151&token=LBZfvJ97nP&play=sonpro|User-Agent=sonpro
+#EXTINF:-1 group-title="Lista 02",MX | Garage TV
+https://blackghost.live/play/megapro-827.php?c=152&token=LBZfvJ97nP&play=sonpro|User-Agent=sonpro
+#EXTINF:-1 group-title="Lista 02",MX | Congreso de la Unión
+https://blackghost.live/play/megapro-827.php?c=153&token=LBZfvJ97nP&play=sonpro|User-Agent=sonpro
+#EXTINF:-1 group-title="Lista 02",MX | Imagen TV
+https://blackghost.live/play/megapro-827.php?c=154&token=LBZfvJ97nP&play=sonpro|User-Agent=sonpro
+#EXTINF:-1 group-title="Lista 02",MX | Latin American Sports
+https://blackghost.live/play/megapro-827.php?c=155&token=LBZfvJ97nP&play=sonpro|User-Agent=sonpro
+#EXTINF:-1 group-title="Lista 02",MX | Teleritmo
+https://blackghost.live/play/megapro-827.php?c=156&token=LBZfvJ97nP&play=sonpro|User-Agent=sonpro
+#EXTINF:-1 group-title="Lista 02",MX | Milenio TV
+https://blackghost.live/play/megapro-827.php?c=157&token=LBZfvJ97nP&play=sonpro|User-Agent=sonpro
+#EXTINF:-1 group-title="Lista 02",MX | Espn Sec Network
+https://blackghost.live/play/megapro-827.php?c=158&token=LBZfvJ97nP&play=sonpro|User-Agent=sonpro
+#EXTINF:-1 group-title="Lista 02",MX | Espn U
+https://blackghost.live/play/megapro-827.php?c=159&token=LBZfvJ97nP&play=sonpro|User-Agent=sonpro
+#EXTINF:-1 group-title="Lista 02",MX | Espn Plus
+https://blackghost.live/play/megapro-827.php?c=160&token=LBZfvJ97nP&play=sonpro|User-Agent=sonpro
+#EXTINF:-1 group-title="Lista 02",MX | Espn
+https://blackghost.live/play/megapro-827.php?c=161&token=LBZfvJ97nP&play=sonpro|User-Agent=sonpro
+#EXTINF:-1 group-title="Lista 02",MX | Espn 2
+https://blackghost.live/play/megapro-827.php?c=162&token=LBZfvJ97nP&play=sonpro|User-Agent=sonpro
+#EXTINF:-1 group-title="Lista 02",MX | Fox Sports 3
+https://blackghost.live/play/megapro-827.php?c=165&token=LBZfvJ97nP&play=sonpro|User-Agent=sonpro
+#EXTINF:-1 group-title="Lista 02",MX | RT Noticias
+https://blackghost.live/play/megapro-827.php?c=166&token=LBZfvJ97nP&play=sonpro|User-Agent=sonpro
+#EXTINF:-1 group-title="Lista 02",MX | Espn 3
+https://blackghost.live/play/megapro-827.php?c=167&token=LBZfvJ97nP&play=sonpro|User-Agent=sonpro
+#EXTINF:-1 group-title="Lista 02",MX | RT en Espanol
+https://blackghost.live/play/megapro-827.php?c=168&token=LBZfvJ97nP&play=sonpro|User-Agent=sonpro
+#EXTINF:-1 group-title="Lista 02",MX | Tl Novelas
+https://blackghost.live/play/megapro-827.php?c=169&token=LBZfvJ97nP&play=sonpro|User-Agent=sonpro
+#EXTINF:-1 group-title="Lista 02",MX | A Plus
+https://blackghost.live/play/megapro-827.php?c=170&token=LBZfvJ97nP&play=sonpro|User-Agent=sonpro
+#EXTINF:-1 group-title="Lista 02",MX | Cinemax
+https://blackghost.live/play/megapro-827.php?c=171&token=LBZfvJ97nP&play=sonpro|User-Agent=sonpro
+#EXTINF:-1 group-title="Lista 02",MX | Nicktoons
+https://blackghost.live/play/megapro-827.php?c=172&token=LBZfvJ97nP&play=sonpro|User-Agent=sonpro
+#EXTINF:-1 group-title="Lista 02",MX | Bandamax
+https://blackghost.live/play/megapro-827.php?c=173&token=LBZfvJ97nP&play=sonpro|User-Agent=sonpro
+#EXTINF:-1 group-title="Lista 02",MX | Food Network
+https://blackghost.live/play/megapro-827.php?c=174&token=LBZfvJ97nP&play=sonpro|User-Agent=sonpro
+#EXTINF:-1 group-title="Lista 02",MX | Televisa Puebla
+https://blackghost.live/play/megapro-827.php?c=175&token=LBZfvJ97nP&play=sonpro|User-Agent=sonpro
+#EXTINF:-1 group-title="Lista 02",MX | Boomerang
+https://blackghost.live/play/megapro-827.php?c=176&token=LBZfvJ97nP&play=sonpro|User-Agent=sonpro
+#EXTINF:-1 group-title="Lista 02",MX | Ingenio TV
+https://blackghost.live/play/megapro-827.php?c=177&token=LBZfvJ97nP&play=sonpro|User-Agent=sonpro
+#EXTINF:-1 group-title="Lista 02",MX | Ritmoson
+https://blackghost.live/play/megapro-827.php?c=178&token=LBZfvJ97nP&play=sonpro|User-Agent=sonpro
+#EXTINF:-1 group-title="Lista 02",MX | Telehit
+https://blackghost.live/play/megapro-827.php?c=179&token=LBZfvJ97nP&play=sonpro|User-Agent=sonpro
+#EXTINF:-1 group-title="Lista 02",MX | TVC
+https://blackghost.live/play/megapro-827.php?c=180&token=LBZfvJ97nP&play=sonpro|User-Agent=sonpro
+#EXTINF:-1 group-title="Lista 02",MX | TVC Deportes
+https://blackghost.live/play/megapro-827.php?c=181&token=LBZfvJ97nP&play=sonpro|User-Agent=sonpro
+#EXTINF:-1 group-title="Lista 02",MX | Telefórmula
+https://blackghost.live/play/megapro-827.php?c=182&token=LBZfvJ97nP&play=sonpro|User-Agent=sonpro
+#EXTINF:-1 group-title="Lista 02",MX | Golden
+https://blackghost.live/play/megapro-827.php?c=183&token=LBZfvJ97nP&play=sonpro|User-Agent=sonpro
+#EXTINF:-1 group-title="Lista 02",MX | Golden Edge
+https://blackghost.live/play/megapro-827.php?c=184&token=LBZfvJ97nP&play=sonpro|User-Agent=sonpro
+#EXTINF:-1 group-title="Lista 02",Bein Sports
+https://blackghost.live/play/megapro-827.php?c=185&token=LBZfvJ97nP&play=sonpro|User-Agent=sonpro
+#EXTINF:-1 group-title="Lista 02",Directv Sports Plus
+https://blackghost.live/play/megapro-827.php?c=186&token=LBZfvJ97nP&play=sonpro|User-Agent=sonpro
+#EXTINF:-1 group-title="Lista 02",Directv Sports
+https://blackghost.live/play/megapro-827.php?c=187&token=LBZfvJ97nP&play=sonpro|User-Agent=sonpro
+#EXTINF:-1 group-title="Lista 02",Directv Sports 2
+https://blackghost.live/play/megapro-827.php?c=188&token=LBZfvJ97nP&play=sonpro|User-Agent=sonpro
+#EXTINF:-1 group-title="Lista 02",Univision UDN
+https://blackghost.live/play/megapro-827.php?c=189&token=LBZfvJ97nP&play=sonpro|User-Agent=sonpro
+#EXTINF:-1 group-title="Lista 02",Univision TDN
+https://blackghost.live/play/megapro-827.php?c=190&token=LBZfvJ97nP&play=sonpro|User-Agent=sonpro
+#EXTINF:-1 group-title="Lista 02",PE | TV Peru
+https://blackghost.live/play/megapro-827.php?c=191&token=LBZfvJ97nP&play=sonpro|User-Agent=sonpro
+#EXTINF:-1 group-title="Lista 02",PE | Peru Magico
+https://blackghost.live/play/megapro-827.php?c=192&token=LBZfvJ97nP&play=sonpro|User-Agent=sonpro
+#EXTINF:-1 group-title="Lista 02",PE | Panamericana
+https://blackghost.live/play/megapro-827.php?c=193&token=LBZfvJ97nP&play=sonpro|User-Agent=sonpro
+#EXTINF:-1 group-title="Lista 02",PE | Movistar Deportes
+https://blackghost.live/play/megapro-827.php?c=194&token=LBZfvJ97nP&play=sonpro|User-Agent=sonpro
+#EXTINF:-1 group-title="Lista 02",PE | Gol Peru
+https://blackghost.live/play/megapro-827.php?c=195&token=LBZfvJ97nP&play=sonpro|User-Agent=sonpro
+#EXTINF:-1 group-title="Lista 02",PE | Frecuencia Latina
+https://blackghost.live/play/megapro-827.php?c=196&token=LBZfvJ97nP&play=sonpro|User-Agent=sonpro
+#EXTINF:-1 group-title="Lista 02",COL | Trece
+https://blackghost.live/play/megapro-827.php?c=198&token=LBZfvJ97nP&play=sonpro|User-Agent=sonpro
+#EXTINF:-1 group-title="Lista 02",COL | RCN Internacional
+https://blackghost.live/play/megapro-827.php?c=200&token=LBZfvJ97nP&play=sonpro|User-Agent=sonpro
+#EXTINF:-1 group-title="Lista 02",COL | RCN
+https://blackghost.live/play/megapro-827.php?c=201&token=LBZfvJ97nP&play=sonpro|User-Agent=sonpro
+#EXTINF:-1 group-title="Lista 02",COL | NTN24
+https://blackghost.live/play/megapro-827.php?c=202&token=LBZfvJ97nP&play=sonpro|User-Agent=sonpro
+#EXTINF:-1 group-title="Lista 02",COL | Caracol 2
+https://blackghost.live/play/megapro-827.php?c=204&token=LBZfvJ97nP&play=sonpro|User-Agent=sonpro
+#EXTINF:-1 group-title="Lista 02",COL | Caracol
+https://blackghost.live/play/megapro-827.php?c=205&token=LBZfvJ97nP&play=sonpro|User-Agent=sonpro
+#EXTINF:-1 group-title="Lista 02",COL | Cable Noticias
+https://blackghost.live/play/megapro-827.php?c=210&token=LBZfvJ97nP&play=sonpro|User-Agent=sonpro
+#EXTINF:-1 group-title="Lista 02",CL | Fox Sports
+https://blackghost.live/play/megapro-827.php?c=211&token=LBZfvJ97nP&play=sonpro|User-Agent=sonpro
+#EXTINF:-1 group-title="Lista 02",CL | Chilevision
+https://blackghost.live/play/megapro-827.php?c=212&token=LBZfvJ97nP&play=sonpro|User-Agent=sonpro
+#EXTINF:-1 group-title="Lista 02",CL | CDO Premium
+https://blackghost.live/play/megapro-827.php?c=213&token=LBZfvJ97nP&play=sonpro|User-Agent=sonpro
+#EXTINF:-1 group-title="Lista 02",CL | CDO Basico
+https://blackghost.live/play/megapro-827.php?c=214&token=LBZfvJ97nP&play=sonpro|User-Agent=sonpro
+#EXTINF:-1 group-title="Lista 02",CL | CDF Premium
+https://blackghost.live/play/megapro-827.php?c=215&token=LBZfvJ97nP&play=sonpro|User-Agent=sonpro
+#EXTINF:-1 group-title="Lista 02",CL | CDF Basico
+https://blackghost.live/play/megapro-827.php?c=216&token=LBZfvJ97nP&play=sonpro|User-Agent=sonpro
+#EXTINF:-1 group-title="Lista 02",CL | CDF
+https://blackghost.live/play/megapro-827.php?c=217&token=LBZfvJ97nP&play=sonpro|User-Agent=sonpro
+#EXTINF:-1 group-title="Lista 02",AR | TNT Sports
+https://blackghost.live/play/megapro-827.php?c=219&token=LBZfvJ97nP&play=sonpro|User-Agent=sonpro
+#EXTINF:-1 group-title="Lista 02",Wobi
+https://blackghost.live/play/megapro-827.php?c=337&token=LBZfvJ97nP&play=sonpro|User-Agent=sonpro
+#EXTINF:-1 group-title="Lista 02",VH1 HD
+https://blackghost.live/play/megapro-827.php?c=336&token=LBZfvJ97nP&play=sonpro|User-Agent=sonpro
+#EXTINF:-1 group-title="Lista 02",Start TVE
+https://blackghost.live/play/megapro-827.php?c=335&token=LBZfvJ97nP&play=sonpro|User-Agent=sonpro
+#EXTINF:-1 group-title="Lista 02",TV Mas
+https://blackghost.live/play/megapro-827.php?c=334&token=LBZfvJ97nP&play=sonpro|User-Agent=sonpro
+#EXTINF:-1 group-title="Lista 02",MVS
+https://blackghost.live/play/megapro-827.php?c=333&token=LBZfvJ97nP&play=sonpro|User-Agent=sonpro
+#EXTINF:-1 group-title="Lista 02",Golden Plus
+https://blackghost.live/play/megapro-827.php?c=327&token=LBZfvJ97nP&play=sonpro|User-Agent=sonpro
+#EXTINF:-1 group-title="Lista 02",Discovery Civilization
+https://blackghost.live/play/megapro-827.php?c=325&token=LBZfvJ97nP&play=sonpro|User-Agent=sonpro
+#EXTINF:-1 group-title="Lista 02",De Pelicula
+https://blackghost.live/play/megapro-827.php?c=324&token=LBZfvJ97nP&play=sonpro|User-Agent=sonpro
+#EXTINF:-1 group-title="Lista 02",Gol TV Internacional
+https://blackghost.live/play/megapro-827.php?c=338&token=LBZfvJ97nP&play=sonpro|User-Agent=sonpro
+#EXTINF:-1 group-title="Lista 02",Tigo Sports 1
+https://blackghost.live/play/megapro-827.php?c=339&token=LBZfvJ97nP&play=sonpro|User-Agent=sonpro
+#EXTINF:-1 group-title="Lista 02",Tigo Sports py
+https://blackghost.live/play/megapro-827.php?c=340&token=LBZfvJ97nP&play=sonpro|User-Agent=sonpro
+#EXTINF:-1 group-title="Lista 02",Tigo Sports 3
+https://blackghost.live/play/megapro-827.php?c=341&token=LBZfvJ97nP&play=sonpro|User-Agent=sonpro
+#EXTINF:-1 group-title="Lista 02",Estrella tv
+https://blackghost.live/play/megapro-827.php?c=342&token=LBZfvJ97nP&play=sonpro|User-Agent=sonpro
+#EXTINF:-1 group-title="Lista 02",Bein sports ñ T
+https://blackghost.live/play/megapro-827.php?c=343&token=LBZfvJ97nP&play=sonpro|User-Agent=sonpro
+#EXTINF:-1 group-title="Lista 02",Euro Sports 1
+https://blackghost.live/play/megapro-827.php?c=344&token=LBZfvJ97nP&play=sonpro|User-Agent=sonpro
+#EXTINF:-1 group-title="Lista 02",Euro Sports 2
+https://blackghost.live/play/megapro-827.php?c=345&token=LBZfvJ97nP&play=sonpro|User-Agent=sonpro
+#EXTINF:-1 group-title="Lista 02",Fightbox
+https://blackghost.live/play/megapro-827.php?c=346&token=LBZfvJ97nP&play=sonpro|User-Agent=sonpro
+#EXTINF:-1 group-title="Lista 02",Fight Time
+https://blackghost.live/play/megapro-827.php?c=347&token=LBZfvJ97nP&play=sonpro|User-Agent=sonpro
+#EXTINF:-1 group-title="Lista 02",MLB Network
+https://blackghost.live/play/megapro-827.php?c=349&token=LBZfvJ97nP&play=sonpro|User-Agent=sonpro
+#EXTINF:-1 group-title="Lista 02",Motorsports TV
+https://blackghost.live/play/megapro-827.php?c=350&token=LBZfvJ97nP&play=sonpro|User-Agent=sonpro
+#EXTINF:-1 group-title="Lista 02",RedBull
+https://blackghost.live/play/megapro-827.php?c=351&token=LBZfvJ97nP&play=sonpro|User-Agent=sonpro
+#EXTINF:-1 group-title="Lista 02",Real Madrid tv
+https://blackghost.live/play/megapro-827.php?c=352&token=LBZfvJ97nP&play=sonpro|User-Agent=sonpro
+#EXTINF:-1 group-title="Lista 02",UFC TV
+https://blackghost.live/play/megapro-827.php?c=353&token=LBZfvJ97nP&play=sonpro|User-Agent=sonpro
+#EXTINF:-1 group-title="Lista 02",Bitme
+https://blackghost.live/play/megapro-827.php?c=354&token=LBZfvJ97nP&play=sonpro|User-Agent=sonpro
+#EXTINF:-1 group-title="Lista 02",Locomotion
+https://blackghost.live/play/megapro-827.php?c=355&token=LBZfvJ97nP&play=sonpro|User-Agent=sonpro
+#EXTINF:-1 group-title="Lista 02",movistar liga de Campeones
+https://blackghost.live/play/megapro-827.php?c=357&token=LBZfvJ97nP&play=sonpro|User-Agent=sonpro
+#EXTINF:-1 group-title="Lista 02",nueve mx
+https://blackghost.live/play/megapro-827.php?c=356&token=LBZfvJ97nP&play=sonpro|User-Agent=sonpro
+#EXTINF:-1 group-title="Lista 02",ISAT
+https://blackghost.live/play/megapro-827.php?c=369&token=LBZfvJ97nP&play=sonpro|User-Agent=sonpro
+#EXTINF:-1 group-title="Lista 02",Film&Arts
+https://blackghost.live/play/megapro-827.php?c=370&token=LBZfvJ97nP&play=sonpro|User-Agent=sonpro
+#EXTINF:-1 group-title="Lista 02",Syfy
+https://blackghost.live/play/megapro-827.php?c=371&token=LBZfvJ97nP&play=sonpro|User-Agent=sonpro
+#EXTINF:-1 group-title="Lista 02",Ultra Tainment
+https://blackghost.live/play/megapro-827.php?c=373&token=LBZfvJ97nP&play=sonpro|User-Agent=sonpro
+#EXTINF:-1 group-title="Lista 02",Win Sports+
+https://blackghost.live/play/megapro-827.php?c=374&token=LBZfvJ97nP&play=sonpro|User-Agent=sonpro
+#EXTINF:-1 group-title="Lista 02",MX | Las Estrellas -2
+https://blackghost.live/play/megapro-827.php?c=375&token=LBZfvJ97nP&play=sonpro|User-Agent=sonpro
+#EXTINF:-1 group-title="Lista 02",MX | EDUCA canal 1
+https://blackghost.live/play/megapro-827.php?c=376&token=LBZfvJ97nP&play=sonpro|User-Agent=sonpro
+#EXTINF:-1 group-title="Lista 02",MX | EDUCA canal 2
+https://blackghost.live/play/megapro-827.php?c=377&token=LBZfvJ97nP&play=sonpro|User-Agent=sonpro
+#EXTINF:-1 group-title="Lista 02",MX | EDUCA canal 3
+https://blackghost.live/play/megapro-827.php?c=378&token=LBZfvJ97nP&play=sonpro|User-Agent=sonpro
+#EXTINF:-1 group-title="Lista 02",MX | EDUCA canal 4
+https://blackghost.live/play/megapro-827.php?c=379&token=LBZfvJ97nP&play=sonpro|User-Agent=sonpro
+#EXTINF:-1 group-title="Lista 02",Canal Once
+https://blackghost.live/play/megapro-827.php?c=380&token=LBZfvJ97nP&play=sonpro|User-Agent=sonpro
+#EXTINF:-1 group-title="Lista 02",Once Niños
+https://blackghost.live/play/megapro-827.php?c=381&token=LBZfvJ97nP&play=sonpro|User-Agent=sonpro
+#EXTINF:-1 group-title="Lista 02",afizzionados
+https://blackghost.live/play/megapro-827.php?c=382&token=LBZfvJ97nP&play=sonpro|User-Agent=sonpro
+#EXTINF:-1 group-title="Lista 02",Fox Deportes
+https://blackghost.live/play/megapro-827.php?c=384&token=LBZfvJ97nP&play=sonpro|User-Agent=sonpro
+#EXTINF:-1 group-title="Lista 02",HGTV
+https://blackghost.live/play/megapro-827.php?c=385&token=LBZfvJ97nP&play=sonpro|User-Agent=sonpro
+#EXTINF:-1 group-title="Lista 02",Adrenalina
+https://blackghost.live/play/megapro-827.php?c=386&token=LBZfvJ97nP&play=sonpro|User-Agent=sonpro
+#EXTINF:-1 group-title="Lista 02",Lazy Town
+https://blackghost.live/play/megapro-827.php?c=235&token=LBZfvJ97nP&play=sonpro|User-Agent=sonpro
+#EXTINF:-1 group-title="Lista 02",Barnie y sus amigos
+https://blackghost.live/play/megapro-827.php?c=236&token=LBZfvJ97nP&play=sonpro|User-Agent=sonpro
+#EXTINF:-1 group-title="Lista 02",Dora la exploradora
+https://blackghost.live/play/megapro-827.php?c=237&token=LBZfvJ97nP&play=sonpro|User-Agent=sonpro
+#EXTINF:-1 group-title="Lista 02",PJ Masks
+https://blackghost.live/play/megapro-827.php?c=238&token=LBZfvJ97nP&play=sonpro|User-Agent=sonpro
+#EXTINF:-1 group-title="Lista 02",caillou
+https://blackghost.live/play/megapro-827.php?c=239&token=LBZfvJ97nP&play=sonpro|User-Agent=sonpro
+#EXTINF:-1 group-title="Lista 02",Jorge el Curioso
+https://blackghost.live/play/megapro-827.php?c=240&token=LBZfvJ97nP&play=sonpro|User-Agent=sonpro
+#EXTINF:-1 group-title="Lista 02",peppa pig
+https://blackghost.live/play/megapro-827.php?c=241&token=LBZfvJ97nP&play=sonpro|User-Agent=sonpro
+#EXTINF:-1 group-title="Lista 02",happy tree friends
+https://blackghost.live/play/megapro-827.php?c=242&token=LBZfvJ97nP&play=sonpro|User-Agent=sonpro
+#EXTINF:-1 group-title="Lista 02",Los picapiedras
+https://blackghost.live/play/megapro-827.php?c=243&token=LBZfvJ97nP&play=sonpro|User-Agent=sonpro
+#EXTINF:-1 group-title="Lista 02",Le temes a la oscuridad
+https://blackghost.live/play/megapro-827.php?c=244&token=LBZfvJ97nP&play=sonpro|User-Agent=sonpro
+#EXTINF:-1 group-title="Lista 02",Pantera Rosa 80s
+https://blackghost.live/play/megapro-827.php?c=245&token=LBZfvJ97nP&play=sonpro|User-Agent=sonpro
+#EXTINF:-1 group-title="Lista 02",Correcaminos
+https://blackghost.live/play/megapro-827.php?c=246&token=LBZfvJ97nP&play=sonpro|User-Agent=sonpro
+#EXTINF:-1 group-title="Lista 02",Power Rangers
+https://blackghost.live/play/megapro-827.php?c=247&token=LBZfvJ97nP&play=sonpro|User-Agent=sonpro
+#EXTINF:-1 group-title="Lista 02",Cuentos Hermanos Grimm
+https://blackghost.live/play/megapro-827.php?c=248&token=LBZfvJ97nP&play=sonpro|User-Agent=sonpro
+#EXTINF:-1 group-title="Lista 02",Robotech
+https://blackghost.live/play/megapro-827.php?c=249&token=LBZfvJ97nP&play=sonpro|User-Agent=sonpro
+#EXTINF:-1 group-title="Lista 02",Estrenos 2018
+https://blackghost.live/play/megapro-827.php?c=250&token=LBZfvJ97nP&play=sonpro|User-Agent=sonpro
+#EXTINF:-1 group-title="Lista 02",El Chapulin Colorado
+https://blackghost.live/play/megapro-827.php?c=251&token=LBZfvJ97nP&play=sonpro|User-Agent=sonpro
+#EXTINF:-1 group-title="Lista 02",Death Note
+https://blackghost.live/play/megapro-827.php?c=252&token=LBZfvJ97nP&play=sonpro|User-Agent=sonpro
+#EXTINF:-1 group-title="Lista 02",CSI Miami
+https://blackghost.live/play/megapro-827.php?c=253&token=LBZfvJ97nP&play=sonpro|User-Agent=sonpro
+#EXTINF:-1 group-title="Lista 02",Alf
+https://blackghost.live/play/megapro-827.php?c=254&token=LBZfvJ97nP&play=sonpro|User-Agent=sonpro
+#EXTINF:-1 group-title="Lista 02",X-men 90s
+https://blackghost.live/play/megapro-827.php?c=255&token=LBZfvJ97nP&play=sonpro|User-Agent=sonpro
+#EXTINF:-1 group-title="Lista 02",Vete a la Versh
+https://blackghost.live/play/megapro-827.php?c=256&token=LBZfvJ97nP&play=sonpro|User-Agent=sonpro
+#EXTINF:-1 group-title="Lista 02",The Walking Dead
+https://blackghost.live/play/megapro-827.php?c=257&token=LBZfvJ97nP&play=sonpro|User-Agent=sonpro
+#EXTINF:-1 group-title="Lista 02",Super campeones
+https://blackghost.live/play/megapro-827.php?c=258&token=LBZfvJ97nP&play=sonpro|User-Agent=sonpro
+#EXTINF:-1 group-title="Lista 02",strangerthings
+https://blackghost.live/play/megapro-827.php?c=259&token=LBZfvJ97nP&play=sonpro|User-Agent=sonpro
+#EXTINF:-1 group-title="Lista 02",Spiderman 80s
+https://blackghost.live/play/megapro-827.php?c=260&token=LBZfvJ97nP&play=sonpro|User-Agent=sonpro
+#EXTINF:-1 group-title="Lista 02",Sounth Park
+https://blackghost.live/play/megapro-827.php?c=261&token=LBZfvJ97nP&play=sonpro|User-Agent=sonpro
+#EXTINF:-1 group-title="Lista 02",Smallville
+https://blackghost.live/play/megapro-827.php?c=262&token=LBZfvJ97nP&play=sonpro|User-Agent=sonpro
+#EXTINF:-1 group-title="Lista 02",Shera
+https://blackghost.live/play/megapro-827.php?c=263&token=LBZfvJ97nP&play=sonpro|User-Agent=sonpro
+#EXTINF:-1 group-title="Lista 02",Señor de los cielos
+https://blackghost.live/play/megapro-827.php?c=264&token=LBZfvJ97nP&play=sonpro|User-Agent=sonpro
+#EXTINF:-1 group-title="Lista 02",Sailormoon
+https://blackghost.live/play/megapro-827.php?c=265&token=LBZfvJ97nP&play=sonpro|User-Agent=sonpro
+#EXTINF:-1 group-title="Lista 02",Pokemon
+https://blackghost.live/play/megapro-827.php?c=266&token=LBZfvJ97nP&play=sonpro|User-Agent=sonpro
+#EXTINF:-1 group-title="Lista 02",Pinky y Cerebro
+https://blackghost.live/play/megapro-827.php?c=267&token=LBZfvJ97nP&play=sonpro|User-Agent=sonpro
+#EXTINF:-1 group-title="Lista 02",Peliculas Terror
+https://blackghost.live/play/megapro-827.php?c=268&token=LBZfvJ97nP&play=sonpro|User-Agent=sonpro
+#EXTINF:-1 group-title="Lista 02",Pablo Escobar
+https://blackghost.live/play/megapro-827.php?c=269&token=LBZfvJ97nP&play=sonpro|User-Agent=sonpro
+#EXTINF:-1 group-title="Lista 02",Naruto
+https://blackghost.live/play/megapro-827.php?c=270&token=LBZfvJ97nP&play=sonpro|User-Agent=sonpro
+#EXTINF:-1 group-title="Lista 02",Mazinger Z
+https://blackghost.live/play/megapro-827.php?c=271&token=LBZfvJ97nP&play=sonpro|User-Agent=sonpro
+#EXTINF:-1 group-title="Lista 02",Malcolm el de enmedio
+https://blackghost.live/play/megapro-827.php?c=272&token=LBZfvJ97nP&play=sonpro|User-Agent=sonpro
+#EXTINF:-1 group-title="Lista 02",Luis Miguel
+https://blackghost.live/play/megapro-827.php?c=273&token=LBZfvJ97nP&play=sonpro|User-Agent=sonpro
+#EXTINF:-1 group-title="Lista 02",Lucha Libre AAA
+https://blackghost.live/play/megapro-827.php?c=274&token=LBZfvJ97nP&play=sonpro|User-Agent=sonpro
+#EXTINF:-1 group-title="Lista 02",Los Thundercats
+https://blackghost.live/play/megapro-827.php?c=275&token=LBZfvJ97nP&play=sonpro|User-Agent=sonpro
+#EXTINF:-1 group-title="Lista 02",Los Simpsons
+https://blackghost.live/play/megapro-827.php?c=276&token=LBZfvJ97nP&play=sonpro|User-Agent=sonpro
+#EXTINF:-1 group-title="Lista 02",La Rosa de Guadalupe
+https://blackghost.live/play/megapro-827.php?c=277&token=LBZfvJ97nP&play=sonpro|User-Agent=sonpro
+#EXTINF:-1 group-title="Lista 02",Heman
+https://blackghost.live/play/megapro-827.php?c=278&token=LBZfvJ97nP&play=sonpro|User-Agent=sonpro
+#EXTINF:-1 group-title="Lista 02",Game Of Throne
+https://blackghost.live/play/megapro-827.php?c=279&token=LBZfvJ97nP&play=sonpro|User-Agent=sonpro
+#EXTINF:-1 group-title="Lista 02",Futurama
+https://blackghost.live/play/megapro-827.php?c=280&token=LBZfvJ97nP&play=sonpro|User-Agent=sonpro
+#EXTINF:-1 group-title="Lista 02",Dragon Ball Z
+https://blackghost.live/play/megapro-827.php?c=281&token=LBZfvJ97nP&play=sonpro|User-Agent=sonpro
+#EXTINF:-1 group-title="Lista 02",Dragon Ball Super
+https://blackghost.live/play/megapro-827.php?c=282&token=LBZfvJ97nP&play=sonpro|User-Agent=sonpro
+#EXTINF:-1 group-title="Lista 02",Dragon Ball GT
+https://blackghost.live/play/megapro-827.php?c=283&token=LBZfvJ97nP&play=sonpro|User-Agent=sonpro
+#EXTINF:-1 group-title="Lista 02",Dragon ball
+https://blackghost.live/play/megapro-827.php?c=284&token=LBZfvJ97nP&play=sonpro|User-Agent=sonpro
+#EXTINF:-1 group-title="Lista 02",Dinosaurios
+https://blackghost.live/play/megapro-827.php?c=285&token=LBZfvJ97nP&play=sonpro|User-Agent=sonpro
+#EXTINF:-1 group-title="Lista 02",Coraje el perro cobarde
+https://blackghost.live/play/megapro-827.php?c=286&token=LBZfvJ97nP&play=sonpro|User-Agent=sonpro
+#EXTINF:-1 group-title="Lista 02",Años Maravillosos
+https://blackghost.live/play/megapro-827.php?c=287&token=LBZfvJ97nP&play=sonpro|User-Agent=sonpro
+#EXTINF:-1 group-title="Lista 02",La casa de papel
+https://blackghost.live/play/megapro-827.php?c=288&token=LBZfvJ97nP&play=sonpro|User-Agent=sonpro
+#EXTINF:-1 group-title="Lista 02",El chema
+https://blackghost.live/play/megapro-827.php?c=289&token=LBZfvJ97nP&play=sonpro|User-Agent=sonpro
+#EXTINF:-1 group-title="Lista 02",El chavo
+https://blackghost.live/play/megapro-827.php?c=290&token=LBZfvJ97nP&play=sonpro|User-Agent=sonpro
+#EXTINF:-1 group-title="Lista 02",caballerosdel zodiaco
+https://blackghost.live/play/megapro-827.php?c=291&token=LBZfvJ97nP&play=sonpro|User-Agent=sonpro
+#EXTINF:-1 group-title="Lista 02",Breaking bad
+https://blackghost.live/play/megapro-827.php?c=292&token=LBZfvJ97nP&play=sonpro|User-Agent=sonpro
+#EXTINF:-1 group-title="Lista 02",Bob Esponja 24/7
+https://blackghost.live/play/megapro-827.php?c=293&token=LBZfvJ97nP&play=sonpro|User-Agent=sonpro
+#EXTINF:-1 tvg-logo="https://i.imgur.com/L0zLsl9.png"  group-title="Lista 03",BLACKGHOST 03
+https://blackghost.live/TV&f=.ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/3akxcS6.png" group-title="Lista 03", http://paypal.me/blackghost
+https://blackghost.live/TV&f=.ts
+
+
+#EXTINF:-1 group-title="Lista 03",24/7 POWER RANGERS
+https://blackghost.live/play/zufree-827.php?c=303
+#EXTINF:-1 group-title="Lista 03",24/7 ROBOTECH
+https://blackghost.live/play/zufree-827.php?c=304
+#EXTINF:-1 group-title="Lista 03",24/7 SAILOR MOON
+https://blackghost.live/play/zufree-827.php?c=305
+#EXTINF:-1 group-title="Lista 03",24/7  LOS SIMPSON-
+https://blackghost.live/play/zufree-827.php?c=307
+#EXTINF:-1 group-title="Lista 03",24/7 SMALLVILLE
+https://blackghost.live/play/zufree-827.php?c=308
+#EXTINF:-1 group-title="Lista 03",24/7  SOUTH PARK
+https://blackghost.live/play/zufree-827.php?c=309
+#EXTINF:-1 group-title="Lista 03",24/7 SPIDER-MAN
+https://blackghost.live/play/zufree-827.php?c=310
+#EXTINF:-1 group-title="Lista 03",24/7 STRANGER THINGS
+https://blackghost.live/play/zufree-827.php?c=311
+#EXTINF:-1 group-title="Lista 03",24/7 SUPER CAMPEONES
+https://blackghost.live/play/zufree-827.php?c=312
+#EXTINF:-1 group-title="Lista 03",24/7 Peliculas de terror
+https://blackghost.live/play/zufree-827.php?c=313
+#EXTINF:-1 group-title="Lista 03",24/7 THUNDERCAST
+https://blackghost.live/play/zufree-827.php?c=314
+#EXTINF:-1 group-title="Lista 03",24/7  THE WALKING DEAD
+https://blackghost.live/play/zufree-827.php?c=315
+#EXTINF:-1 group-title="Lista 03",24/7 BARNY Y SUS AMIGOS
+https://blackghost.live/play/zufree-827.php?c=316
+#EXTINF:-1 group-title="Lista 03",24/7 BOB ESPONJA
+https://blackghost.live/play/zufree-827.php?c=317
+#EXTINF:-1 group-title="Lista 03",24/7  CAILLOU
+https://blackghost.live/play/zufree-827.php?c=318
+#EXTINF:-1 group-title="Lista 03",24/7 EL COYOTE Y CORRE CAMINOS
+https://blackghost.live/play/zufree-827.php?c=319
+#EXTINF:-1 group-title="Lista 03",24/7 DESAFIO SOBRE FUEGO LATIN AMERICA
+https://blackghost.live/play/zufree-827.php?c=320
+#EXTINF:-1 group-title="Lista 03",24/7 HAPPY TREE FRIENDS
+https://blackghost.live/play/zufree-827.php?c=321
+#EXTINF:-1 group-title="Lista 03",24/7 LA RISA EN VACIONES
+https://blackghost.live/play/zufree-827.php?c=322
+#EXTINF:-1 group-title="Lista 03",24/7 LAZY TOWN
+https://blackghost.live/play/zufree-827.php?c=323
+#EXTINF:-1 group-title="Lista 03",24/7 LA PANTERA ROSA
+https://blackghost.live/play/zufree-827.php?c=325
+#EXTINF:-1 group-title="Lista 03",24/7 PEPPA PIG
+https://blackghost.live/play/zufree-827.php?c=326
+#EXTINF:-1 group-title="Lista 03",24/7 LA HORA PICO
+https://blackghost.live/play/zufree-827.php?c=327
+#EXTINF:-1 group-title="Lista 03",24/7 HÉROES EN PIJAMAS
+https://blackghost.live/play/zufree-827.php?c=328
+#EXTINF:-1 group-title="Lista 03",24/7 Shark Tank México TEP 2
+https://blackghost.live/play/zufree-827.php?c=329
+#EXTINF:-1 group-title="Lista 03",24/7 Shark Tank México TEP 1
+https://blackghost.live/play/zufree-827.php?c=330
+#EXTINF:-1 group-title="Lista 03",24/7 XMEN ANIME
+https://blackghost.live/play/zufree-827.php?c=331
+#EXTINF:-1 group-title="Lista 03",24/7 BREAKING  BAD
+https://blackghost.live/play/zufree-827.php?c=332
+#EXTINF:-1 group-title="Lista 03",24/7 CABALLEROS DEL ZODIACO
+https://blackghost.live/play/zufree-827.php?c=333
+#EXTINF:-1 group-title="Lista 03",24/7 LA CASA DE PAPEL
+https://blackghost.live/play/zufree-827.php?c=334
+#EXTINF:-1 group-title="Lista 03",24/7 EL CHAVO DEL 8
+https://blackghost.live/play/zufree-827.php?c=335
+#EXTINF:-1 group-title="Lista 03",24/7 EL CHEMA
+https://blackghost.live/play/zufree-827.php?c=336
+#EXTINF:-1 group-title="Lista 03",24/7 EL SEÑOR DE LOS CIELOS
+https://blackghost.live/play/zufree-827.php?c=337
+#EXTINF:-1 group-title="Lista 03",24/7  CORAJE EL PERRO COBARDE
+https://blackghost.live/play/zufree-827.php?c=338
+#EXTINF:-1 group-title="Lista 03",24/7 CSI: MIAMI
+https://blackghost.live/play/zufree-827.php?c=339
+#EXTINF:-1 group-title="Lista 03",24/7  CUENTRO GREEM
+https://blackghost.live/play/zufree-827.php?c=340
+#EXTINF:-1 group-title="Lista 03",24/7 DRAGON BALL SUPER
+https://blackghost.live/play/zufree-827.php?c=341
+#EXTINF:-1 group-title="Lista 03",24/7 ALF
+https://blackghost.live/play/zufree-827.php?c=342
+#EXTINF:-1 group-title="Lista 03",24/7 SHERA
+https://blackghost.live/play/zufree-827.php?c=343
+#EXTINF:-1 group-title="Lista 03",24/7  DINOSAURIOS 1991
+https://blackghost.live/play/zufree-827.php?c=344
+#EXTINF:-1 group-title="Lista 03",24/7  DRAGON BALL 1984
+https://blackghost.live/play/zufree-827.php?c=345
+#EXTINF:-1 group-title="Lista 03",24/7 DRAGON BALL GT 1996
+https://blackghost.live/play/zufree-827.php?c=346
+#EXTINF:-1 group-title="Lista 03",24/7 DRAGON BALL Z 1989
+https://blackghost.live/play/zufree-827.php?c=347
+#EXTINF:-1 group-title="Lista 03",24/7 EL CHAPULIN COLORADO
+https://blackghost.live/play/zufree-827.php?c=348
+#EXTINF:-1 group-title="Lista 03",24/7 EL PATRON DEL MAL 
+https://blackghost.live/play/zufree-827.php?c=349
+#EXTINF:-1 group-title="Lista 03",24/7 PELICULAS ESTRENOS 2018
+https://blackghost.live/play/zufree-827.php?c=350
+#EXTINF:-1 group-title="Lista 03",24/7 FUTURAMA 1999
+https://blackghost.live/play/zufree-827.php?c=351
+#EXTINF:-1 group-title="Lista 03",24/7 JUEGO DE TRONOS
+https://blackghost.live/play/zufree-827.php?c=352
+#EXTINF:-1 group-title="Lista 03",24/7 He-Man
+https://blackghost.live/play/zufree-827.php?c=353
+#EXTINF:-1 group-title="Lista 03",24/7 LA ROSA DE GUADALUPE
+https://blackghost.live/play/zufree-827.php?c=354
+#EXTINF:-1 group-title="Lista 03",24/7 LOS LOCOS ADDAMS
+https://blackghost.live/play/zufree-827.php?c=355
+#EXTINF:-1 group-title="Lista 03",24/7 LA FAMILIA MONSTERS 1964
+https://blackghost.live/play/zufree-827.php?c=356
+#EXTINF:-1 group-title="Lista 03",24/7 LUIS MIGUEL LA SERIE 2018
+https://blackghost.live/play/zufree-827.php?c=357
+#EXTINF:-1 group-title="Lista 03",24/7 Malcolm in the middle 2000
+https://blackghost.live/play/zufree-827.php?c=358
+#EXTINF:-1 group-title="Lista 03",24/7 AÑOS MARAVILLOSOS 1988
+https://blackghost.live/play/zufree-827.php?c=359
+#EXTINF:-1 group-title="Lista 03",24/7 Mazinger Z
+https://blackghost.live/play/zufree-827.php?c=360
+#EXTINF:-1 group-title="Lista 03",24/7 Naruto
+https://blackghost.live/play/zufree-827.php?c=361
+#EXTINF:-1 group-title="Lista 03",24/7 PINKY y CEREBRO
+https://blackghost.live/play/zufree-827.php?c=362
+#EXTINF:-1 group-title="Lista 03",24/7 Pokémon
+https://blackghost.live/play/zufree-827.php?c=363
+
+
+#EXTINF:-1 group-title="Lista 03",ESPA: NATIONAL GEOGRAPHIC HD
+https://blackghost.live/play/zufree-827.php?c=41074
+#EXTINF:-1 group-title="Lista 03",ESPA: NAT GEO WILD HD
+https://blackghost.live/play/zufree-827.php?c=41075
+#EXTINF:-1 group-title="Lista 03",ESPA: MTV
+https://blackghost.live/play/zufree-827.php?c=41076
+#EXTINF:-1 group-title="Lista 03",ESPA: MOTOGP
+https://blackghost.live/play/zufree-827.php?c=41077
+#EXTINF:-1 group-title="Lista 03",ESPA: LIGA CAMPEONES
+https://blackghost.live/play/zufree-827.php?c=41078
+#EXTINF:-1 group-title="Lista 03",ESPA: LA LIGA TV HD
+https://blackghost.live/play/zufree-827.php?c=41079
+#EXTINF:-1 group-title="Lista 03",ESPA: HISTORIA HD
+https://blackghost.live/play/zufree-827.php?c=41080
+#EXTINF:-1 group-title="Lista 03",ESPA: GOLTV
+https://blackghost.live/play/zufree-827.php?c=41081
+#EXTINF:-1 group-title="Lista 03",ESPA: GOLF HD
+https://blackghost.live/play/zufree-827.php?c=41082
+#EXTINF:-1 group-title="Lista 03",ESPA: FOX HD
+https://blackghost.live/play/zufree-827.php?c=41083
+#EXTINF:-1 group-title="Lista 03",ESPA: EUROSPORT HD
+https://blackghost.live/play/zufree-827.php?c=41084
+#EXTINF:-1 group-title="Lista 03",ESPA: ESTRENOS HD
+https://blackghost.live/play/zufree-827.php?c=41085
+#EXTINF:-1 group-title="Lista 03",ESPA: DRAMA
+https://blackghost.live/play/zufree-827.php?c=41086
+#EXTINF:-1 group-title="Lista 03",ESPA: DMAX
+https://blackghost.live/play/zufree-827.php?c=41087
+#EXTINF:-1 group-title="Lista 03",ESPA: DEPORTES HD
+https://blackghost.live/play/zufree-827.php?c=41088
+#EXTINF:-1 group-title="Lista 03",ESPA: COMEDIA HD
+https://blackghost.live/play/zufree-827.php?c=41089
+#EXTINF:-1 group-title="Lista 03",ESPA: COCINA
+https://blackghost.live/play/zufree-827.php?c=41090
+#EXTINF:-1 group-title="Lista 03",ESPA: CAZA Y PESCA
+https://blackghost.live/play/zufree-827.php?c=41091
+#EXTINF:-1 group-title="Lista 03",ESPA: CALLE 13
+https://blackghost.live/play/zufree-827.php?c=41092
+#EXTINF:-1 group-title="Lista 03",ESPA: BEIN SPORT HD
+https://blackghost.live/play/zufree-827.php?c=41093
+#EXTINF:-1 group-title="Lista 03",ESPA: BEIN LA LIGA HD
+https://blackghost.live/play/zufree-827.php?c=41094
+#EXTINF:-1 group-title="Lista 03",ESPA: AXN WHITE HD
+https://blackghost.live/play/zufree-827.php?c=41095
+#EXTINF:-1 group-title="Lista 03",ESPA: AXN HD
+https://blackghost.live/play/zufree-827.php?c=41096
+#EXTINF:-1 group-title="Lista 03",ESPA: ACCION HD
+https://blackghost.live/play/zufree-827.php?c=41097
+#EXTINF:-1 group-title="Lista 03",ESPA: #V
+https://blackghost.live/play/zufree-827.php?c=41098
+#EXTINF:-1 group-title="Lista 03",ESPA: #0 HD
+https://blackghost.live/play/zufree-827.php?c=41099
+#EXTINF:-1 group-title="Lista 03",ESPA: VIAJAR HD
+https://blackghost.live/play/zufree-827.php?c=41100
+#EXTINF:-1 group-title="Lista 03",ESPA: TCM HD
+https://blackghost.live/play/zufree-827.php?c=41101
+#EXTINF:-1 group-title="Lista 03",ESPA: DOC&ROLL HD
+https://blackghost.live/play/zufree-827.php?c=41102
+#EXTINF:-1 group-title="Lista 03",ESPA: A&E
+https://blackghost.live/play/zufree-827.php?c=41103
+#EXTINF:-1 group-title="Lista 03",ESPA: HOLLYWOOD
+https://blackghost.live/play/zufree-827.php?c=41104
+#EXTINF:-1 group-title="Lista 03",ESPA: Sky Sport Bundesliga 2 HD
+https://blackghost.live/play/zufree-827.php?c=41105
+#EXTINF:-1 group-title="Lista 03",DEPORTES: TUDN MEXICO 
+https://blackghost.live/play/zufree-827.php?c=40968
+#EXTINF:-1 group-title="Lista 03",CANAL 5 MX SD
+https://blackghost.live/play/zufree-827.php?c=40969
+#EXTINF:-1 group-title="Lista 03",LAS ESTRELLAS
+https://blackghost.live/play/zufree-827.php?c=40970
+#EXTINF:-1 group-title="Lista 03",BEIN ESPORT SD  
+https://blackghost.live/play/zufree-827.php?c=40971
+#EXTINF:-1 group-title="Lista 03",CartoonNetwork
+https://blackghost.live/play/zufree-827.php?c=40972
+#EXTINF:-1 group-title="Lista 03",FoxSports3 SD 
+https://blackghost.live/play/zufree-827.php?c=40976
+#EXTINF:-1 group-title="Lista 03",Estrella TV
+https://blackghost.live/play/zufree-827.php?c=40977
+#EXTINF:-1 group-title="Lista 03",FoxSport1 SD
+https://blackghost.live/play/zufree-827.php?c=40978
+#EXTINF:-1 group-title="Lista 03",HBO SD 
+https://blackghost.live/play/zufree-827.php?c=40979
+#EXTINF:-1 group-title="Lista 03",UNIVISION SD   
+https://blackghost.live/play/zufree-827.php?c=40980
+#EXTINF:-1 group-title="Lista 03",Canal FOX Mexico SD
+https://blackghost.live/play/zufree-827.php?c=40981
+#EXTINF:-1 group-title="Lista 03",FX Latin SD
+https://blackghost.live/play/zufree-827.php?c=40982
+#EXTINF:-1 group-title="Lista 03",SD: A&E LATINO
+https://blackghost.live/play/zufree-827.php?c=40983
+#EXTINF:-1 group-title="Lista 03",SD: FOX_LIFE
+https://blackghost.live/play/zufree-827.php?c=40984
+#EXTINF:-1 group-title="Lista 03",SD: TBS
+https://blackghost.live/play/zufree-827.php?c=40985
+#EXTINF:-1 group-title="Lista 03",SD: SYFY 
+https://blackghost.live/play/zufree-827.php?c=40986
+#EXTINF:-1 group-title="Lista 03",SD: AXN
+https://blackghost.live/play/zufree-827.php?c=40988
+#EXTINF:-1 group-title="Lista 03",SD: UNIVERSAL
+https://blackghost.live/play/zufree-827.php?c=40989
+#EXTINF:-1 group-title="Lista 03",SD: Warner
+https://blackghost.live/play/zufree-827.php?c=40990
+#EXTINF:-1 group-title="Lista 03",SD: SONY
+https://blackghost.live/play/zufree-827.php?c=40991
+#EXTINF:-1 group-title="Lista 03",SD: STUDIO UNIVERSAL
+https://blackghost.live/play/zufree-827.php?c=40992
+#EXTINF:-1 group-title="Lista 03",SD: TNT SERIES 
+https://blackghost.live/play/zufree-827.php?c=40993
+#EXTINF:-1 group-title="Lista 03",SD: E!
+https://blackghost.live/play/zufree-827.php?c=40994
+#EXTINF:-1 group-title="Lista 03",SD: COMEDY CENTRAL
+https://blackghost.live/play/zufree-827.php?c=40995
+#EXTINF:-1 group-title="Lista 03",SD: HISTORY CHANNEL  
+https://blackghost.live/play/zufree-827.php?c=40996
+#EXTINF:-1 group-title="Lista 03",SD: NATIONAL GEOGRAPHIC
+https://blackghost.live/play/zufree-827.php?c=40997
+#EXTINF:-1 group-title="Lista 03",SD: DISCOVERY CHANNEL 
+https://blackghost.live/play/zufree-827.php?c=40998
+#EXTINF:-1 group-title="Lista 03",SD: ANIMAL PLANET
+https://blackghost.live/play/zufree-827.php?c=41000
+#EXTINF:-1 group-title="Lista 03",SD: NICK JR
+https://blackghost.live/play/zufree-827.php?c=41001
+#EXTINF:-1 group-title="Lista 03",SD: DISCOVERY KIDS
+https://blackghost.live/play/zufree-827.php?c=41002
+#EXTINF:-1 group-title="Lista 03",SD: DISNEY JUNIOR
+https://blackghost.live/play/zufree-827.php?c=41003
+#EXTINF:-1 group-title="Lista 03",SD: NICKELODEON
+https://blackghost.live/play/zufree-827.php?c=41004
+#EXTINF:-1 group-title="Lista 03",SD: DISNEY XD
+https://blackghost.live/play/zufree-827.php?c=41005
+#EXTINF:-1 group-title="Lista 03",SD: DISNEY CHANNEL
+https://blackghost.live/play/zufree-827.php?c=41006
+#EXTINF:-1 group-title="Lista 03",SD Fox Sports 2
+https://blackghost.live/play/zufree-827.php?c=41007
+#EXTINF:-1 group-title="Lista 03",SD: ESPN 3
+https://blackghost.live/play/zufree-827.php?c=41008
+#EXTINF:-1 group-title="Lista 03",SD: ESPN 2
+https://blackghost.live/play/zufree-827.php?c=41009
+#EXTINF:-1 group-title="Lista 03",SD: ESPN
+https://blackghost.live/play/zufree-827.php?c=41010
+#EXTINF:-1 group-title="Lista 03",SD: CLARO SPORT
+https://blackghost.live/play/zufree-827.php?c=41011
+#EXTINF:-1 group-title="Lista 03",SD: HolaTv
+https://blackghost.live/play/zufree-827.php?c=41012
+#EXTINF:-1 group-title="Lista 03",SD: TNT
+https://blackghost.live/play/zufree-827.php?c=41014
+#EXTINF:-1 group-title="Lista 03",SD: HBO2
+https://blackghost.live/play/zufree-827.php?c=41015
+#EXTINF:-1 group-title="Lista 03",SD: HBO Family
+https://blackghost.live/play/zufree-827.php?c=41016
+#EXTINF:-1 group-title="Lista 03",SD: FOX FAMILY
+https://blackghost.live/play/zufree-827.php?c=41017
+#EXTINF:-1 group-title="Lista 03",SD: MAX PRIME
+https://blackghost.live/play/zufree-827.php?c=41018
+#EXTINF:-1 group-title="Lista 03",SD: BabyTvLAT America
+https://blackghost.live/play/zufree-827.php?c=41019
+#EXTINF:-1 group-title="Lista 03",BOORMERANG MEXICO
+https://blackghost.live/play/zufree-827.php?c=41020
+#EXTINF:-1 group-title="Lista 03",SD: NBC SPORT
+https://blackghost.live/play/zufree-827.php?c=41021
+#EXTINF:-1 group-title="Lista 03",SD: NatGeoKids
+https://blackghost.live/play/zufree-827.php?c=41022
+#EXTINF:-1 group-title="Lista 03",ESPN DEPORTES
+https://blackghost.live/play/zufree-827.php?c=41023
+#EXTINF:-1 group-title="Lista 03",SD: TUDN
+https://blackghost.live/play/zufree-827.php?c=41024
+#EXTINF:-1 group-title="Lista 03",SD: UNICABLE
+https://blackghost.live/play/zufree-827.php?c=41025
+#EXTINF:-1 group-title="Lista 03",SD: SPACEMEXICO
+https://blackghost.live/play/zufree-827.php?c=41027
+#EXTINF:-1 group-title="Lista 03",SD: MTV HITLIST
+https://blackghost.live/play/zufree-827.php?c=41028
+#EXTINF:-1 group-title="Lista 03",SD: MTVLA
+https://blackghost.live/play/zufree-827.php?c=41029
+#EXTINF:-1 group-title="Lista 03",SD: VH1
+https://blackghost.live/play/zufree-827.php?c=41030
+#EXTINF:-1 group-title="Lista 03",SD: VROLA
+https://blackghost.live/play/zufree-827.php?c=41031
+#EXTINF:-1 group-title="Lista 03",SD: TELEMUNDO
+https://blackghost.live/play/zufree-827.php?c=41032
+#EXTINF:-1 group-title="Lista 03",SD: FOODN
+https://blackghost.live/play/zufree-827.php?c=41033
+#EXTINF:-1 group-title="Lista 03",SD: DISCOVERY FAMILY
+https://blackghost.live/play/zufree-827.php?c=41034
+#EXTINF:-1 group-title="Lista 03",SD: BRAVO TV
+https://blackghost.live/play/zufree-827.php?c=41035
+#EXTINF:-1 group-title="Lista 03",SD: CNN
+https://blackghost.live/play/zufree-827.php?c=41036
+#EXTINF:-1 group-title="Lista 03",RealExtreme
+https://blackghost.live/play/zufree-827.php?c=41038
+#EXTINF:-1 group-title="Lista 03",Brazzers TV
+https://blackghost.live/play/zufree-827.php?c=41039
+#EXTINF:-1 group-title="Lista 03",TEN
+https://blackghost.live/play/zufree-827.php?c=41040
+#EXTINF:-1 group-title="Lista 03",RK
+https://blackghost.live/play/zufree-827.php?c=41041
+#EXTINF:-1 group-title="Lista 03",Hustler TV
+https://blackghost.live/play/zufree-827.php?c=41042
+#EXTINF:-1 group-title="Lista 03",XTSY
+https://blackghost.live/play/zufree-827.php?c=41043
+#EXTINF:-1 group-title="Lista 03",Playboy TV
+https://blackghost.live/play/zufree-827.php?c=41044
+#EXTINF:-1 group-title="Lista 03",Venus
+https://blackghost.live/play/zufree-827.php?c=41045
+#EXTINF:-1 group-title="Lista 03",Sextreme
+https://blackghost.live/play/zufree-827.php?c=41046
+#EXTINF:-1 group-title="Lista 03",SD: ATRES
+https://blackghost.live/play/zufree-827.php?c=41047
+#EXTINF:-1 group-title="Lista 03",SD: AZTECA 7
+https://blackghost.live/play/zufree-827.php?c=41048
+#EXTINF:-1 group-title="Lista 03",SD: IMAGEN
+https://blackghost.live/play/zufree-827.php?c=41049
+#EXTINF:-1 group-title="Lista 03",FORO TV
+https://blackghost.live/play/zufree-827.php?c=41050
+#EXTINF:-1 group-title="Lista 03",SD: CANAL 22
+https://blackghost.live/play/zufree-827.php?c=41051
+#EXTINF:-1 group-title="Lista 03",SD: ONCETVMEXICO
+https://blackghost.live/play/zufree-827.php?c=41053
+#EXTINF:-1 group-title="Lista 03",INGENIO TV
+https://blackghost.live/play/zufree-827.php?c=41054
+#EXTINF:-1 group-title="Lista 03",Sky Sport Bundesliga 1 HD
+https://blackghost.live/play/zufree-827.php?c=41055
+#EXTINF:-1 group-title="Lista 03",FORMULA 1
+https://blackghost.live/play/zufree-827.php?c=41056
+#EXTINF:-1 group-title="Lista 03",ESPA: CUATRO
+https://blackghost.live/play/zufree-827.php?c=41057
+#EXTINF:-1 group-title="Lista 03",ESPA: TELECINCO
+https://blackghost.live/play/zufree-827.php?c=41058
+#EXTINF:-1 group-title="Lista 03",ESPA: Antena 3
+https://blackghost.live/play/zufree-827.php?c=41059
+#EXTINF:-1 group-title="Lista 03",ESPA: EUROSPORT 2
+https://blackghost.live/play/zufree-827.php?c=41060
+#EXTINF:-1 group-title="Lista 03",ESPA: CRIME&INVESTIGATION
+https://blackghost.live/play/zufree-827.php?c=41061
+#EXTINF:-1 group-title="Lista 03",ESPA: COMEDY CENTRAL
+https://blackghost.live/play/zufree-827.php?c=41062
+#EXTINF:-1 group-title="Lista 03",ESPA: AMC
+https://blackghost.live/play/zufree-827.php?c=41063
+#EXTINF:-1 group-title="Lista 03",ESPA: TOROS HD
+https://blackghost.live/play/zufree-827.php?c=41064
+#EXTINF:-1 group-title="Lista 03",ESPA: TNT
+https://blackghost.live/play/zufree-827.php?c=41065
+#EXTINF:-1 group-title="Lista 03",ESPA: TAQ 6
+https://blackghost.live/play/zufree-827.php?c=41066
+#EXTINF:-1 group-title="Lista 03",ESPA: TAQ 5
+https://blackghost.live/play/zufree-827.php?c=41067
+#EXTINF:-1 group-title="Lista 03",ESPA: TAQ 4
+https://blackghost.live/play/zufree-827.php?c=41068
+#EXTINF:-1 group-title="Lista 03",ESPA: TAQ 3
+https://blackghost.live/play/zufree-827.php?c=41069
+#EXTINF:-1 group-title="Lista 03",ESPA: TAQ 2
+https://blackghost.live/play/zufree-827.php?c=41070
+#EXTINF:-1 group-title="Lista 03",ESPA: TAQ 1
+https://blackghost.live/play/zufree-827.php?c=41071
+#EXTINF:-1 group-title="Lista 03",ESPA: SYFY HD
+https://blackghost.live/play/zufree-827.php?c=41072
+#EXTINF:-1 group-title="Lista 03",ESPA: SERIES HD
+https://blackghost.live/play/zufree-827.php?c=41073
+
+#EXTINF:-1 group-title="Lista 03",SD: UNIVERSO
+https://blackghost.live/play/zufree-827.php?c=41452
+#EXTINF:-1 group-title="Lista 03",US: HBO EAST
+https://blackghost.live/play/zufree-827.php?c=41453
+#EXTINF:-1 group-title="Lista 03",US: HBO 2
+https://blackghost.live/play/zufree-827.php?c=41454
+#EXTINF:-1 group-title="Lista 03",US: HBO COMEDY
+https://blackghost.live/play/zufree-827.php?c=41455
+#EXTINF:-1 group-title="Lista 03",US: HBO FAMILY
+https://blackghost.live/play/zufree-827.php?c=41456
+#EXTINF:-1 group-title="Lista 03",US: HBO SIGNATURE
+https://blackghost.live/play/zufree-827.php?c=41457
+#EXTINF:-1 group-title="Lista 03",US: HBO PLUS
+https://blackghost.live/play/zufree-827.php?c=41458
+#EXTINF:-1 group-title="Lista 03",US: HBO WEST
+https://blackghost.live/play/zufree-827.php?c=41459
+#EXTINF:-1 group-title="Lista 03",US: HBO ZONE
+https://blackghost.live/play/zufree-827.php?c=41460
+#EXTINF:-1 group-title="Lista 03",fox sport 1
+https://blackghost.live/play/zufree-827.php?c=41461
+#EXTINF:-1 group-title="Lista 03",MLB
+https://blackghost.live/play/zufree-827.php?c=41463
+#EXTINF:-1 group-title="Lista 03",NBA
+https://blackghost.live/play/zufree-827.php?c=41464
+#EXTINF:-1 group-title="Lista 03",WAPA
+https://blackghost.live/play/zufree-827.php?c=41465
+#EXTINF:-1 group-title="Lista 03",REALMADRID
+https://blackghost.live/play/zufree-827.php?c=41466
+#EXTINF:-1 group-title="Lista 03",FOX SPORT 3
+https://blackghost.live/play/zufree-827.php?c=41467
+#EXTINF:-1 group-title="Lista 03",ESPN 1
+https://blackghost.live/play/zufree-827.php?c=41468
+#EXTINF:-1 group-title="Lista 03",ESPN EXTRA
+https://blackghost.live/play/zufree-827.php?c=41469
+#EXTINF:-1 group-title="Lista 03",ESPN 2
+https://blackghost.live/play/zufree-827.php?c=41470
+#EXTINF:-1 group-title="Lista 03",Multimediosmty
+https://blackghost.live/play/zufree-827.php?c=41471
+#EXTINF:-1 group-title="Lista 03",EL FINANCIERO
+https://blackghost.live/play/zufree-827.php?c=41472
+#EXTINF:-1 group-title="Lista 03",DW
+https://blackghost.live/play/zufree-827.php?c=41473
+#EXTINF:-1 group-title="Lista 03",AMC
+https://blackghost.live/play/zufree-827.php?c=41474
+#EXTINF:-1 group-title="Lista 03",CINEMAX
+https://blackghost.live/play/zufree-827.php?c=41475
+#EXTINF:-1 group-title="Lista 03",CINECANAL
+https://blackghost.live/play/zufree-827.php?c=41476
+#EXTINF:-1 group-title="Lista 03",FXM
+https://blackghost.live/play/zufree-827.php?c=41477
+#EXTINF:-1 group-title="Lista 03",CINELATINO
+https://blackghost.live/play/zufree-827.php?c=41478
+#EXTINF:-1 group-title="Lista 03",ISAT
+https://blackghost.live/play/zufree-827.php?c=41479
+#EXTINF:-1 group-title="Lista 03",PARAMOOUNT
+https://blackghost.live/play/zufree-827.php?c=41480
+#EXTINF:-1 group-title="Lista 03",START LIFE
+https://blackghost.live/play/zufree-827.php?c=41481
+#EXTINF:-1 group-title="Lista 03",PASIONES
+https://blackghost.live/play/zufree-827.php?c=41482
+#EXTINF:-1 group-title="Lista 03",GOLDEN
+https://blackghost.live/play/zufree-827.php?c=41483
+#EXTINF:-1 group-title="Lista 03",GOLDEN PREMIER
+https://blackghost.live/play/zufree-827.php?c=41484
+#EXTINF:-1 group-title="Lista 03",STAR ACCION
+https://blackghost.live/play/zufree-827.php?c=41485
+#EXTINF:-1 group-title="Lista 03",FOXCINEMA
+https://blackghost.live/play/zufree-827.php?c=41486
+#EXTINF:-1 group-title="Lista 03",FOXCLASSICS
+https://blackghost.live/play/zufree-827.php?c=41487
+#EXTINF:-1 group-title="Lista 03",foxFamily
+https://blackghost.live/play/zufree-827.php?c=41488
+#EXTINF:-1 group-title="Lista 03",FOX MOVIES
+https://blackghost.live/play/zufree-827.php?c=41489
+#EXTINF:-1 group-title="Lista 03",FOXSERIES
+https://blackghost.live/play/zufree-827.php?c=41490
+#EXTINF:-1 group-title="Lista 03",HBO
+https://blackghost.live/play/zufree-827.php?c=41491
+#EXTINF:-1 group-title="Lista 03",HBOPlus
+https://blackghost.live/play/zufree-827.php?c=41492
+#EXTINF:-1 group-title="Lista 03",AZTECA 1
+https://blackghost.live/play/zufree-827.php?c=41493
+#EXTINF:-1 group-title="Lista 03",AZMUNDO
+https://blackghost.live/play/zufree-827.php?c=41494
+#EXTINF:-1 group-title="Lista 03",LIFETIME
+https://blackghost.live/play/zufree-827.php?c=41495
+#EXTINF:-1 group-title="Lista 03",UNICABLE
+https://blackghost.live/play/zufree-827.php?c=41496
+#EXTINF:-1 group-title="Lista 03",9603UNIMW
+https://blackghost.live/play/zufree-827.php?c=41497
+#EXTINF:-1 group-title="Lista 03",GALAVISION
+https://blackghost.live/play/zufree-827.php?c=41498
+#EXTINF:-1 group-title="Lista 03",MC
+https://blackghost.live/play/zufree-827.php?c=41500
+#EXTINF:-1 group-title="Lista 03",MultiPremiere
+https://blackghost.live/play/zufree-827.php?c=41501
+#EXTINF:-1 group-title="Lista 03",TL PR
+https://blackghost.live/play/zufree-827.php?c=41502
+#EXTINF:-1 group-title="Lista 03",UNIVISION PR
+https://blackghost.live/play/zufree-827.php?c=41503
+#EXTINF:-1 group-title="Lista 03",TOONCAST
+https://blackghost.live/play/zufree-827.php?c=41504
+#EXTINF:-1 tvg-logo="https://i.imgur.com/L0zLsl9.png"  group-title="Lista 04",BLACKGHOST 04
+https://blackghost.live/TV&f=.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/3akxcS6.png" group-title="Lista 04", http://paypal.me/blackghost
+
+
+
+#EXTM3U
+#EXTINF:-1  group-title="Lista 04",| Afizzionados HD MX 1 DEP
+http://daletvplay.xyz:8080/9ThR5zqwvN/XPHBz4lboa/83559
+#EXTINF:-1  group-title="Lista 04",| Bein Sports 1 HD - USA | DEP
+http://daletvplay.xyz:8080/9ThR5zqwvN/XPHBz4lboa/83560
+#EXTINF:-1  group-title="Lista 04",| Bein Sports 2 HD - USA | DEP
+http://daletvplay.xyz:8080/9ThR5zqwvN/XPHBz4lboa/83561
+#EXTINF:-1  group-title="Lista 04",| Bein Sports 4 HD - USA | DEP
+http://daletvplay.xyz:8080/9ThR5zqwvN/XPHBz4lboa/83562
+#EXTINF:-1  group-title="Lista 04",| Bein Sports 5 HD - USA | DEP
+http://daletvplay.xyz:8080/9ThR5zqwvN/XPHBz4lboa/83563
+#EXTINF:-1  group-title="Lista 04",| Bein Sports 6 HD - USA | DEP
+http://daletvplay.xyz:8080/9ThR5zqwvN/XPHBz4lboa/83564
+#EXTINF:-1  group-title="Lista 04",| Bein Sports 7 HD - USA | DEP
+http://daletvplay.xyz:8080/9ThR5zqwvN/XPHBz4lboa/83565
+#EXTINF:-1  group-title="Lista 04",| Bein Sports HQ - CA | DEP
+http://daletvplay.xyz:8080/9ThR5zqwvN/XPHBz4lboa/83566
+#EXTINF:-1  group-title="Lista 04",| Cdo Basico | DEP
+http://daletvplay.xyz:8080/9ThR5zqwvN/XPHBz4lboa/86492
+#EXTINF:-1  group-title="Lista 04",| Cdo Premium | DEP
+http://daletvplay.xyz:8080/9ThR5zqwvN/XPHBz4lboa/86303
+#EXTINF:-1  group-title="Lista 04",| Claro Sports FHD - CO | DEP
+http://daletvplay.xyz:8080/9ThR5zqwvN/XPHBz4lboa/83567
+#EXTINF:-1  group-title="Lista 04",| Directv + HD |  DEP
+http://daletvplay.xyz:8080/9ThR5zqwvN/XPHBz4lboa/87209
+#EXTINF:-1  group-title="Lista 04",| Directv Sports + HD - CL \u00a9 | DEP
+http://daletvplay.xyz:8080/9ThR5zqwvN/XPHBz4lboa/83585
+#EXTINF:-1  group-title="Lista 04",| Directv Sports 2  HD - ARG | DEP
+http://daletvplay.xyz:8080/9ThR5zqwvN/XPHBz4lboa/83575
+#EXTINF:-1  group-title="Lista 04",| Directv Sports 2 HD (UNICO) | DEP
+http://daletvplay.xyz:8080/9ThR5zqwvN/XPHBz4lboa/83839
+#EXTINF:-1  group-title="Lista 04",| Directv Sports HD  - PE \u00a9 | DEP
+http://daletvplay.xyz:8080/9ThR5zqwvN/XPHBz4lboa/83568
+#EXTINF:-1  group-title="Lista 04",| Directv Sports HD (UNICO) | DEP
+http://daletvplay.xyz:8080/9ThR5zqwvN/XPHBz4lboa/83840
+#EXTINF:-1  group-title="Lista 04",| Directv Sports SD - CL \u00a9 | DEP
+http://daletvplay.xyz:8080/9ThR5zqwvN/XPHBz4lboa/83570
+#EXTINF:-1  group-title="Lista 04",| Directv Sports SD - COL | DEP
+http://daletvplay.xyz:8080/9ThR5zqwvN/XPHBz4lboa/83574
+#EXTINF:-1  group-title="Lista 04",| ESPN chile HD | DEP
+http://daletvplay.xyz:8080/9ThR5zqwvN/XPHBz4lboa/83283
+#EXTINF:-1  group-title="Lista 04",| ESPN chile 2 HD | DEP
+http://daletvplay.xyz:8080/9ThR5zqwvN/XPHBz4lboa/85494
+#EXTINF:-1  group-title="Lista 04",| ESPN chile 2 FULL HD | DEP
+http://daletvplay.xyz:8080/9ThR5zqwvN/XPHBz4lboa/92630
+#EXTINF:-1  group-title="Lista 04",| ESPN 2 Argentina HD | DEP
+http://daletvplay.xyz:8080/9ThR5zqwvN/XPHBz4lboa/83787
+#EXTINF:-1  group-title="Lista 04",| ESPN 2 FHD MX | DEP
+http://daletvplay.xyz:8080/9ThR5zqwvN/XPHBz4lboa/83588
+#EXTINF:-1  group-title="Lista 04",| ESPN 2 FHD Sur | DEP
+http://daletvplay.xyz:8080/9ThR5zqwvN/XPHBz4lboa/83589
+#EXTINF:-1  group-title="Lista 04",| ESPN 2 HD - CL \u00a9 | DEP
+http://daletvplay.xyz:8080/9ThR5zqwvN/XPHBz4lboa/83590
+#EXTINF:-1  group-title="Lista 04",| ESPN 2 HD Sur | DEP
+http://daletvplay.xyz:8080/9ThR5zqwvN/XPHBz4lboa/83591
+#EXTINF:-1  group-title="Lista 04",| ESPN 2 SD MX | DEP
+http://daletvplay.xyz:8080/9ThR5zqwvN/XPHBz4lboa/83592
+#EXTINF:-1  group-title="Lista 04",| ESPN 2 SD Sur | DEP
+http://daletvplay.xyz:8080/9ThR5zqwvN/XPHBz4lboa/83593
+#EXTINF:-1  group-title="Lista 04",| ESPN 3 FHD MX | DEP
+http://daletvplay.xyz:8080/9ThR5zqwvN/XPHBz4lboa/83594
+#EXTINF:-1  group-title="Lista 04",| ESPN 3 FHD Sur | DEP
+http://daletvplay.xyz:8080/9ThR5zqwvN/XPHBz4lboa/83595
+#EXTINF:-1  group-title="Lista 04",| ESPN 3 FHD | DEP
+http://daletvplay.xyz:8080/9ThR5zqwvN/XPHBz4lboa/14865
+#EXTINF:-1  group-title="Lista 04",| ESPN 3 HD - CL \u00a9 | DEP
+http://daletvplay.xyz:8080/9ThR5zqwvN/XPHBz4lboa/83596
+#EXTINF:-1  group-title="Lista 04",| ESPN 3 HD Sur | DEP
+http://daletvplay.xyz:8080/9ThR5zqwvN/XPHBz4lboa/83597
+#EXTINF:-1  group-title="Lista 04",| ESPN 3 HQ - Col \u00a9 | DEP
+http://daletvplay.xyz:8080/9ThR5zqwvN/XPHBz4lboa/83598
+#EXTINF:-1  group-title="Lista 04",| ESPN Extra FHD MX | DEP
+http://daletvplay.xyz:8080/9ThR5zqwvN/XPHBz4lboa/83599
+#EXTINF:-1  group-title="Lista 04",| ESPN Extra HD MX | DEP
+http://daletvplay.xyz:8080/9ThR5zqwvN/XPHBz4lboa/83600
+#EXTINF:-1  group-title="Lista 04",| ESPN Extra HD Sur | DEP
+http://daletvplay.xyz:8080/9ThR5zqwvN/XPHBz4lboa/83601
+#EXTINF:-1  group-title="Lista 04",| ESPN FHD MX | DEP
+http://daletvplay.xyz:8080/9ThR5zqwvN/XPHBz4lboa/83603
+#EXTINF:-1  group-title="Lista 04",| ESPN FHD | DEP
+http://daletvplay.xyz:8080/9ThR5zqwvN/XPHBz4lboa/83602
+#EXTINF:-1  group-title="Lista 04",| ESPN HD - CL \u00a9 | DEP
+http://daletvplay.xyz:8080/9ThR5zqwvN/XPHBz4lboa/83604
+#EXTINF:-1  group-title="Lista 04",| ESPN HD MX | DEP
+http://daletvplay.xyz:8080/9ThR5zqwvN/XPHBz4lboa/83605
+#EXTINF:-1  group-title="Lista 04",| ESPN HD Sur | DEP
+http://daletvplay.xyz:8080/9ThR5zqwvN/XPHBz4lboa/83606
+#EXTINF:-1  group-title="Lista 04",| ESPN SD MX | DEP
+http://daletvplay.xyz:8080/9ThR5zqwvN/XPHBz4lboa/83607
+#EXTINF:-1  group-title="Lista 04",| ESPN SD Sur | DEP
+http://daletvplay.xyz:8080/9ThR5zqwvN/XPHBz4lboa/83608
+#EXTINF:-1  group-title="Lista 04",| Fox Sports 1 HD - CL \u00a9 | DEP
+http://daletvplay.xyz:8080/9ThR5zqwvN/XPHBz4lboa/83609
+#EXTINF:-1  group-title="Lista 04",| Fox Sports 2 Argentina HD | DEP
+http://daletvplay.xyz:8080/9ThR5zqwvN/XPHBz4lboa/83788
+#EXTINF:-1  group-title="Lista 04",| Fox Sports 2 Argentina HD | DEP
+http://daletvplay.xyz:8080/9ThR5zqwvN/XPHBz4lboa/83789
+#EXTINF:-1  group-title="Lista 04",| Fox Sports 2 FHD MX | DEP
+http://daletvplay.xyz:8080/9ThR5zqwvN/XPHBz4lboa/83610
+#EXTINF:-1  group-title="Lista 04",| Fox Sports 2 FHD Sur | DEP
+http://daletvplay.xyz:8080/9ThR5zqwvN/XPHBz4lboa/83611
+#EXTINF:-1  group-title="Lista 04",| Fox Sports 2 HD - CL \u00a9 | DEP
+http://daletvplay.xyz:8080/9ThR5zqwvN/XPHBz4lboa/83613
+#EXTINF:-1  group-title="Lista 04",| Fox Sports 2 HD | DEP
+http://daletvplay.xyz:8080/9ThR5zqwvN/XPHBz4lboa/83612
+#EXTINF:-1  group-title="Lista 04",| Fox Sports 2 HQ - Col \u00a9 | DEP
+http://daletvplay.xyz:8080/9ThR5zqwvN/XPHBz4lboa/83614
+#EXTINF:-1  group-title="Lista 04",| Fox Sports 2 SD MX | DEP
+http://daletvplay.xyz:8080/9ThR5zqwvN/XPHBz4lboa/83615
+#EXTINF:-1  group-title="Lista 04",| Fox Sports 2 SD Sur | DEP
+http://daletvplay.xyz:8080/9ThR5zqwvN/XPHBz4lboa/83616
+#EXTINF:-1  group-title="Lista 04",| Fox Sports 3 Argentina FHD | DEP
+http://daletvplay.xyz:8080/9ThR5zqwvN/XPHBz4lboa/83790
+#EXTINF:-1  group-title="Lista 04",| Fox Sports 3 FHD Sur | DEP
+http://daletvplay.xyz:8080/9ThR5zqwvN/XPHBz4lboa/83618
+#EXTINF:-1  group-title="Lista 04",| Fox Sports 3 FHD | DEP
+http://daletvplay.xyz:8080/9ThR5zqwvN/XPHBz4lboa/83617
+#EXTINF:-1  group-title="Lista 04",| Fox Sports 3 HD - CL \u00a9 | DEP
+http://daletvplay.xyz:8080/9ThR5zqwvN/XPHBz4lboa/83619
+#EXTINF:-1  group-title="Lista 04",| Fox Sports 3 HQ - Col \u00a9 | DEP
+http://daletvplay.xyz:8080/9ThR5zqwvN/XPHBz4lboa/83620
+#EXTINF:-1  group-title="Lista 04",| Fox Sports FHD MX | DEP
+http://daletvplay.xyz:8080/9ThR5zqwvN/XPHBz4lboa/83621
+#EXTINF:-1  group-title="Lista 04",| Fox Sports FHD Sur | DEP
+http://daletvplay.xyz:8080/9ThR5zqwvN/XPHBz4lboa/83622
+#EXTINF:-1  group-title="Lista 04",| Fox Sports HD - Col \u00a9 | DEP
+http://daletvplay.xyz:8080/9ThR5zqwvN/XPHBz4lboa/83624
+#EXTINF:-1  group-title="Lista 04",| Fox Sports  Argentina HD | DEP
+http://daletvplay.xyz:8080/9ThR5zqwvN/XPHBz4lboa/83791
+#EXTINF:-1  group-title="Lista 04",| Fox Sports HD - CL \u00a9 | DEP
+http://daletvplay.xyz:8080/9ThR5zqwvN/XPHBz4lboa/83623
+#EXTINF:-1  group-title="Lista 04",| Fox Sports HD Sur | DEP
+http://daletvplay.xyz:8080/9ThR5zqwvN/XPHBz4lboa/83625
+#EXTINF:-1  group-title="Lista 04",| Fox Sports Mex SD | DEP
+http://daletvplay.xyz:8080/9ThR5zqwvN/XPHBz4lboa/83628
+#EXTINF:-1  group-title="Lista 04",| Fox Sports Premium  Argentina FHD | DEP
+http://daletvplay.xyz:8080/9ThR5zqwvN/XPHBz4lboa/83793
+#EXTINF:-1  group-title="Lista 04",| Fox Sports Premium  Argentina HD | DEP
+http://daletvplay.xyz:8080/9ThR5zqwvN/XPHBz4lboa/83626
+#EXTINF:-1  group-title="Lista 04",| Fox Sports Premium Argentina  HQ | DEP
+http://daletvplay.xyz:8080/9ThR5zqwvN/XPHBz4lboa/83792
+#EXTINF:-1  group-title="Lista 04",| Fox Sports Premium Argentina  SD | DEP
+http://daletvplay.xyz:8080/9ThR5zqwvN/XPHBz4lboa/83627
+#EXTINF:-1  group-title="Lista 04",| Fox Sports SD Sur | DEP 
+http://daletvplay.xyz:8080/9ThR5zqwvN/XPHBz4lboa/83629
+#EXTINF:-1  group-title="Lista 04",| Gol Peru FHD | DEP
+http://daletvplay.xyz:8080/9ThR5zqwvN/XPHBz4lboa/83650
+#EXTINF:-1  group-title="Lista 04",| Gol Peru HD |  DEP
+http://daletvplay.xyz:8080/9ThR5zqwvN/XPHBz4lboa/83651
+#EXTINF:-1  group-title="Lista 04",| Gol Peru SD | DEP
+http://daletvplay.xyz:8080/9ThR5zqwvN/XPHBz4lboa/83652
+#EXTINF:-1  group-title="Lista 04",| Gol TV Ecuador  FHD | DEP
+http://daletvplay.xyz:8080/9ThR5zqwvN/XPHBz4lboa/83661
+#EXTINF:-1  group-title="Lista 04",| Gol TV Ecuador  SD | DEP
+http://daletvplay.xyz:8080/9ThR5zqwvN/XPHBz4lboa/83663
+#EXTINF:-1  group-title="Lista 04",| Gol TV Ecuador HD | DEP
+http://daletvplay.xyz:8080/9ThR5zqwvN/XPHBz4lboa/83662
+#EXTINF:-1  group-title="Lista 04",| Gol TV Ecuador |  (Solo Eventos) | DEP
+http://daletvplay.xyz:8080/9ThR5zqwvN/XPHBz4lboa/83660
+#EXTINF:-1  group-title="Lista 04",| Gol TV HD | DEP
+http://daletvplay.xyz:8080/9ThR5zqwvN/XPHBz4lboa/83630
+#EXTINF:-1  group-title="Lista 04",| Golf Channel FHD | DEP
+http://daletvplay.xyz:8080/9ThR5zqwvN/XPHBz4lboa/83631
+#EXTINF:-1  group-title="Lista 04",| Sky Sports 16 Mexico HD | DEP
+http://daletvplay.xyz:8080/9ThR5zqwvN/XPHBz4lboa/83632
+#EXTINF:-1  group-title="Lista 04",| Sky Sports 24 mexico HD | DEP
+http://daletvplay.xyz:8080/9ThR5zqwvN/XPHBz4lboa/83633
+#EXTINF:-1  group-title="Lista 04",| Tigo Sports 1 Bolivia  SD | DEP
+http://daletvplay.xyz:8080/9ThR5zqwvN/XPHBz4lboa/83640
+#EXTINF:-1  group-title="Lista 04",| Tigo Sports 1 Bolivia HD | DEP
+http://daletvplay.xyz:8080/9ThR5zqwvN/XPHBz4lboa/83639
+#EXTINF:-1  group-title="Lista 04",| Tigo Sports 2 Bolivia HD | DEP
+http://daletvplay.xyz:8080/9ThR5zqwvN/XPHBz4lboa/83641
+#EXTINF:-1  group-title="Lista 04",| Tigo Sports 3 Bolivia  SD | DEP
+http://daletvplay.xyz:8080/9ThR5zqwvN/XPHBz4lboa/83644
+#EXTINF:-1  group-title="Lista 04",| Tigo Sports Bolivia 3 HD | DEP
+http://daletvplay.xyz:8080/9ThR5zqwvN/XPHBz4lboa/83643
+#EXTINF:-1  group-title="Lista 04",| TNT Sports Argentina  HD | DEP
+http://daletvplay.xyz:8080/9ThR5zqwvN/XPHBz4lboa/83804
+#EXTINF:-1  group-title="Lista 04",| TNT Sports Argentina FHD | DEP
+http://daletvplay.xyz:8080/9ThR5zqwvN/XPHBz4lboa/83803
+#EXTINF:-1  group-title="Lista 04",| TUDN Mexico FHD | DEP
+http://daletvplay.xyz:8080/9ThR5zqwvN/XPHBz4lboa/83634
+#EXTINF:-1  group-title="Lista 04",| TUDN Mexico SD | DEP
+http://daletvplay.xyz:8080/9ThR5zqwvN/XPHBz4lboa/83635
+#EXTINF:-1  group-title="Lista 04",| TyC Sports Argentina  HQ | DEP
+http://daletvplay.xyz:8080/9ThR5zqwvN/XPHBz4lboa/83637
+#EXTINF:-1  group-title="Lista 04",| TyC Sports Argentina HD | DEP
+http://daletvplay.xyz:8080/9ThR5zqwvN/XPHBz4lboa/83636
+#EXTINF:-1  group-title="Lista 04",| TyC Sports | DEP
+http://daletvplay.xyz:8080/9ThR5zqwvN/XPHBz4lboa/83808
+#EXTINF:-1  group-title="Lista 04",| VTV Uruguay  SD | DEP
+http://daletvplay.xyz:8080/9ThR5zqwvN/XPHBz4lboa/83647
+#EXTINF:-1  group-title="Lista 04",| VTV Uruguay FHD | DEP
+http://daletvplay.xyz:8080/9ThR5zqwvN/XPHBz4lboa/83645
+#EXTINF:-1  group-title="Lista 04",| VTV Uruguay HD | DEP
+http://daletvplay.xyz:8080/9ThR5zqwvN/XPHBz4lboa/83646
+#EXTINF:-1  group-title="Lista 04",| VTV+ Uruguay  SD | DEP
+http://daletvplay.xyz:8080/9ThR5zqwvN/XPHBz4lboa/83649
+#EXTINF:-1  group-title="Lista 04",| VTV+ Uruguay HD | DEP
+http://daletvplay.xyz:8080/9ThR5zqwvN/XPHBz4lboa/83648
+#EXTINF:-1  group-title="Lista 04",| ESPN chile FHD | DEP 
+http://daletvplay.xyz:8080/9ThR5zqwvN/XPHBz4lboa/59952
+#EXTM3U
+#EXTINF:-1  group-title="Lista 04",| Mexiquense FHD | MEX
+http://daletvplay.xyz:8080/9ThR5zqwvN/XPHBz4lboa/55094
+#EXTINF:-1  group-title="Lista 04",LA_SD_MEX2:MTV Hits
+http://daletvplay.xyz:8080/9ThR5zqwvN/XPHBz4lboa/46508
+#EXTINF:-1  group-title="Lista 04",LA_SD_MEX2:A&E
+http://daletvplay.xyz:8080/9ThR5zqwvN/XPHBz4lboa/46509
+#EXTINF:-1  group-title="Lista 04",LA_SD_MEX2:Al Jazeera
+http://daletvplay.xyz:8080/9ThR5zqwvN/XPHBz4lboa/46510
+#EXTINF:-1  group-title="Lista 04",LA_SD_MEX2:Animal Planet
+http://daletvplay.xyz:8080/9ThR5zqwvN/XPHBz4lboa/46511
+#EXTINF:-1  group-title="Lista 04",LA_SD_MEX2:Antena 3 Int
+http://daletvplay.xyz:8080/9ThR5zqwvN/XPHBz4lboa/46512
+#EXTINF:-1  group-title="Lista 04",LA_SD_MEX2:AXN
+http://daletvplay.xyz:8080/9ThR5zqwvN/XPHBz4lboa/46513
+#EXTINF:-1  group-title="Lista 04",LA_SD_MEX2:Aym Sports
+http://daletvplay.xyz:8080/9ThR5zqwvN/XPHBz4lboa/46514
+#EXTINF:-1  group-title="Lista 04",LA_SD_MEX2:BabyFirst
+http://daletvplay.xyz:8080/9ThR5zqwvN/XPHBz4lboa/46515
+#EXTINF:-1  group-title="Lista 04",LA_SD_MEX2:BBC World News
+http://daletvplay.xyz:8080/9ThR5zqwvN/XPHBz4lboa/46516
+#EXTINF:-1  group-title="Lista 04",LA_SD_MEX2:El Financiero Bloomberg
+http://daletvplay.xyz:8080/9ThR5zqwvN/XPHBz4lboa/46517
+#EXTINF:-1  group-title="Lista 04",LA_SD_MEX2:Bloomberg
+http://daletvplay.xyz:8080/9ThR5zqwvN/XPHBz4lboa/46518
+#EXTINF:-1  group-title="Lista 04",LA_SD_MEX2:Boomerang
+http://daletvplay.xyz:8080/9ThR5zqwvN/XPHBz4lboa/46519
+#EXTINF:-1  group-title="Lista 04",LA_SD_MEX2:Cartoon Network
+http://daletvplay.xyz:8080/9ThR5zqwvN/XPHBz4lboa/46520
+#EXTINF:-1  group-title="Lista 04",LA_SD_MEX2:Cinecanal
+http://daletvplay.xyz:8080/9ThR5zqwvN/XPHBz4lboa/46521
+#EXTINF:-1  group-title="Lista 04",LA_SD_MEX2:CNN en Espa\u00f1ol
+http://daletvplay.xyz:8080/9ThR5zqwvN/XPHBz4lboa/46522
+#EXTINF:-1  group-title="Lista 04",LA_SD_MEX2:CNN International
+http://daletvplay.xyz:8080/9ThR5zqwvN/XPHBz4lboa/46523
+#EXTINF:-1  group-title="Lista 04",LA_SD_MEX2:Comedy Central
+http://daletvplay.xyz:8080/9ThR5zqwvN/XPHBz4lboa/46524
+#EXTINF:-1  group-title="Lista 04",LA_SD_MEX2:De Pelicula Plus
+http://daletvplay.xyz:8080/9ThR5zqwvN/XPHBz4lboa/46525
+#EXTINF:-1  group-title="Lista 04",LA_SD_MEX2:De Pel\u00edcula
+http://daletvplay.xyz:8080/9ThR5zqwvN/XPHBz4lboa/46526
+#EXTINF:-1  group-title="Lista 04",LA_SD_MEX2:Discovery Channel
+http://daletvplay.xyz:8080/9ThR5zqwvN/XPHBz4lboa/46527
+#EXTINF:-1  group-title="Lista 04",LA_SD_MEX2:Discovery Civilization
+http://daletvplay.xyz:8080/9ThR5zqwvN/XPHBz4lboa/46528
+#EXTINF:-1  group-title="Lista 04",LA_SD_MEX2:Discovery H&H
+http://daletvplay.xyz:8080/9ThR5zqwvN/XPHBz4lboa/46529
+#EXTINF:-1  group-title="Lista 04",LA_SD_MEX2:Discovery Investigation
+http://daletvplay.xyz:8080/9ThR5zqwvN/XPHBz4lboa/46530
+#EXTINF:-1  group-title="Lista 04",LA_SD_MEX2:Discovery Kids
+http://daletvplay.xyz:8080/9ThR5zqwvN/XPHBz4lboa/46531
+#EXTINF:-1  group-title="Lista 04",LA_SD_MEX2:Discovery Science
+http://daletvplay.xyz:8080/9ThR5zqwvN/XPHBz4lboa/46532
+#EXTINF:-1  group-title="Lista 04",LA_SD_MEX2:DIscovery Theater
+http://daletvplay.xyz:8080/9ThR5zqwvN/XPHBz4lboa/46533
+#EXTINF:-1  group-title="Lista 04",LA_SD_MEX2:Discovery Turbo
+http://daletvplay.xyz:8080/9ThR5zqwvN/XPHBz4lboa/46534
+#EXTINF:-1  group-title="Lista 04",LA_SD_MEX2:Discovery World
+http://daletvplay.xyz:8080/9ThR5zqwvN/XPHBz4lboa/46535
+#EXTINF:-1  group-title="Lista 04",LA_SD_MEX2:Disney Channel
+http://daletvplay.xyz:8080/9ThR5zqwvN/XPHBz4lboa/46536
+#EXTINF:-1  group-title="Lista 04",LA_SD_MEX2:Disney Junior
+http://daletvplay.xyz:8080/9ThR5zqwvN/XPHBz4lboa/46537
+#EXTINF:-1  group-title="Lista 04",LA_SD_MEX2:Disney XD
+http://daletvplay.xyz:8080/9ThR5zqwvN/XPHBz4lboa/46538
+#EXTINF:-1  group-title="Lista 04",LA_SD_MEX2:DW
+http://daletvplay.xyz:8080/9ThR5zqwvN/XPHBz4lboa/46540
+#EXTINF:-1  group-title="Lista 04",LA_SD_MEX2:E! Entertainment
+http://daletvplay.xyz:8080/9ThR5zqwvN/XPHBz4lboa/46541
+#EXTINF:-1  group-title="Lista 04",LA_SD_MEX2:El Gourmet
+http://daletvplay.xyz:8080/9ThR5zqwvN/XPHBz4lboa/46542
+#EXTINF:-1  group-title="Lista 04",LA_SD_MEX2:ESPN
+http://daletvplay.xyz:8080/9ThR5zqwvN/XPHBz4lboa/46543
+#EXTINF:-1  group-title="Lista 04",LA_SD_MEX2:ESPN 2
+http://daletvplay.xyz:8080/9ThR5zqwvN/XPHBz4lboa/46544
+#EXTINF:-1  group-title="Lista 04",LA_SD_MEX2:ESPN 3
+http://daletvplay.xyz:8080/9ThR5zqwvN/XPHBz4lboa/46545
+#EXTINF:-1  group-title="Lista 04",LA_SD_MEX2:ESPN Network
+http://daletvplay.xyz:8080/9ThR5zqwvN/XPHBz4lboa/46546
+#EXTINF:-1  group-title="Lista 04",LA_SD_MEX2:ESPN +
+http://daletvplay.xyz:8080/9ThR5zqwvN/XPHBz4lboa/46547
+#EXTINF:-1  group-title="Lista 04",LA_SD_MEX2:Film & Arts
+http://daletvplay.xyz:8080/9ThR5zqwvN/XPHBz4lboa/46549
+#EXTINF:-1  group-title="Lista 04",LA_SD_MEX2:Food Network
+http://daletvplay.xyz:8080/9ThR5zqwvN/XPHBz4lboa/46550
+#EXTINF:-1  group-title="Lista 04",LA_SD_MEX2:Telef\u00f3rmula
+http://daletvplay.xyz:8080/9ThR5zqwvN/XPHBz4lboa/46551
+#EXTINF:-1  group-title="Lista 04",LA_SD_MEX2:Fox
+http://daletvplay.xyz:8080/9ThR5zqwvN/XPHBz4lboa/46552
+#EXTINF:-1  group-title="Lista 04",LA_SD_MEX2:Fox Cinema
+http://daletvplay.xyz:8080/9ThR5zqwvN/XPHBz4lboa/46553
+#EXTINF:-1  group-title="Lista 04",LA_SD_MEX2:Fox Classics
+http://daletvplay.xyz:8080/9ThR5zqwvN/XPHBz4lboa/46554
+#EXTINF:-1  group-title="Lista 04",LA_SD_MEX2:Fox Life
+http://daletvplay.xyz:8080/9ThR5zqwvN/XPHBz4lboa/46555
+#EXTINF:-1  group-title="Lista 04",LA_SD_MEX2:Fox Movies
+http://daletvplay.xyz:8080/9ThR5zqwvN/XPHBz4lboa/46556
+#EXTINF:-1  group-title="Lista 04",LA_SD_MEX2:Fox News
+http://daletvplay.xyz:8080/9ThR5zqwvN/XPHBz4lboa/46557
+#EXTINF:-1  group-title="Lista 04",LA_SD_MEX2:Fox Series
+http://daletvplay.xyz:8080/9ThR5zqwvN/XPHBz4lboa/46558
+#EXTINF:-1  group-title="Lista 04",LA_SD_MEX2:Fox Sports
+http://daletvplay.xyz:8080/9ThR5zqwvN/XPHBz4lboa/46559
+#EXTINF:-1  group-title="Lista 04",LA_SD_MEX2:Fox Sports 2
+http://daletvplay.xyz:8080/9ThR5zqwvN/XPHBz4lboa/46560
+#EXTINF:-1  group-title="Lista 04",LA_SD_MEX2:Fox Sports 3
+http://daletvplay.xyz:8080/9ThR5zqwvN/XPHBz4lboa/46561
+#EXTINF:-1  group-title="Lista 04",LA_SD_MEX2:FX
+http://daletvplay.xyz:8080/9ThR5zqwvN/XPHBz4lboa/46562
+#EXTINF:-1  group-title="Lista 04",LA_SD_MEX2:FXM
+http://daletvplay.xyz:8080/9ThR5zqwvN/XPHBz4lboa/46563
+#EXTINF:-1  group-title="Lista 04",LA_SD_MEX2:Golden
+http://daletvplay.xyz:8080/9ThR5zqwvN/XPHBz4lboa/46564
+#EXTINF:-1  group-title="Lista 04",LA_SD_MEX2:Golden Edge
+http://daletvplay.xyz:8080/9ThR5zqwvN/XPHBz4lboa/46565
+#EXTINF:-1  group-title="Lista 04",LA_SD_MEX2:Golden Plus
+http://daletvplay.xyz:8080/9ThR5zqwvN/XPHBz4lboa/46566
+#EXTINF:-1  group-title="Lista 04",LA_SD_MEX2:Golf Channel
+http://daletvplay.xyz:8080/9ThR5zqwvN/XPHBz4lboa/46567
+#EXTINF:-1  group-title="Lista 04",LA_SD_MEX2:History Channel
+http://daletvplay.xyz:8080/9ThR5zqwvN/XPHBz4lboa/46568
+#EXTINF:-1  group-title="Lista 04",LA_SD_MEX2:HLN
+http://daletvplay.xyz:8080/9ThR5zqwvN/XPHBz4lboa/46569
+#EXTINF:-1  group-title="Lista 04",LA_SD_MEX2:Hola TV
+http://daletvplay.xyz:8080/9ThR5zqwvN/XPHBz4lboa/46570
+#EXTINF:-1  group-title="Lista 04",LA_SD_MEX2:VH1 Classic
+http://daletvplay.xyz:8080/9ThR5zqwvN/XPHBz4lboa/46571
+#EXTINF:-1  group-title="Lista 04",LA_SD_MEX2:I.sat
+http://daletvplay.xyz:8080/9ThR5zqwvN/XPHBz4lboa/46572
+#EXTINF:-1  group-title="Lista 04",LA_SD_MEX2:Ingenio TV
+http://daletvplay.xyz:8080/9ThR5zqwvN/XPHBz4lboa/46573
+#EXTINF:-1  group-title="Lista 04",LA_SD_MEX2:ITTF TV
+http://daletvplay.xyz:8080/9ThR5zqwvN/XPHBz4lboa/46574
+#EXTINF:-1  group-title="Lista 04",LA_SD_MEX2:M\u00e1s Chic
+http://daletvplay.xyz:8080/9ThR5zqwvN/XPHBz4lboa/46575
+#EXTINF:-1  group-title="Lista 04",LA_SD_MEX2:MTV Live
+http://daletvplay.xyz:8080/9ThR5zqwvN/XPHBz4lboa/46576
+#EXTINF:-1  group-title="Lista 04",LA_SD_MEX2:Natgeo
+http://daletvplay.xyz:8080/9ThR5zqwvN/XPHBz4lboa/46577
+#EXTINF:-1  group-title="Lista 04",LA_SD_MEX2:Nat Geo Kids
+http://daletvplay.xyz:8080/9ThR5zqwvN/XPHBz4lboa/46578
+#EXTINF:-1  group-title="Lista 04",LA_SD_MEX2:Nat Geo Wild
+http://daletvplay.xyz:8080/9ThR5zqwvN/XPHBz4lboa/46579
+#EXTINF:-1  group-title="Lista 04",LA_SD_MEX2:Nick
+http://daletvplay.xyz:8080/9ThR5zqwvN/XPHBz4lboa/46580
+#EXTINF:-1  group-title="Lista 04",LA_SD_MEX2:Nick 2
+http://daletvplay.xyz:8080/9ThR5zqwvN/XPHBz4lboa/46581
+#EXTINF:-1  group-title="Lista 04",LA_SD_MEX2:Nick Jr.
+http://daletvplay.xyz:8080/9ThR5zqwvN/XPHBz4lboa/46582
+#EXTINF:-1  group-title="Lista 04",LA_SD_MEX2:Nicktoons
+http://daletvplay.xyz:8080/9ThR5zqwvN/XPHBz4lboa/46583
+#EXTINF:-1  group-title="Lista 04",LA_SD_MEX2:Paramount Channel
+http://daletvplay.xyz:8080/9ThR5zqwvN/XPHBz4lboa/46584
+#EXTINF:-1  group-title="Lista 04",LA_SD_MEX2:Star TVE
+http://daletvplay.xyz:8080/9ThR5zqwvN/XPHBz4lboa/46586
+#EXTINF:-1  group-title="Lista 04",LA_SD_MEX2:Studio Universal
+http://daletvplay.xyz:8080/9ThR5zqwvN/XPHBz4lboa/46587
+#EXTINF:-1  group-title="Lista 04",LA_SD_MEX2:Syfy
+http://daletvplay.xyz:8080/9ThR5zqwvN/XPHBz4lboa/46588
+#EXTINF:-1  group-title="Lista 04",LA_SD_MEX2:Telehit Plus
+http://daletvplay.xyz:8080/9ThR5zqwvN/XPHBz4lboa/46591
+#EXTINF:-1  group-title="Lista 04",LA_SD_MEX2:TruTV
+http://daletvplay.xyz:8080/9ThR5zqwvN/XPHBz4lboa/46596
+#EXTINF:-1  group-title="Lista 04",LA_SD_MEX2:France 24
+http://daletvplay.xyz:8080/9ThR5zqwvN/XPHBz4lboa/46598
+#EXTINF:-1  group-title="Lista 04",LA_SD_MEX2:TVC
+http://daletvplay.xyz:8080/9ThR5zqwvN/XPHBz4lboa/46599
+#EXTINF:-1  group-title="Lista 04",LA_SD_MEX2:TVC Deportes
+http://daletvplay.xyz:8080/9ThR5zqwvN/XPHBz4lboa/46600
+#EXTINF:-1  group-title="Lista 04",LA_SD_MEX2:TVE
+http://daletvplay.xyz:8080/9ThR5zqwvN/XPHBz4lboa/46601
+#EXTINF:-1  group-title="Lista 04",LA_SD_MEX2:Universal Channel
+http://daletvplay.xyz:8080/9ThR5zqwvN/XPHBz4lboa/46602
+#EXTINF:-1  group-title="Lista 04",LA_SD_MEX2:VH1
+http://daletvplay.xyz:8080/9ThR5zqwvN/XPHBz4lboa/46603
+#EXTINF:-1  group-title="Lista 04",LA_SD_MEX2:Warner Channel
+http://daletvplay.xyz:8080/9ThR5zqwvN/XPHBz4lboa/46605
+#EXTINF:-1  group-title="Lista 04",| Televisa Puebla HD |
+http://daletvplay.xyz:8080/9ThR5zqwvN/XPHBz4lboa/7764
+#EXTINF:-1  group-title="Lista 04",LA_HD_MEX2:A+ 7.2
+http://daletvplay.xyz:8080/9ThR5zqwvN/XPHBz4lboa/46607
+#EXTINF:-1  group-title="Lista 04",LA_HD_MEX2:A&E HD
+http://daletvplay.xyz:8080/9ThR5zqwvN/XPHBz4lboa/46608
+#EXTINF:-1  group-title="Lista 04",LA_HD_MEX2:ADN40 HD
+http://daletvplay.xyz:8080/9ThR5zqwvN/XPHBz4lboa/46610
+#EXTINF:-1  group-title="Lista 04",LA_HD_MEX2:Al Jazeera HD
+http://daletvplay.xyz:8080/9ThR5zqwvN/XPHBz4lboa/46611
+#EXTINF:-1  group-title="Lista 04",LA_HD_MEX2:AMC HD
+http://daletvplay.xyz:8080/9ThR5zqwvN/XPHBz4lboa/46612
+#EXTINF:-1  group-title="Lista 04",LA_HD_MEX2:Animal Planet HD
+http://daletvplay.xyz:8080/9ThR5zqwvN/XPHBz4lboa/46613
+#EXTINF:-1  group-title="Lista 04",LA_HD_MEX2:Antena 3 Int HD
+http://daletvplay.xyz:8080/9ThR5zqwvN/XPHBz4lboa/46614
+#EXTINF:-1  group-title="Lista 04",LA_HD_MEX2:AXN HD
+http://daletvplay.xyz:8080/9ThR5zqwvN/XPHBz4lboa/46615
+#EXTINF:-1  group-title="Lista 04",LA_HD_MEX2:Aym Sports HD
+http://daletvplay.xyz:8080/9ThR5zqwvN/XPHBz4lboa/46616
+#EXTINF:-1  group-title="Lista 04",LA_HD_MEX2:Az Cinema HD
+http://daletvplay.xyz:8080/9ThR5zqwvN/XPHBz4lboa/46617
+#EXTINF:-1  group-title="Lista 04",LA_HD_MEX2:Az Clic HD
+http://daletvplay.xyz:8080/9ThR5zqwvN/XPHBz4lboa/46618
+#EXTINF:-1  group-title="Lista 04",LA_HD_MEX2:Boomerang HD
+http://daletvplay.xyz:8080/9ThR5zqwvN/XPHBz4lboa/46622
+#EXTINF:-1  group-title="Lista 04",LA_HD_MEX2:Cartoon Network HD
+http://daletvplay.xyz:8080/9ThR5zqwvN/XPHBz4lboa/46623
+#EXTINF:-1  group-title="Lista 04",LA_HD_MEX2:Cinecanal HD
+http://daletvplay.xyz:8080/9ThR5zqwvN/XPHBz4lboa/46624
+#EXTINF:-1  group-title="Lista 04",LA_HD_MEX2:Cinemax HD
+http://daletvplay.xyz:8080/9ThR5zqwvN/XPHBz4lboa/46625
+#EXTINF:-1  group-title="Lista 04",LA_HD_MEX2:CNN en Espa\u00f1ol
+http://daletvplay.xyz:8080/9ThR5zqwvN/XPHBz4lboa/46626
+#EXTINF:-1  group-title="Lista 04",LA_HD_MEX2:Comedy Central HD
+http://daletvplay.xyz:8080/9ThR5zqwvN/XPHBz4lboa/46628
+#EXTINF:-1  group-title="Lista 04",LA_HD_MEX2:De Pel\u00edcula
+http://daletvplay.xyz:8080/9ThR5zqwvN/XPHBz4lboa/46629
+#EXTINF:-1  group-title="Lista 04",LA_HD_MEX2:Discovery H&H HD
+http://daletvplay.xyz:8080/9ThR5zqwvN/XPHBz4lboa/46632
+#EXTINF:-1  group-title="Lista 04",LA_HD_MEX2:Discovery Kids HD
+http://daletvplay.xyz:8080/9ThR5zqwvN/XPHBz4lboa/46633
+#EXTINF:-1  group-title="Lista 04",LA_HD_MEX2:Discovery Science
+http://daletvplay.xyz:8080/9ThR5zqwvN/XPHBz4lboa/46634
+#EXTINF:-1  group-title="Lista 04",LA_HD_MEX2:Discovery Theater HD
+http://daletvplay.xyz:8080/9ThR5zqwvN/XPHBz4lboa/46635
+#EXTINF:-1  group-title="Lista 04",LA_HD_MEX2:Discovery Turbo HD
+http://daletvplay.xyz:8080/9ThR5zqwvN/XPHBz4lboa/46636
+#EXTINF:-1  group-title="Lista 04",LA_HD_MEX2:Discovery World HD
+http://daletvplay.xyz:8080/9ThR5zqwvN/XPHBz4lboa/46637
+#EXTINF:-1  group-title="Lista 04",LA_HD_MEX2:Disney Channel HD
+http://daletvplay.xyz:8080/9ThR5zqwvN/XPHBz4lboa/46638
+#EXTINF:-1  group-title="Lista 04",LA_HD_MEX2:Disney Junior HD
+http://daletvplay.xyz:8080/9ThR5zqwvN/XPHBz4lboa/46639
+#EXTINF:-1  group-title="Lista 04",LA_HD_MEX2:Disney XD HD
+http://daletvplay.xyz:8080/9ThR5zqwvN/XPHBz4lboa/46640
+#EXTINF:-1  group-title="Lista 04",LA_HD_MEX2:DW
+http://daletvplay.xyz:8080/9ThR5zqwvN/XPHBz4lboa/46642
+#EXTINF:-1  group-title="Lista 04",LA_HD_MEX2:El Gourmet HD
+http://daletvplay.xyz:8080/9ThR5zqwvN/XPHBz4lboa/46644
+#EXTINF:-1  group-title="Lista 04",LA_HD_MEX2:ESPN 2 HD
+http://daletvplay.xyz:8080/9ThR5zqwvN/XPHBz4lboa/46645
+#EXTINF:-1  group-title="Lista 04",LA_HD_MEX2:ESPN 3 HD
+http://daletvplay.xyz:8080/9ThR5zqwvN/XPHBz4lboa/46646
+#EXTINF:-1  group-title="Lista 04",LA_HD_MEX2:ESPN HD
+http://daletvplay.xyz:8080/9ThR5zqwvN/XPHBz4lboa/46647
+#EXTINF:-1  group-title="Lista 04",LA_HD_MEX2:ESPN + HD
+http://daletvplay.xyz:8080/9ThR5zqwvN/XPHBz4lboa/46648
+#EXTINF:-1  group-title="Lista 04",LA_HD_MEX2:Film & Arts
+http://daletvplay.xyz:8080/9ThR5zqwvN/XPHBz4lboa/46651
+#EXTINF:-1  group-title="Lista 04",LA_HD_MEX2:Food Network HD
+http://daletvplay.xyz:8080/9ThR5zqwvN/XPHBz4lboa/46652
+#EXTINF:-1  group-title="Lista 04",LA_HD_MEX2:Telef\u00f3rmula HD
+http://daletvplay.xyz:8080/9ThR5zqwvN/XPHBz4lboa/46653
+#EXTINF:-1  group-title="Lista 04",LA_HD_MEX2:Foro TV HD
+http://daletvplay.xyz:8080/9ThR5zqwvN/XPHBz4lboa/46654
+#EXTINF:-1  group-title="Lista 04",LA_HD_MEX2:Adrenalina Sports Network HD
+http://daletvplay.xyz:8080/9ThR5zqwvN/XPHBz4lboa/46655
+#EXTINF:-1  group-title="Lista 04",LA_HD_MEX2:Fox Cinema HD
+http://daletvplay.xyz:8080/9ThR5zqwvN/XPHBz4lboa/46656
+#EXTINF:-1  group-title="Lista 04",LA_HD_MEX2:Fox Classics HD
+http://daletvplay.xyz:8080/9ThR5zqwvN/XPHBz4lboa/46657
+#EXTINF:-1  group-title="Lista 04",LA_HD_MEX2:Fox HD
+http://daletvplay.xyz:8080/9ThR5zqwvN/XPHBz4lboa/46658
+#EXTINF:-1  group-title="Lista 04",LA_HD_MEX2:Fox Life HD
+http://daletvplay.xyz:8080/9ThR5zqwvN/XPHBz4lboa/46659
+#EXTINF:-1  group-title="Lista 04",LA_HD_MEX2:Fox Movies HD
+http://daletvplay.xyz:8080/9ThR5zqwvN/XPHBz4lboa/46660
+#EXTINF:-1  group-title="Lista 04",LA_HD_MEX2:Fox News HD
+http://daletvplay.xyz:8080/9ThR5zqwvN/XPHBz4lboa/46661
+#EXTINF:-1  group-title="Lista 04",LA_HD_MEX2:Fox Series HD
+http://daletvplay.xyz:8080/9ThR5zqwvN/XPHBz4lboa/46662
+#EXTINF:-1  group-title="Lista 04",LA_HD_MEX2:Fox Sports HD
+http://daletvplay.xyz:8080/9ThR5zqwvN/XPHBz4lboa/46663
+#EXTINF:-1  group-title="Lista 04",LA_HD_MEX2:Fox Sports 2 HD
+http://daletvplay.xyz:8080/9ThR5zqwvN/XPHBz4lboa/46664
+#EXTINF:-1  group-title="Lista 04",LA_HD_MEX2:Fox Sports 3 HD
+http://daletvplay.xyz:8080/9ThR5zqwvN/XPHBz4lboa/46665
+#EXTINF:-1  group-title="Lista 04",LA_HD_MEX2:France 24 HD
+http://daletvplay.xyz:8080/9ThR5zqwvN/XPHBz4lboa/46666
+#EXTINF:-1  group-title="Lista 04",LA_HD_MEX2:FX HD
+http://daletvplay.xyz:8080/9ThR5zqwvN/XPHBz4lboa/46667
+#EXTINF:-1  group-title="Lista 04",LA_HD_MEX2:FXM HD
+http://daletvplay.xyz:8080/9ThR5zqwvN/XPHBz4lboa/46668
+#EXTINF:-1  group-title="Lista 04",LA_HD_MEX2:Garage TV
+http://daletvplay.xyz:8080/9ThR5zqwvN/XPHBz4lboa/46669
+#EXTINF:-1  group-title="Lista 04",LA_HD_MEX2:Glitz
+http://daletvplay.xyz:8080/9ThR5zqwvN/XPHBz4lboa/46670
+#EXTINF:-1  group-title="Lista 04",LA_HD_MEX2:Golden
+http://daletvplay.xyz:8080/9ThR5zqwvN/XPHBz4lboa/46671
+#EXTINF:-1  group-title="Lista 04",LA_HD_MEX2:Golden Edge
+http://daletvplay.xyz:8080/9ThR5zqwvN/XPHBz4lboa/46672
+#EXTINF:-1  group-title="Lista 04",LA_HD_MEX2:Golden Plus HD
+http://daletvplay.xyz:8080/9ThR5zqwvN/XPHBz4lboa/46673
+#EXTINF:-1  group-title="Lista 04",LA_HD_MEX2:History Channel HD
+http://daletvplay.xyz:8080/9ThR5zqwvN/XPHBz4lboa/46674
+#EXTINF:-1  group-title="Lista 04",LA_HD_MEX2:HLN
+http://daletvplay.xyz:8080/9ThR5zqwvN/XPHBz4lboa/46675
+#EXTINF:-1  group-title="Lista 04",LA_HD_MEX2:Hola TV HD
+http://daletvplay.xyz:8080/9ThR5zqwvN/XPHBz4lboa/46676
+#EXTINF:-1  group-title="Lista 04",LA_HD_MEX2:Imagen TV HD
+http://daletvplay.xyz:8080/9ThR5zqwvN/XPHBz4lboa/46677
+#EXTINF:-1  group-title="Lista 04",LA_HD_MEX2:Discovery Investigation HD
+http://daletvplay.xyz:8080/9ThR5zqwvN/XPHBz4lboa/46678
+#EXTINF:-1  group-title="Lista 04",LA_HD_MEX2:I.sat
+http://daletvplay.xyz:8080/9ThR5zqwvN/XPHBz4lboa/46679
+#EXTINF:-1  group-title="Lista 04",LA_HD_MEX2:Lifetime HD
+http://daletvplay.xyz:8080/9ThR5zqwvN/XPHBz4lboa/46680
+#EXTINF:-1  group-title="Lista 04",LA_HD_MEX2:M\u00e1s Chic HD
+http://daletvplay.xyz:8080/9ThR5zqwvN/XPHBz4lboa/46681
+#EXTINF:-1  group-title="Lista 04",LA_HD_MEX2:Mexiquense HD
+http://daletvplay.xyz:8080/9ThR5zqwvN/XPHBz4lboa/46682
+#EXTINF:-1  group-title="Lista 04",LA_HD_MEX2:MTV HD
+http://daletvplay.xyz:8080/9ThR5zqwvN/XPHBz4lboa/46683
+#EXTINF:-1  group-title="Lista 04",LA_HD_MEX2:MTV Hits
+http://daletvplay.xyz:8080/9ThR5zqwvN/XPHBz4lboa/46684
+#EXTINF:-1  group-title="Lista 04",LA_HD_MEX2:MTV Live HD
+http://daletvplay.xyz:8080/9ThR5zqwvN/XPHBz4lboa/46685
+#EXTINF:-1  group-title="Lista 04",LA_HD_MEX2:Multimedios HD
+http://daletvplay.xyz:8080/9ThR5zqwvN/XPHBz4lboa/46686
+#EXTINF:-1  group-title="Lista 04",LA_HD_MEX2:Multimedios Plus HD
+http://daletvplay.xyz:8080/9ThR5zqwvN/XPHBz4lboa/46687
+#EXTINF:-1  group-title="Lista 04",LA_HD_MEX2:Nat Geo Kids HD
+http://daletvplay.xyz:8080/9ThR5zqwvN/XPHBz4lboa/46688
+#EXTINF:-1  group-title="Lista 04",LA_HD_MEX2:Nat Geo Wild HD
+http://daletvplay.xyz:8080/9ThR5zqwvN/XPHBz4lboa/46689
+#EXTINF:-1  group-title="Lista 04",LA_HD_MEX2:Natgeo HD
+http://daletvplay.xyz:8080/9ThR5zqwvN/XPHBz4lboa/46690
+#EXTINF:-1  group-title="Lista 04",LA_HD_MEX2:NBC Golf HD
+http://daletvplay.xyz:8080/9ThR5zqwvN/XPHBz4lboa/46691
+#EXTINF:-1  group-title="Lista 04",LA_HD_MEX2:Nick 2 HD
+http://daletvplay.xyz:8080/9ThR5zqwvN/XPHBz4lboa/46692
+#EXTINF:-1  group-title="Lista 04",LA_HD_MEX2:Nick Jr.
+http://daletvplay.xyz:8080/9ThR5zqwvN/XPHBz4lboa/46693
+#EXTINF:-1  group-title="Lista 04",LA_HD_MEX2:Nick HD
+http://daletvplay.xyz:8080/9ThR5zqwvN/XPHBz4lboa/46694
+#EXTINF:-1  group-title="Lista 04",LA_HD_MEX2:Nicktoons
+http://daletvplay.xyz:8080/9ThR5zqwvN/XPHBz4lboa/46695
+#EXTINF:-1  group-title="Lista 04",LA_HD_MEX2:NTN24
+http://daletvplay.xyz:8080/9ThR5zqwvN/XPHBz4lboa/46696
+#EXTINF:-1  group-title="Lista 04",LA_HD_MEX2:Paramount Channel HD
+http://daletvplay.xyz:8080/9ThR5zqwvN/XPHBz4lboa/46697
+#EXTINF:-1  group-title="Lista 04",LA_HD_MEX2:RMS HD
+http://daletvplay.xyz:8080/9ThR5zqwvN/XPHBz4lboa/46698
+#EXTINF:-1  group-title="Lista 04",LA_HD_MEX2:SENDERO
+http://daletvplay.xyz:8080/9ThR5zqwvN/XPHBz4lboa/46700
+#EXTINF:-1  group-title="Lista 04",| Azteca Uno HD | MEX
+http://daletvplay.xyz:8080/9ThR5zqwvN/XPHBz4lboa/7766
+#EXTINF:-1  group-title="Lista 04",| Azteca Uno HD | MEX
+http://daletvplay.xyz:8080/9ThR5zqwvN/XPHBz4lboa/5751
+#EXTINF:-1  group-title="Lista 04",| Canal 2 SD | MEX
+http://daletvplay.xyz:8080/9ThR5zqwvN/XPHBz4lboa/7754
+#EXTINF:-1  group-title="Lista 04",| Canal 4 SD | MEX
+http://daletvplay.xyz:8080/9ThR5zqwvN/XPHBz4lboa/5755
+#EXTINF:-1  group-title="Lista 04",Canal 4 HD
+http://daletvplay.xyz:8080/9ThR5zqwvN/XPHBz4lboa/7756
+#EXTINF:-1  group-title="Lista 04",| Canal 5 SD | MEX
+http://daletvplay.xyz:8080/9ThR5zqwvN/XPHBz4lboa/5756
+#EXTINF:-1  group-title="Lista 04",| Canal 5 HD | MEX
+http://daletvplay.xyz:8080/9ThR5zqwvN/XPHBz4lboa/7757
+#EXTINF:-1  group-title="Lista 04",| Azteca 7 SD | MEX
+http://daletvplay.xyz:8080/9ThR5zqwvN/XPHBz4lboa/5752
+#EXTINF:-1  group-title="Lista 04",| Azteca 7 HD | MEX
+http://daletvplay.xyz:8080/9ThR5zqwvN/XPHBz4lboa/7752
+#EXTINF:-1  group-title="Lista 04",| Canal 8 SD | MEX
+http://daletvplay.xyz:8080/9ThR5zqwvN/XPHBz4lboa/5757
+#EXTINF:-1  group-title="Lista 04",| Canal 8 HD | MEX
+http://daletvplay.xyz:8080/9ThR5zqwvN/XPHBz4lboa/7758
+#EXTINF:-1  group-title="Lista 04",| NU9VE SD | MEX
+http://daletvplay.xyz:8080/9ThR5zqwvN/XPHBz4lboa/7772
+#EXTINF:-1  group-title="Lista 04",| Canal Once SD | MEX
+http://daletvplay.xyz:8080/9ThR5zqwvN/XPHBz4lboa/5760
+#EXTINF:-1  group-title="Lista 04",| Canal Once HD | MEX
+http://daletvplay.xyz:8080/9ThR5zqwvN/XPHBz4lboa/7761
+#EXTINF:-1  group-title="Lista 04",| Canal 26 HD | MEX
+http://daletvplay.xyz:8080/9ThR5zqwvN/XPHBz4lboa/7755
+#EXTINF:-1  group-title="Lista 04",| Canal 26 HD | MEX
+http://daletvplay.xyz:8080/9ThR5zqwvN/XPHBz4lboa/5754
+#EXTINF:-1  group-title="Lista 04",| Adn 40 SD | MEX
+http://daletvplay.xyz:8080/9ThR5zqwvN/XPHBz4lboa/5744
+#EXTINF:-1  group-title="Lista 04",| Az Mundo SD | MEX
+http://daletvplay.xyz:8080/9ThR5zqwvN/XPHBz4lboa/7739
+#EXTINF:-1  group-title="Lista 04",| Az Mundo HD | MEX
+http://daletvplay.xyz:8080/9ThR5zqwvN/XPHBz4lboa/5749
+#EXTINF:-1  group-title="Lista 04",| Telenovelas SD | MEX
+http://daletvplay.xyz:8080/9ThR5zqwvN/XPHBz4lboa/5779
+#EXTINF:-1  group-title="Lista 04",| Telenovelas HD | MEX
+http://daletvplay.xyz:8080/9ThR5zqwvN/XPHBz4lboa/5780
+#EXTINF:-1  group-title="Lista 04",| Telenovelas HD | MEX
+http://daletvplay.xyz:8080/9ThR5zqwvN/XPHBz4lboa/7763
+#EXTINF:-1  group-title="Lista 04",| Az Coraz\u00f3n SD | MEX
+http://daletvplay.xyz:8080/9ThR5zqwvN/XPHBz4lboa/5750
+#EXTINF:-1  group-title="Lista 04",| Az Coraz\u00f3n HD | MEX
+http://daletvplay.xyz:8080/9ThR5zqwvN/XPHBz4lboa/5748
+#EXTINF:-1  group-title="Lista 04",| Azteca cinema SD | MEX
+http://daletvplay.xyz:8080/9ThR5zqwvN/XPHBz4lboa/7735
+#EXTINF:-1  group-title="Lista 04",| Azteca cinema SD | MEX
+http://daletvplay.xyz:8080/9ThR5zqwvN/XPHBz4lboa/7737
+#EXTINF:-1  group-title="Lista 04",| Las Estrellas SD | MEX
+http://daletvplay.xyz:8080/9ThR5zqwvN/XPHBz4lboa/5758
+#EXTINF:-1  group-title="Lista 04",| Las estrellas SD | MEX
+http://daletvplay.xyz:8080/9ThR5zqwvN/XPHBz4lboa/5763
+#EXTINF:-1  group-title="Lista 04",| Las Estrellas HD | MEX
+http://daletvplay.xyz:8080/9ThR5zqwvN/XPHBz4lboa/7759
+#EXTINF:-1  group-title="Lista 04",| Televisa Monterrey SD | MEX
+http://daletvplay.xyz:8080/9ThR5zqwvN/XPHBz4lboa/5762
+#EXTINF:-1  group-title="Lista 04",| Televisa Puebla SD | MEX
+http://daletvplay.xyz:8080/9ThR5zqwvN/XPHBz4lboa/5761
+#EXTINF:-1  group-title="Lista 04",| Judicial SD | MEX
+http://daletvplay.xyz:8080/9ThR5zqwvN/XPHBz4lboa/5759
+#EXTINF:-1  group-title="Lista 04",| Judicial HD | MEX
+http://daletvplay.xyz:8080/9ThR5zqwvN/XPHBz4lboa/7760
+#EXTINF:-1  group-title="Lista 04",| Cadena H SD | MEX
+http://daletvplay.xyz:8080/9ThR5zqwvN/XPHBz4lboa/5753
+#EXTINF:-1  group-title="Lista 04",| Cadena H HD |
+http://daletvplay.xyz:8080/9ThR5zqwvN/XPHBz4lboa/7753
+#EXTINF:-1  group-title="Lista 04",| Bandamax SD | MEX
+http://daletvplay.xyz:8080/9ThR5zqwvN/XPHBz4lboa/7740
+#EXTINF:-1  group-title="Lista 04",| Unicable SD | MEX
+http://daletvplay.xyz:8080/9ThR5zqwvN/XPHBz4lboa/7751
+#EXTINF:-1  group-title="Lista 04",| Unicable HD | MEX
+http://daletvplay.xyz:8080/9ThR5zqwvN/XPHBz4lboa/7767
+#EXTINF:-1  group-title="Lista 04",| BitMe SD | MEX
+http://daletvplay.xyz:8080/9ThR5zqwvN/XPHBz4lboa/7750
+#EXTINF:-1  group-title="Lista 04",| BitMe HD | MEX
+http://daletvplay.xyz:8080/9ThR5zqwvN/XPHBz4lboa/7765
+#EXTINF:-1  group-title="Lista 04",| Sony SD | MEX
+http://daletvplay.xyz:8080/9ThR5zqwvN/XPHBz4lboa/7749
+#EXTINF:-1  group-title="Lista 04",| Sony HD | MEX
+http://daletvplay.xyz:8080/9ThR5zqwvN/XPHBz4lboa/7762
+#EXTINF:-1  group-title="Lista 04",| Clic SD | MEX
+http://daletvplay.xyz:8080/9ThR5zqwvN/XPHBz4lboa/7738
+#EXTINF:-1  group-title="Lista 04",| Mexiquense SD | MEX
+http://daletvplay.xyz:8080/9ThR5zqwvN/XPHBz4lboa/7742
+#EXTINF:-1  group-title="Lista 04",| Multimedios SD |
+http://daletvplay.xyz:8080/9ThR5zqwvN/XPHBz4lboa/7743
+#EXTINF:-1  group-title="Lista 04",| Multimedios Plus | SD
+http://daletvplay.xyz:8080/9ThR5zqwvN/XPHBz4lboa/7744
+#EXTINF:-1  group-title="Lista 04",| Ntn 24 SD | MEX
+http://daletvplay.xyz:8080/9ThR5zqwvN/XPHBz4lboa/7745
+#EXTINF:-1  group-title="Lista 04",| 2:A+ 7.2 SD | MEX
+http://daletvplay.xyz:8080/9ThR5zqwvN/XPHBz4lboa/7746
+#EXTINF:-1  group-title="Lista 04",| RMS SD | MEX
+http://daletvplay.xyz:8080/9ThR5zqwvN/XPHBz4lboa/7747
+#EXTINF:-1  group-title="Lista 04",| Aym Sports SD | MEX
+http://daletvplay.xyz:8080/9ThR5zqwvN/XPHBz4lboa/7748
+#EXTINF:-1  group-title="Lista 04",| Tlr SD | MEX
+http://daletvplay.xyz:8080/9ThR5zqwvN/XPHBz4lboa/5782
+#EXTINF:-1  group-title="Lista 04",| A3 Cine SD | MEX
+http://daletvplay.xyz:8080/9ThR5zqwvN/XPHBz4lboa/7768
+#EXTINF:-1  group-title="Lista 04",| Adrenalina Sports Network SD | MEX
+http://daletvplay.xyz:8080/9ThR5zqwvN/XPHBz4lboa/7769
+#EXTINF:-1  group-title="Lista 04",| Rt SD | MEX
+http://daletvplay.xyz:8080/9ThR5zqwvN/XPHBz4lboa/7770
+
+#EXTM3U
+#EXTINF:-1  group-title="Lista 04",| Fox Movie FHD | CINE
+http://daletvplay.xyz:8080/9ThR5zqwvN/XPHBz4lboa/14867
+#EXTINF:-1  group-title="Lista 04",| Paramout FHD | CINE
+http://daletvplay.xyz:8080/9ThR5zqwvN/XPHBz4lboa/14868
+#EXTINF:-1  group-title="Lista 04",| Pasiones FHD | ENT
+http://daletvplay.xyz:8080/9ThR5zqwvN/XPHBz4lboa/14869
+#EXTINF:-1  group-title="Lista 04",| Sony FHD | CINE
+http://daletvplay.xyz:8080/9ThR5zqwvN/XPHBz4lboa/14870
+#EXTINF:-1  group-title="Lista 04",| Space FHD | CINE
+http://daletvplay.xyz:8080/9ThR5zqwvN/XPHBz4lboa/14871
+#EXTINF:-1  group-title="Lista 04",| Studio Universal FHD | CINE
+http://daletvplay.xyz:8080/9ThR5zqwvN/XPHBz4lboa/14872
+#EXTINF:-1  group-title="Lista 04",| SYFY FHD | CINE
+http://daletvplay.xyz:8080/9ThR5zqwvN/XPHBz4lboa/14873
+#EXTINF:-1  group-title="Lista 04",| Universal Channel FHD | CINE
+http://daletvplay.xyz:8080/9ThR5zqwvN/XPHBz4lboa/14875
+#EXTINF:-1  group-title="Lista 04",| Max Prime FHD | CINE
+http://daletvplay.xyz:8080/9ThR5zqwvN/XPHBz4lboa/14876
+#EXTINF:-1  group-title="Lista 04",| FX | CINE
+http://daletvplay.xyz:8080/9ThR5zqwvN/XPHBz4lboa/14877
+#EXTINF:-1  group-title="Lista 04",| AMC FHD | CINE
+http://daletvplay.xyz:8080/9ThR5zqwvN/XPHBz4lboa/14878
+#EXTINF:-1  group-title="Lista 04",| A&E FHD | CINE
+http://daletvplay.xyz:8080/9ThR5zqwvN/XPHBz4lboa/14879
+#EXTINF:-1  group-title="Lista 04",| FILM FHD | CINE
+http://daletvplay.xyz:8080/9ThR5zqwvN/XPHBz4lboa/14880
+#EXTINF:-1  group-title="Lista 04",| HBO FHD | CINE
+http://daletvplay.xyz:8080/9ThR5zqwvN/XPHBz4lboa/14883
+#EXTINF:-1  group-title="Lista 04",| OuterMax HD_1080P | CINE
+http://daletvplay.xyz:8080/9ThR5zqwvN/XPHBz4lboa/18545
+#EXTINF:-1  group-title="Lista 04",| MovieMax HD_1080P | CINE
+http://daletvplay.xyz:8080/9ThR5zqwvN/XPHBz4lboa/18549
+#EXTINF:-1  group-title="Lista 04",| Fox Cinema FHD | CINE
+http://daletvplay.xyz:8080/9ThR5zqwvN/XPHBz4lboa/55052
+#EXTINF:-1  group-title="Lista 04",| Fox Classics FHD | CINE
+http://daletvplay.xyz:8080/9ThR5zqwvN/XPHBz4lboa/55053
+#EXTINF:-1  group-title="Lista 04",| Stars life  FHD | CINE
+http://daletvplay.xyz:8080/9ThR5zqwvN/XPHBz4lboa/55067
+#EXTINF:-1  group-title="Lista 04",| Stars movies FHD | CINE
+http://daletvplay.xyz:8080/9ThR5zqwvN/XPHBz4lboa/55068
+#EXTINF:-1  group-title="Lista 04",| Fox News FHD | 
+http://daletvplay.xyz:8080/9ThR5zqwvN/XPHBz4lboa/55069
+#EXTINF:-1  group-title="Lista 04",| Stars series FHD | CINE
+http://daletvplay.xyz:8080/9ThR5zqwvN/XPHBz4lboa/55070
+#EXTINF:-1  group-title="Lista 04",| FX FHD | CINE
+http://daletvplay.xyz:8080/9ThR5zqwvN/XPHBz4lboa/55071
+#EXTINF:-1  group-title="Lista 04",| FXM FHD | CINE
+http://daletvplay.xyz:8080/9ThR5zqwvN/XPHBz4lboa/55072
+#EXTINF:-1  group-title="Lista 04",| Garage TV | 
+http://daletvplay.xyz:8080/9ThR5zqwvN/XPHBz4lboa/55073
+#EXTINF:-1  group-title="Lista 04",| Golden FHD | CINE
+http://daletvplay.xyz:8080/9ThR5zqwvN/XPHBz4lboa/55074
+#EXTINF:-1  group-title="Lista 04",| Golden Edge FHD | CINE
+http://daletvplay.xyz:8080/9ThR5zqwvN/XPHBz4lboa/55075
+#EXTINF:-1  group-title="Lista 04",| Golden Plus FHD | CINE
+http://daletvplay.xyz:8080/9ThR5zqwvN/XPHBz4lboa/55076
+#EXTINF:-1  group-title="Lista 04",| HLN FHD | 
+http://daletvplay.xyz:8080/9ThR5zqwvN/XPHBz4lboa/55088
+#EXTINF:-1  group-title="Lista 04",| Hola TV FHD |
+http://daletvplay.xyz:8080/9ThR5zqwvN/XPHBz4lboa/55089
+#EXTINF:-1  group-title="Lista 04",| Discovery Investigation FHD | ENT
+http://daletvplay.xyz:8080/9ThR5zqwvN/XPHBz4lboa/55090
+#EXTINF:-1  group-title="Lista 04",| I sat FHD | CINE
+http://daletvplay.xyz:8080/9ThR5zqwvN/XPHBz4lboa/55091
+#EXTINF:-1  group-title="Lista 04",| Lifetime FHD | ENT
+http://daletvplay.xyz:8080/9ThR5zqwvN/XPHBz4lboa/55092
+#EXTINF:-1  group-title="Lista 04",| M\u00e1s Chic FHD | 
+http://daletvplay.xyz:8080/9ThR5zqwvN/XPHBz4lboa/55093
+#EXTINF:-1  group-title="Lista 04",| Multimedios FHD |
+http://daletvplay.xyz:8080/9ThR5zqwvN/XPHBz4lboa/55098
+#EXTINF:-1  group-title="Lista 04",| Multimedios Plus FHD | 
+http://daletvplay.xyz:8080/9ThR5zqwvN/XPHBz4lboa/55099
+#EXTINF:-1  group-title="Lista 04",| Nat Geo Wild FHD | ENT
+http://daletvplay.xyz:8080/9ThR5zqwvN/XPHBz4lboa/55101
+#EXTINF:-1  group-title="Lista 04",| Natgeo FHD | ENT
+http://daletvplay.xyz:8080/9ThR5zqwvN/XPHBz4lboa/55102
+#EXTINF:-1  group-title="Lista 04",| NBC Golf FHD | DEP
+http://daletvplay.xyz:8080/9ThR5zqwvN/XPHBz4lboa/55103
+#EXTINF:-1  group-title="Lista 04",| Nick Jr. FHD | INF
+http://daletvplay.xyz:8080/9ThR5zqwvN/XPHBz4lboa/55105
+#EXTINF:-1  group-title="Lista 04",| NTN24 FHD | CINE
+http://daletvplay.xyz:8080/9ThR5zqwvN/XPHBz4lboa/55109
+#EXTINF:-1  group-title="Lista 04",| Paramount Channel FHD | CINE
+http://daletvplay.xyz:8080/9ThR5zqwvN/XPHBz4lboa/55110
+#EXTINF:-1  group-title="Lista 04",| Space FHD | CINE
+http://daletvplay.xyz:8080/9ThR5zqwvN/XPHBz4lboa/55112
+#EXTINF:-1  group-title="Lista 04",| Star TVE FHD | CINE
+http://daletvplay.xyz:8080/9ThR5zqwvN/XPHBz4lboa/55113
+#EXTINF:-1  group-title="Lista 04",| Universal Channel FHD | CINE
+http://daletvplay.xyz:8080/9ThR5zqwvN/XPHBz4lboa/55114
+#EXTINF:-1  group-title="Lista 04",| TLC FHD | ENT
+http://daletvplay.xyz:8080/9ThR5zqwvN/XPHBz4lboa/55116
+#EXTINF:-1  group-title="Lista 04",| TLR FHD | 
+http://daletvplay.xyz:8080/9ThR5zqwvN/XPHBz4lboa/55117
+#EXTINF:-1  group-title="Lista 04",| TNT FHD | CINE
+http://daletvplay.xyz:8080/9ThR5zqwvN/XPHBz4lboa/55118
+#EXTINF:-1  group-title="Lista 04",| TNT Series FHD | CINE
+http://daletvplay.xyz:8080/9ThR5zqwvN/XPHBz4lboa/55119
+#EXTINF:-1  group-title="Lista 04",| Tooncast FHD | INF
+http://daletvplay.xyz:8080/9ThR5zqwvN/XPHBz4lboa/55120
+#EXTINF:-1  group-title="Lista 04",| VH1 Classic FHD | MUSIC
+http://daletvplay.xyz:8080/9ThR5zqwvN/XPHBz4lboa/55125
+#EXTINF:-1  group-title="Lista 04",| VH1+ HD | MUSIC
+http://daletvplay.xyz:8080/9ThR5zqwvN/XPHBz4lboa/55126
+#EXTINF:-1  group-title="Lista 04",| Warner Channel  FHD | 
+http://daletvplay.xyz:8080/9ThR5zqwvN/XPHBz4lboa/55127
+#EXTINF:-1  group-title="Lista 04",| Cinemax FHD | CINE
+http://daletvplay.xyz:8080/9ThR5zqwvN/XPHBz4lboa/55141
+#EXTINF:-1  group-title="Lista 04",| HBO Pop FHD | CINE
+http://daletvplay.xyz:8080/9ThR5zqwvN/XPHBz4lboa/55143
+#EXTINF:-1  group-title="Lista 04",| Stars family FHD | CINE
+http://daletvplay.xyz:8080/9ThR5zqwvN/XPHBz4lboa/55144
+#EXTINF:-1  group-title="Lista 04",| ANIMAL PLANET FHD | CINE
+http://daletvplay.xyz:8080/9ThR5zqwvN/XPHBz4lboa/56803
+#EXTINF:-1  group-title="Lista 04",| AXN FHD | CINE
+http://daletvplay.xyz:8080/9ThR5zqwvN/XPHBz4lboa/56804
+#EXTINF:-1  group-title="Lista 04",| HBO FAMILY FHD | CINE
+http://daletvplay.xyz:8080/9ThR5zqwvN/XPHBz4lboa/56805
+#EXTINF:-1  group-title="Lista 04",| HBO PLUS FHD | CINE
+http://daletvplay.xyz:8080/9ThR5zqwvN/XPHBz4lboa/56806
+#EXTINF:-1  group-title="Lista 04",| HBO FHD | CINE
+http://daletvplay.xyz:8080/9ThR5zqwvN/XPHBz4lboa/56807
+#EXTINF:-1  group-title="Lista 04",| HBO Pop Full HD | CINE
+http://daletvplay.xyz:8080/9ThR5zqwvN/XPHBz4lboa/56995
+
+#EXTM3U
+#EXTINF:-1  group-title="Lista 04",| A&E (MOVIL) | CINE
+http://daletvplay.xyz:8080/9ThR5zqwvN/XPHBz4lboa/57145
+#EXTINF:-1  group-title="Lista 04",| A&E Full HD (ARG)(Dual Audio) | CINE
+http://daletvplay.xyz:8080/9ThR5zqwvN/XPHBz4lboa/57151
+#EXTINF:-1  group-title="Lista 04",| A&E Full HD (CO) | CINE
+http://daletvplay.xyz:8080/9ThR5zqwvN/XPHBz4lboa/57148
+#EXTINF:-1  group-title="Lista 04",| AMC Full HD (ARG)(Dual Audio) | CINE
+http://daletvplay.xyz:8080/9ThR5zqwvN/XPHBz4lboa/57158
+#EXTINF:-1  group-title="Lista 04",| AMC Full HD (CO) | CINE
+http://daletvplay.xyz:8080/9ThR5zqwvN/XPHBz4lboa/57155
+#EXTINF:-1  group-title="Lista 04",| AMC HD (CO) | CINE
+http://daletvplay.xyz:8080/9ThR5zqwvN/XPHBz4lboa/57154
+#EXTINF:-1  group-title="Lista 04",| AXN (MOVIL) | CINE
+http://daletvplay.xyz:8080/9ThR5zqwvN/XPHBz4lboa/57159
+#EXTINF:-1  group-title="Lista 04",| AXN Full HD (ARG)(Dual Audio) | CINE
+http://daletvplay.xyz:8080/9ThR5zqwvN/XPHBz4lboa/57165
+#EXTINF:-1  group-title="Lista 04",| AXN Full HD (CO) | CINE
+http://daletvplay.xyz:8080/9ThR5zqwvN/XPHBz4lboa/57162
+#EXTINF:-1  group-title="Lista 04",| Cine Latino | CINE
+http://daletvplay.xyz:8080/9ThR5zqwvN/XPHBz4lboa/57178
+#EXTINF:-1  group-title="Lista 04",| Cine Latino (MOVIL) | CINE
+http://daletvplay.xyz:8080/9ThR5zqwvN/XPHBz4lboa/57177
+#EXTINF:-1  group-title="Lista 04",| Cinecanal Full HD (ARG)(Dual Audio) | CINE
+http://daletvplay.xyz:8080/9ThR5zqwvN/XPHBz4lboa/57172
+#EXTINF:-1  group-title="Lista 04",| Cinecanal Full HD (CO) | CINE
+http://daletvplay.xyz:8080/9ThR5zqwvN/XPHBz4lboa/57169
+#EXTINF:-1  group-title="Lista 04",| Cinecanal HD (CO) | 
+http://daletvplay.xyz:8080/9ThR5zqwvN/XPHBz4lboa/57168
+#EXTINF:-1  group-title="Lista 04",| Cinema Dinamita | CINE
+http://daletvplay.xyz:8080/9ThR5zqwvN/XPHBz4lboa/57180
+#EXTINF:-1  group-title="Lista 04",| Cinema Dinamita (MOVIL) | CINE
+http://daletvplay.xyz:8080/9ThR5zqwvN/XPHBz4lboa/57179
+#EXTINF:-1  group-title="Lista 04",| Cinemax (CO) | CINE
+http://daletvplay.xyz:8080/9ThR5zqwvN/XPHBz4lboa/57174
+#EXTINF:-1  group-title="Lista 04",| Cinemax (MOVIL) | CINE
+http://daletvplay.xyz:8080/9ThR5zqwvN/XPHBz4lboa/57173
+#EXTINF:-1  group-title="Lista 04",| Claro Cinema | CINE
+http://daletvplay.xyz:8080/9ThR5zqwvN/XPHBz4lboa/57181
+#EXTINF:-1  group-title="Lista 04",| De Pelicula | CINE
+http://daletvplay.xyz:8080/9ThR5zqwvN/XPHBz4lboa/72886
+#EXTINF:-1  group-title="Lista 04",| DHE | CINE
+http://daletvplay.xyz:8080/9ThR5zqwvN/XPHBz4lboa/57183
+#EXTINF:-1  group-title="Lista 04",| DHE (MOVIL) | CINE
+http://daletvplay.xyz:8080/9ThR5zqwvN/XPHBz4lboa/57182
+#EXTINF:-1  group-title="Lista 04",| DHE Full HD (ARG)(Dual Audio) | CINE
+http://daletvplay.xyz:8080/9ThR5zqwvN/XPHBz4lboa/57185
+#EXTINF:-1  group-title="Lista 04",| Europa Europa | CINE
+http://daletvplay.xyz:8080/9ThR5zqwvN/XPHBz4lboa/72885
+#EXTINF:-1  group-title="Lista 04",| Film & Arts HD | CINE
+http://daletvplay.xyz:8080/9ThR5zqwvN/XPHBz4lboa/72889
+#EXTINF:-1  group-title="Lista 04",| Film And Arts | CINE
+http://daletvplay.xyz:8080/9ThR5zqwvN/XPHBz4lboa/72888
+#EXTINF:-1  group-title="Lista 04",| Film And Arts Full HD (ARG)(Dual Audio) | CINE
+http://daletvplay.xyz:8080/9ThR5zqwvN/XPHBz4lboa/72890
+#EXTINF:-1  group-title="Lista 04",| Stars Channel (MOVIL) | CINE
+http://daletvplay.xyz:8080/9ThR5zqwvN/XPHBz4lboa/57186
+#EXTINF:-1  group-title="Lista 04",| Stars Channel Full HD (ARG)(Dual Audio) | CINE
+http://daletvplay.xyz:8080/9ThR5zqwvN/XPHBz4lboa/57192
+#EXTINF:-1  group-title="Lista 04",| Stars Channel HD (CO) | CINE
+http://daletvplay.xyz:8080/9ThR5zqwvN/XPHBz4lboa/57188
+#EXTINF:-1  group-title="Lista 04",| Fox Cinema Subtitulado FHD | CINE
+http://daletvplay.xyz:8080/9ThR5zqwvN/XPHBz4lboa/57199
+#EXTINF:-1  group-title="Lista 04",| Fox Cinema Subtitulado Full HD | CINE
+http://daletvplay.xyz:8080/9ThR5zqwvN/XPHBz4lboa/57200
+#EXTINF:-1  group-title="Lista 04",| Stars life (CO) | CINE
+http://daletvplay.xyz:8080/9ThR5zqwvN/XPHBz4lboa/57194
+#EXTINF:-1  group-title="Lista 04",| Stars life (MOVIL) | CINE
+http://daletvplay.xyz:8080/9ThR5zqwvN/XPHBz4lboa/57193
+#EXTINF:-1  group-title="Lista 04",| Stars life Full HD (CO) | CINE
+http://daletvplay.xyz:8080/9ThR5zqwvN/XPHBz4lboa/57196
+#EXTINF:-1  group-title="Lista 04",| Fox Premium Action (CO) | CINE
+http://daletvplay.xyz:8080/9ThR5zqwvN/XPHBz4lboa/57202
+#EXTINF:-1  group-title="Lista 04",| Fox Premium Action Full HD (ARG)(Dual Audio) | CINE
+http://daletvplay.xyz:8080/9ThR5zqwvN/XPHBz4lboa/57207
+#EXTINF:-1  group-title="Lista 04",| Fox Premium Action Full HD (CO) | CINE
+http://daletvplay.xyz:8080/9ThR5zqwvN/XPHBz4lboa/57204
+#EXTINF:-1  group-title="Lista 04",| Fox Premium Action HD (CO) | CINE
+http://daletvplay.xyz:8080/9ThR5zqwvN/XPHBz4lboa/57203
+#EXTINF:-1  group-title="Lista 04",| Fox Premium Cinema | CINE
+http://daletvplay.xyz:8080/9ThR5zqwvN/XPHBz4lboa/57209
+#EXTINF:-1  group-title="Lista 04",| Fox Premium Cinema Full HD | CINE
+http://daletvplay.xyz:8080/9ThR5zqwvN/XPHBz4lboa/57210
+#EXTINF:-1  group-title="Lista 04",| Fox Premium Classics | CINE
+http://daletvplay.xyz:8080/9ThR5zqwvN/XPHBz4lboa/57212
+#EXTINF:-1  group-title="Lista 04",| Fox Premium Classics Full HD | CINE
+http://daletvplay.xyz:8080/9ThR5zqwvN/XPHBz4lboa/57213
+#EXTINF:-1  group-title="Lista 04",| Stars comedy | CINE
+http://daletvplay.xyz:8080/9ThR5zqwvN/XPHBz4lboa/57215
+#EXTINF:-1  group-title="Lista 04",| Stars comedy Full HD | CINE
+http://daletvplay.xyz:8080/9ThR5zqwvN/XPHBz4lboa/57217
+#EXTINF:-1  group-title="Lista 04",| Fox Premium Comed\u00ed Full HD (ARG)(Dual Audio) | CINE
+http://daletvplay.xyz:8080/9ThR5zqwvN/XPHBz4lboa/57218
+#EXTINF:-1  group-title="Lista 04",| Stars comedy HD | CINE
+http://daletvplay.xyz:8080/9ThR5zqwvN/XPHBz4lboa/57216
+#EXTINF:-1  group-title="Lista 04",| Stars family | CINE
+http://daletvplay.xyz:8080/9ThR5zqwvN/XPHBz4lboa/57220
+#EXTINF:-1  group-title="Lista 04",| Stars family Full HD | CINE
+http://daletvplay.xyz:8080/9ThR5zqwvN/XPHBz4lboa/57222
+#EXTINF:-1  group-title="Lista 04",| Stars Family Full HD (ARG)(Dual Audio) | CINE
+http://daletvplay.xyz:8080/9ThR5zqwvN/XPHBz4lboa/57223
+#EXTINF:-1  group-title="Lista 04",| Stars family HD | CINE
+http://daletvplay.xyz:8080/9ThR5zqwvN/XPHBz4lboa/57221
+#EXTINF:-1  group-title="Lista 04",| Stars movies | CINE
+http://daletvplay.xyz:8080/9ThR5zqwvN/XPHBz4lboa/57225
+#EXTINF:-1  group-title="Lista 04",| Stars movies Full HD | CINE
+http://daletvplay.xyz:8080/9ThR5zqwvN/XPHBz4lboa/57227
+#EXTINF:-1  group-title="Lista 04",| Stars movies Full HD (ARG)(Dual Audio) | CINE
+http://daletvplay.xyz:8080/9ThR5zqwvN/XPHBz4lboa/57228
+#EXTINF:-1  group-title="Lista 04",| Stars movies HD | CINE
+http://daletvplay.xyz:8080/9ThR5zqwvN/XPHBz4lboa/57226
+#EXTINF:-1  group-title="Lista 04",| Stars series | CINE
+http://daletvplay.xyz:8080/9ThR5zqwvN/XPHBz4lboa/57230
+#EXTINF:-1  group-title="Lista 04",| Stars series Full HD | CINE
+http://daletvplay.xyz:8080/9ThR5zqwvN/XPHBz4lboa/57231
+#EXTINF:-1  group-title="Lista 04",| Stars series Full HD (ARG)(Dual Audio) | CINE
+http://daletvplay.xyz:8080/9ThR5zqwvN/XPHBz4lboa/57232
+#EXTINF:-1  group-title="Lista 04",| FX (MOVIL) | CINE
+http://daletvplay.xyz:8080/9ThR5zqwvN/XPHBz4lboa/57235
+#EXTINF:-1  group-title="Lista 04",| FX Full HD (ARG)(Dual Audio) | CINE
+http://daletvplay.xyz:8080/9ThR5zqwvN/XPHBz4lboa/57236
+#EXTINF:-1  group-title="Lista 04",| FXM Full HD (ARG)(Dual Audio) | CINE
+http://daletvplay.xyz:8080/9ThR5zqwvN/XPHBz4lboa/57239
+#EXTINF:-1  group-title="Lista 04",| Golden | CINE
+http://daletvplay.xyz:8080/9ThR5zqwvN/XPHBz4lboa/57241
+#EXTINF:-1  group-title="Lista 04",| Golden Edge (MOVIL) | CINE
+http://daletvplay.xyz:8080/9ThR5zqwvN/XPHBz4lboa/57245
+#EXTINF:-1  group-title="Lista 04",| Golden Full HD | CINE
+http://daletvplay.xyz:8080/9ThR5zqwvN/XPHBz4lboa/57242
+#EXTINF:-1  group-title="Lista 04",| Golden Premier | CINE
+http://daletvplay.xyz:8080/9ThR5zqwvN/XPHBz4lboa/57243
+#EXTINF:-1  group-title="Lista 04",| Golden Premier Full HD | CINE
+http://daletvplay.xyz:8080/9ThR5zqwvN/XPHBz4lboa/57244
+#EXTINF:-1  group-title="Lista 04",| HBO | CINE
+http://daletvplay.xyz:8080/9ThR5zqwvN/XPHBz4lboa/57250
+#EXTINF:-1  group-title="Lista 04",| HBO 2 | CINE
+http://daletvplay.xyz:8080/9ThR5zqwvN/XPHBz4lboa/57401
+#EXTINF:-1  group-title="Lista 04",| HBO 2 Full HD | CINE
+http://daletvplay.xyz:8080/9ThR5zqwvN/XPHBz4lboa/57403
+#EXTINF:-1  group-title="Lista 04",| HBO 2 Full HD (ARG)(Dual Audio) | CINE
+http://daletvplay.xyz:8080/9ThR5zqwvN/XPHBz4lboa/57404
+#EXTINF:-1  group-title="Lista 04",| HBO 2 HD | CINE
+http://daletvplay.xyz:8080/9ThR5zqwvN/XPHBz4lboa/57402
+#EXTINF:-1  group-title="Lista 04",| HBO Family | CINE
+http://daletvplay.xyz:8080/9ThR5zqwvN/XPHBz4lboa/57406
+#EXTINF:-1  group-title="Lista 04",| HBO Family Full | CINE
+http://daletvplay.xyz:8080/9ThR5zqwvN/XPHBz4lboa/57408
+#EXTINF:-1  group-title="Lista 04",| HBO Family Full HD (ARG)(Dual Audio) | CINE
+http://daletvplay.xyz:8080/9ThR5zqwvN/XPHBz4lboa/57409
+#EXTINF:-1  group-title="Lista 04",| HBO Family HD | CINE
+http://daletvplay.xyz:8080/9ThR5zqwvN/XPHBz4lboa/57407
+#EXTINF:-1  group-title="Lista 04",| HBO Full HD | CINE
+http://daletvplay.xyz:8080/9ThR5zqwvN/XPHBz4lboa/57398
+#EXTINF:-1  group-title="Lista 04",| HBO Full HD (ARG)(Dual Audio) | CINE
+http://daletvplay.xyz:8080/9ThR5zqwvN/XPHBz4lboa/57399
+#EXTINF:-1  group-title="Lista 04",| HBO HD | CINE
+http://daletvplay.xyz:8080/9ThR5zqwvN/XPHBz4lboa/57251
+#EXTINF:-1  group-title="Lista 04",| HBO Mundi | CINE
+http://daletvplay.xyz:8080/9ThR5zqwvN/XPHBz4lboa/57421
+#EXTINF:-1  group-title="Lista 04",| HBO Plus | CINE
+http://daletvplay.xyz:8080/9ThR5zqwvN/XPHBz4lboa/57411
+#EXTINF:-1  group-title="Lista 04",| HBO Plus Full HD | CINE
+http://daletvplay.xyz:8080/9ThR5zqwvN/XPHBz4lboa/57413
+#EXTINF:-1  group-title="Lista 04",| HBO Plus Full HD (ARG)(Dual Audio) | CINE
+http://daletvplay.xyz:8080/9ThR5zqwvN/XPHBz4lboa/57414
+#EXTINF:-1  group-title="Lista 04",| HBO Plus HD | CINE
+http://daletvplay.xyz:8080/9ThR5zqwvN/XPHBz4lboa/57412
+#EXTINF:-1  group-title="Lista 04",| HBO Pop | CINE
+http://daletvplay.xyz:8080/9ThR5zqwvN/XPHBz4lboa/57423
+#EXTINF:-1  group-title="Lista 04",| HBO Pop (MOVIL) | CINE
+http://daletvplay.xyz:8080/9ThR5zqwvN/XPHBz4lboa/57422
+#EXTINF:-1  group-title="Lista 04",| HBO Pop Full HD | CINE
+http://daletvplay.xyz:8080/9ThR5zqwvN/XPHBz4lboa/57424
+#EXTINF:-1  group-title="Lista 04",| HBO Signature | CINE
+http://daletvplay.xyz:8080/9ThR5zqwvN/XPHBz4lboa/57416
+#EXTINF:-1  group-title="Lista 04",| HBO Signature (MOVIL) | CINE
+http://daletvplay.xyz:8080/9ThR5zqwvN/XPHBz4lboa/57415
+#EXTINF:-1  group-title="Lista 04",| HBO Signature Full HD | CINE
+http://daletvplay.xyz:8080/9ThR5zqwvN/XPHBz4lboa/57418
+#EXTINF:-1  group-title="Lista 04",| HBO Signature HD | CINE
+http://daletvplay.xyz:8080/9ThR5zqwvN/XPHBz4lboa/57417
+#EXTINF:-1  group-title="Lista 04",| HBO Subtitulado | CINE
+http://daletvplay.xyz:8080/9ThR5zqwvN/XPHBz4lboa/57419
+#EXTINF:-1  group-title="Lista 04",| HBO Subtitulado Full HD | CINE
+http://daletvplay.xyz:8080/9ThR5zqwvN/XPHBz4lboa/57420
+#EXTINF:-1  group-title="Lista 04",| HBO Xtreme | CINE
+http://daletvplay.xyz:8080/9ThR5zqwvN/XPHBz4lboa/57426
+#EXTINF:-1  group-title="Lista 04",| HBO Xtreme (ARG)(Dual Audio) | CINE
+http://daletvplay.xyz:8080/9ThR5zqwvN/XPHBz4lboa/57425
+#EXTINF:-1  group-title="Lista 04",| HBO Xtreme Full HD | CINE
+http://daletvplay.xyz:8080/9ThR5zqwvN/XPHBz4lboa/57427
+#EXTINF:-1  group-title="Lista 04",| I.Sat | CINE
+http://daletvplay.xyz:8080/9ThR5zqwvN/XPHBz4lboa/72887
+#EXTINF:-1  group-title="Lista 04",| Indieplex Full HD | CINE
+http://daletvplay.xyz:8080/9ThR5zqwvN/XPHBz4lboa/72895
+#EXTINF:-1  group-title="Lista 04",| Moviemax Full HD | CINE
+http://daletvplay.xyz:8080/9ThR5zqwvN/XPHBz4lboa/72896
+#EXTINF:-1  group-title="Lista 04",| Movieplex Full HD | CINE
+http://daletvplay.xyz:8080/9ThR5zqwvN/XPHBz4lboa/72898
+#EXTINF:-1  group-title="Lista 04",| Outermax Full HD | CINE
+http://daletvplay.xyz:8080/9ThR5zqwvN/XPHBz4lboa/72899
+#EXTINF:-1  group-title="Lista 04",| Showtime 2 HD | CINE
+http://daletvplay.xyz:8080/9ThR5zqwvN/XPHBz4lboa/72903
+#EXTINF:-1  group-title="Lista 04",| Showtime Beyond Full HD | CINE
+http://daletvplay.xyz:8080/9ThR5zqwvN/XPHBz4lboa/72900
+#EXTINF:-1  group-title="Lista 04",| Showtime East Full HD | CINE
+http://daletvplay.xyz:8080/9ThR5zqwvN/XPHBz4lboa/72901
+#EXTINF:-1  group-title="Lista 04",| Showtime Extreme HD | CINE
+http://daletvplay.xyz:8080/9ThR5zqwvN/XPHBz4lboa/72904
+#EXTINF:-1  group-title="Lista 04",| Showtime Full HD | CINE
+http://daletvplay.xyz:8080/9ThR5zqwvN/XPHBz4lboa/72902
+#EXTINF:-1  group-title="Lista 04",| Space (MOVIL) | CINE
+http://daletvplay.xyz:8080/9ThR5zqwvN/XPHBz4lboa/72897
+#EXTINF:-1  group-title="Lista 04",| Starz Encore Black Full HD | CINE
+http://daletvplay.xyz:8080/9ThR5zqwvN/XPHBz4lboa/72905
+#EXTINF:-1  group-title="Lista 04",| Starz Encore Cinema Full HD | CINE
+http://daletvplay.xyz:8080/9ThR5zqwvN/XPHBz4lboa/72906
+#EXTINF:-1  group-title="Lista 04",| Starz East Full HD | CINE
+http://daletvplay.xyz:8080/9ThR5zqwvN/XPHBz4lboa/72907
+#EXTINF:-1  group-title="Lista 04",| Starz Encore Action | CINE
+http://daletvplay.xyz:8080/9ThR5zqwvN/XPHBz4lboa/72908
+#EXTINF:-1  group-title="Lista 04",| Starz Encore Classic Full HD | CINE
+http://daletvplay.xyz:8080/9ThR5zqwvN/XPHBz4lboa/72909
+#EXTINF:-1  group-title="Lista 04",| Starz Encore Full HD | CINE
+http://daletvplay.xyz:8080/9ThR5zqwvN/XPHBz4lboa/72910
+#EXTINF:-1  group-title="Lista 04",| Starz Encore Suspense Full HD | CINE
+http://daletvplay.xyz:8080/9ThR5zqwvN/XPHBz4lboa/72911
+#EXTINF:-1  group-title="Lista 04",| Starz Encore Western Full HD | CINE
+http://daletvplay.xyz:8080/9ThR5zqwvN/XPHBz4lboa/72912
+#EXTINF:-1  group-title="Lista 04",| Studio Universal Full HD (ARG)(Dual Audio) | CINE
+http://daletvplay.xyz:8080/9ThR5zqwvN/XPHBz4lboa/72883
+#EXTINF:-1  group-title="Lista 04",| Sundance TV Full HD (ARG)(Dual Audio) | CINE
+http://daletvplay.xyz:8080/9ThR5zqwvN/XPHBz4lboa/72884
+#EXTINF:-1  group-title="Lista 04",| TNT (MOVIL) | CINE
+http://daletvplay.xyz:8080/9ThR5zqwvN/XPHBz4lboa/59350
+#EXTINF:-1  group-title="Lista 04",| TNT Full HD (CO) | CINE
+http://daletvplay.xyz:8080/9ThR5zqwvN/XPHBz4lboa/59353
+#EXTINF:-1  group-title="Lista 04",| TNT HD (CO) | CINE
+http://daletvplay.xyz:8080/9ThR5zqwvN/XPHBz4lboa/59352
+#EXTINF:-1  group-title="Lista 04",| TNT Series (CO) | CINE
+http://daletvplay.xyz:8080/9ThR5zqwvN/XPHBz4lboa/59358
+#EXTINF:-1  group-title="Lista 04",| TNT Series Full HD (CO) | CINE
+http://daletvplay.xyz:8080/9ThR5zqwvN/XPHBz4lboa/59360
+#EXTINF:-1  group-title="Lista 04",| TNT Series HD (CO) | CINE
+http://daletvplay.xyz:8080/9ThR5zqwvN/XPHBz4lboa/59359
+#EXTINF:-1  group-title="Lista 04",| Universal Channel (CO) | CINE
+http://daletvplay.xyz:8080/9ThR5zqwvN/XPHBz4lboa/72879
+#EXTINF:-1  group-title="Lista 04",| Universal Channel (MOVIL) | CINE
+http://daletvplay.xyz:8080/9ThR5zqwvN/XPHBz4lboa/72878
+#EXTINF:-1  group-title="Lista 04",| Warner Channel (MOVIL) | CINE
+http://daletvplay.xyz:8080/9ThR5zqwvN/XPHBz4lboa/72891
+#EXTINF:-1  group-title="Lista 04",| Warner Channel (MX) | CINE
+http://daletvplay.xyz:8080/9ThR5zqwvN/XPHBz4lboa/72892
+#EXTINF:-1  group-title="Lista 04",| Warner Channel Full HD | CINE
+http://daletvplay.xyz:8080/9ThR5zqwvN/XPHBz4lboa/72894
+#EXTINF:-1  group-title="Lista 04",| Warner Channel Full HD | CINE
+http://daletvplay.xyz:8080/9ThR5zqwvN/XPHBz4lboa/72893
+#EXTINF:-1  group-title="Lista 04",HBO FHD
+http://daletvplay.xyz:8080/9ThR5zqwvN/XPHBz4lboa/884
+#EXTINF:-1  group-title="Lista 04",Fox FHD.
+http://daletvplay.xyz:8080/9ThR5zqwvN/XPHBz4lboa/55055
+#EXTINF:-1  group-title="Lista 04",| Europa Europa | CINE
+http://daletvplay.xyz:8080/9ThR5zqwvN/XPHBz4lboa/46757
+#EXTM3U
+#EXTINF:-1  group-title="Lista 04",Cinema 35 PPV
+http://daletvplay.xyz:8080/9ThR5zqwvN/XPHBz4lboa/442
+#EXTINF:-1  group-title="Lista 04",Cinema 34 PPV
+http://daletvplay.xyz:8080/9ThR5zqwvN/XPHBz4lboa/443
+#EXTINF:-1  group-title="Lista 04",Cinema 33 PPV
+http://daletvplay.xyz:8080/9ThR5zqwvN/XPHBz4lboa/444
+#EXTINF:-1  group-title="Lista 04",Cinema 32 PPV
+http://daletvplay.xyz:8080/9ThR5zqwvN/XPHBz4lboa/445
+#EXTINF:-1  group-title="Lista 04",Cinema 31 PPV
+http://daletvplay.xyz:8080/9ThR5zqwvN/XPHBz4lboa/446
+#EXTINF:-1  group-title="Lista 04",Cinema 30 PPV
+http://daletvplay.xyz:8080/9ThR5zqwvN/XPHBz4lboa/447
+#EXTINF:-1  group-title="Lista 04",Cinema 29 PPV
+http://daletvplay.xyz:8080/9ThR5zqwvN/XPHBz4lboa/448
+#EXTINF:-1  group-title="Lista 04",Cinema 28 PPV
+http://daletvplay.xyz:8080/9ThR5zqwvN/XPHBz4lboa/449
+#EXTINF:-1  group-title="Lista 04",Cinema 27 PPV
+http://daletvplay.xyz:8080/9ThR5zqwvN/XPHBz4lboa/450
+#EXTINF:-1  group-title="Lista 04",Cinema 26 PPV
+http://daletvplay.xyz:8080/9ThR5zqwvN/XPHBz4lboa/451
+#EXTINF:-1  group-title="Lista 04",Cinema 25 PPV
+http://daletvplay.xyz:8080/9ThR5zqwvN/XPHBz4lboa/452
+#EXTINF:-1  group-title="Lista 04",Cinema 24 PPV
+http://daletvplay.xyz:8080/9ThR5zqwvN/XPHBz4lboa/453
+#EXTINF:-1  group-title="Lista 04",Cinema 23 PPV
+http://daletvplay.xyz:8080/9ThR5zqwvN/XPHBz4lboa/454
+#EXTINF:-1  group-title="Lista 04",Cinema 22 PPV
+http://daletvplay.xyz:8080/9ThR5zqwvN/XPHBz4lboa/455
+#EXTINF:-1  group-title="Lista 04",Cinema 21 PPV
+http://daletvplay.xyz:8080/9ThR5zqwvN/XPHBz4lboa/456
+#EXTINF:-1  group-title="Lista 04",Cinema 19 PPV
+http://daletvplay.xyz:8080/9ThR5zqwvN/XPHBz4lboa/458
+#EXTINF:-1  group-title="Lista 04",Cinema 18 PPV
+http://daletvplay.xyz:8080/9ThR5zqwvN/XPHBz4lboa/459
+#EXTINF:-1  group-title="Lista 04",Cinema 17 PPV
+http://daletvplay.xyz:8080/9ThR5zqwvN/XPHBz4lboa/460
+#EXTINF:-1  group-title="Lista 04",Cinema 16 PPV
+http://daletvplay.xyz:8080/9ThR5zqwvN/XPHBz4lboa/461
+#EXTINF:-1  group-title="Lista 04",Cinema 15 PPV
+http://daletvplay.xyz:8080/9ThR5zqwvN/XPHBz4lboa/462
+#EXTINF:-1  group-title="Lista 04",Cinema 14 PPV
+http://daletvplay.xyz:8080/9ThR5zqwvN/XPHBz4lboa/463
+#EXTINF:-1  group-title="Lista 04",Cinema 13 PPV
+http://daletvplay.xyz:8080/9ThR5zqwvN/XPHBz4lboa/464
+#EXTINF:-1  group-title="Lista 04",Cinema 12 PPV
+http://daletvplay.xyz:8080/9ThR5zqwvN/XPHBz4lboa/465
+#EXTINF:-1  group-title="Lista 04",Cinema 11 PPV
+http://daletvplay.xyz:8080/9ThR5zqwvN/XPHBz4lboa/466
+#EXTINF:-1  group-title="Lista 04",Cinema 10 PPV
+http://daletvplay.xyz:8080/9ThR5zqwvN/XPHBz4lboa/467
+#EXTINF:-1  group-title="Lista 04",Cinema 09 PPV
+http://daletvplay.xyz:8080/9ThR5zqwvN/XPHBz4lboa/468
+#EXTINF:-1  group-title="Lista 04",Cinema 08 PPV
+http://daletvplay.xyz:8080/9ThR5zqwvN/XPHBz4lboa/469
+#EXTINF:-1  group-title="Lista 04",Cinema 07 PPV
+http://daletvplay.xyz:8080/9ThR5zqwvN/XPHBz4lboa/470
+#EXTINF:-1  group-title="Lista 04",Cinema 06 PPV
+http://daletvplay.xyz:8080/9ThR5zqwvN/XPHBz4lboa/471
+#EXTINF:-1  group-title="Lista 04",Cinema 05 PPV
+http://daletvplay.xyz:8080/9ThR5zqwvN/XPHBz4lboa/472
+#EXTINF:-1  group-title="Lista 04",Cinema 04 PPV
+http://daletvplay.xyz:8080/9ThR5zqwvN/XPHBz4lboa/473
+#EXTINF:-1  group-title="Lista 04",Cinema 03 PPV
+http://daletvplay.xyz:8080/9ThR5zqwvN/XPHBz4lboa/576
+#EXTINF:-1  group-title="Lista 04",Cinema 02 PPV
+http://daletvplay.xyz:8080/9ThR5zqwvN/XPHBz4lboa/577
+#EXTINF:-1  group-title="Lista 04",Cinema 01 PPV
+http://daletvplay.xyz:8080/9ThR5zqwvN/XPHBz4lboa/578
+#EXTINF:-1  group-title="Lista 04",CINEMA FHD 30
+http://daletvplay.xyz:8080/9ThR5zqwvN/XPHBz4lboa/705
+#EXTINF:-1  group-title="Lista 04",CINEMA FHD 29
+http://daletvplay.xyz:8080/9ThR5zqwvN/XPHBz4lboa/706
+#EXTINF:-1  group-title="Lista 04",CINEMA FHD 28
+http://daletvplay.xyz:8080/9ThR5zqwvN/XPHBz4lboa/707
+#EXTINF:-1  group-title="Lista 04",CINEMA FHD 27
+http://daletvplay.xyz:8080/9ThR5zqwvN/XPHBz4lboa/708
+#EXTINF:-1  group-title="Lista 04",CINEMA FHD 26
+http://daletvplay.xyz:8080/9ThR5zqwvN/XPHBz4lboa/709
+#EXTINF:-1  group-title="Lista 04",CINEMA FHD 25
+http://daletvplay.xyz:8080/9ThR5zqwvN/XPHBz4lboa/710
+#EXTINF:-1  group-title="Lista 04",CINEMA FHD 24
+http://daletvplay.xyz:8080/9ThR5zqwvN/XPHBz4lboa/711
+#EXTINF:-1  group-title="Lista 04",CINEMA FHD 23
+http://daletvplay.xyz:8080/9ThR5zqwvN/XPHBz4lboa/712
+#EXTINF:-1  group-title="Lista 04",CINEMA FHD 21
+http://daletvplay.xyz:8080/9ThR5zqwvN/XPHBz4lboa/714
+#EXTINF:-1  group-title="Lista 04",CINEMA FHD 19
+http://daletvplay.xyz:8080/9ThR5zqwvN/XPHBz4lboa/715
+#EXTINF:-1  group-title="Lista 04",CINEMA FHD 18
+http://daletvplay.xyz:8080/9ThR5zqwvN/XPHBz4lboa/716
+#EXTINF:-1  group-title="Lista 04",CINEMA FHD 17
+http://daletvplay.xyz:8080/9ThR5zqwvN/XPHBz4lboa/717
+#EXTINF:-1  group-title="Lista 04",CINEMA FHD 16
+http://daletvplay.xyz:8080/9ThR5zqwvN/XPHBz4lboa/718
+#EXTINF:-1  group-title="Lista 04",CINEMA FHD 15
+http://daletvplay.xyz:8080/9ThR5zqwvN/XPHBz4lboa/719
+#EXTINF:-1  group-title="Lista 04",CINEMA FHD 14
+http://daletvplay.xyz:8080/9ThR5zqwvN/XPHBz4lboa/720
+#EXTINF:-1  group-title="Lista 04",CINEMA FHD 13
+http://daletvplay.xyz:8080/9ThR5zqwvN/XPHBz4lboa/721
+#EXTINF:-1  group-title="Lista 04",CINEMA FHD 12
+http://daletvplay.xyz:8080/9ThR5zqwvN/XPHBz4lboa/722
+#EXTINF:-1  group-title="Lista 04",CINEMA FHD 11
+http://daletvplay.xyz:8080/9ThR5zqwvN/XPHBz4lboa/723
+#EXTINF:-1  group-title="Lista 04",CINEMA FHD 10
+http://daletvplay.xyz:8080/9ThR5zqwvN/XPHBz4lboa/724
+#EXTINF:-1  group-title="Lista 04",CINEMA FHD 8
+http://daletvplay.xyz:8080/9ThR5zqwvN/XPHBz4lboa/726
+#EXTINF:-1  group-title="Lista 04",CINEMA FHD 7
+http://daletvplay.xyz:8080/9ThR5zqwvN/XPHBz4lboa/727
+#EXTINF:-1  group-title="Lista 04",CINEMA FHD 6
+http://daletvplay.xyz:8080/9ThR5zqwvN/XPHBz4lboa/728
+#EXTINF:-1  group-title="Lista 04",CINEMA FHD 4
+http://daletvplay.xyz:8080/9ThR5zqwvN/XPHBz4lboa/731
+#EXTINF:-1  group-title="Lista 04",Cinema FHD 3
+http://daletvplay.xyz:8080/9ThR5zqwvN/XPHBz4lboa/732
+#EXTINF:-1  group-title="Lista 04",CINEMA FHD 2
+http://daletvplay.xyz:8080/9ThR5zqwvN/XPHBz4lboa/733
+#EXTINF:-1  group-title="Lista 04",CINEMA FHD 1
+http://daletvplay.xyz:8080/9ThR5zqwvN/XPHBz4lboa/734
+#EXTM3U
+#EXTINF:-1  group-title="Lista 04",| Boomerang FHD | INF
+http://daletvplay.xyz:8080/9ThR5zqwvN/XPHBz4lboa/14854
+#EXTINF:-1  group-title="Lista 04",| Cartoon Network FHD | INF
+http://daletvplay.xyz:8080/9ThR5zqwvN/XPHBz4lboa/14855
+#EXTINF:-1  group-title="Lista 04",| Disney Channel FHD | INF
+http://daletvplay.xyz:8080/9ThR5zqwvN/XPHBz4lboa/14862
+#EXTINF:-1  group-title="Lista 04",| Disney JR FHD | INF
+http://daletvplay.xyz:8080/9ThR5zqwvN/XPHBz4lboa/14863
+#EXTINF:-1  group-title="Lista 04",| Disney XD FHD | INF
+http://daletvplay.xyz:8080/9ThR5zqwvN/XPHBz4lboa/14864
+#EXTINF:-1  group-title="Lista 04",| NICK2 FHD | INF
+http://daletvplay.xyz:8080/9ThR5zqwvN/XPHBz4lboa/14881
+#EXTINF:-1  group-title="Lista 04",| NICK FHD | INF
+http://daletvplay.xyz:8080/9ThR5zqwvN/XPHBz4lboa/14882
+#EXTINF:-1  group-title="Lista 04",| Nat Geo Kids FHD | INF
+http://daletvplay.xyz:8080/9ThR5zqwvN/XPHBz4lboa/55100
+#EXTINF:-1  group-title="Lista 04",| Nick 2 FHD | INF
+http://daletvplay.xyz:8080/9ThR5zqwvN/XPHBz4lboa/55104
+#EXTINF:-1  group-title="Lista 04",| Nick FHD | INF
+http://daletvplay.xyz:8080/9ThR5zqwvN/XPHBz4lboa/55106
+#EXTINF:-1  group-title="Lista 04",| Nicktoons FHD | INF
+http://daletvplay.xyz:8080/9ThR5zqwvN/XPHBz4lboa/55107
+#EXTINF:-1  group-title="Lista 04",| Paka Paka (MOVIL) | INF
+http://daletvplay.xyz:8080/9ThR5zqwvN/XPHBz4lboa/57895
+#EXTINF:-1  group-title="Lista 04",| Baby TV (MOVIL) | INF
+http://daletvplay.xyz:8080/9ThR5zqwvN/XPHBz4lboa/57897
+#EXTINF:-1  group-title="Lista 04",| Baby TV 1 INF
+http://daletvplay.xyz:8080/9ThR5zqwvN/XPHBz4lboa/57898
+#EXTINF:-1  group-title="Lista 04",| Baby First (MOVIL) | INF
+http://daletvplay.xyz:8080/9ThR5zqwvN/XPHBz4lboa/57899
+#EXTINF:-1  group-title="Lista 04",| Baby First | INF
+http://daletvplay.xyz:8080/9ThR5zqwvN/XPHBz4lboa/57900
+#EXTINF:-1  group-title="Lista 04",| Cartoon Network HD (CO) | INF
+http://daletvplay.xyz:8080/9ThR5zqwvN/XPHBz4lboa/57907
+#EXTINF:-1  group-title="Lista 04",| Cartoon Network Full HD (Dual Audio) | INF
+http://daletvplay.xyz:8080/9ThR5zqwvN/XPHBz4lboa/57910
+#EXTINF:-1  group-title="Lista 04",| Disney XD (MOVIL) | INF
+http://daletvplay.xyz:8080/9ThR5zqwvN/XPHBz4lboa/57915
+#EXTINF:-1  group-title="Lista 04",| Disney XD (CO) | INF
+http://daletvplay.xyz:8080/9ThR5zqwvN/XPHBz4lboa/57916
+#EXTINF:-1  group-title="Lista 04",| Disney Channel (CO) | INF
+http://daletvplay.xyz:8080/9ThR5zqwvN/XPHBz4lboa/57920
+#EXTINF:-1  group-title="Lista 04",| Disney Channel Full HD (Dual Audio) | INF
+http://daletvplay.xyz:8080/9ThR5zqwvN/XPHBz4lboa/57924
+#EXTINF:-1  group-title="Lista 04",| Infantil: Disney Junior (MOVIL) | INF
+http://daletvplay.xyz:8080/9ThR5zqwvN/XPHBz4lboa/57925
+#EXTINF:-1  group-title="Lista 04",| Nat Geo Kids (MOVIL) | INF
+http://daletvplay.xyz:8080/9ThR5zqwvN/XPHBz4lboa/57928
+#EXTINF:-1  group-title="Lista 04",| Nat Geo Kids Full HD (CO) | INF
+http://daletvplay.xyz:8080/9ThR5zqwvN/XPHBz4lboa/57930
+#EXTINF:-1  group-title="Lista 04",| Nickelodeon (CO) | INF
+http://daletvplay.xyz:8080/9ThR5zqwvN/XPHBz4lboa/57934
+#EXTINF:-1  group-title="Lista 04",| Nickelodeon Full HD (CO) | INF
+http://daletvplay.xyz:8080/9ThR5zqwvN/XPHBz4lboa/57935
+#EXTINF:-1  group-title="Lista 04",| Nickelodeon Full HD (ARG)(Dual Audio) | INF
+http://daletvplay.xyz:8080/9ThR5zqwvN/XPHBz4lboa/57938
+#EXTINF:-1  group-title="Lista 04",| Infantil: Nick 2 (CO) | INF
+http://daletvplay.xyz:8080/9ThR5zqwvN/XPHBz4lboa/57939
+#EXTINF:-1  group-title="Lista 04",| Nick 2 Full HD (CO) | INF
+http://daletvplay.xyz:8080/9ThR5zqwvN/XPHBz4lboa/57940
+#EXTINF:-1  group-title="Lista 04",| Nick Jr (MOVIL) | INF
+http://daletvplay.xyz:8080/9ThR5zqwvN/XPHBz4lboa/57942
+#EXTINF:-1  group-title="Lista 04",| Tooncast (MOVIL) | INF
+http://daletvplay.xyz:8080/9ThR5zqwvN/XPHBz4lboa/57944
+#EXTINF:-1  group-title="Lista 04",| BabyFirst HD | INF
+http://daletvplay.xyz:8080/9ThR5zqwvN/XPHBz4lboa/167
+#EXTINF:-1  group-title="Lista 04",| Baby TV op2 | INF
+http://daletvplay.xyz:8080/9ThR5zqwvN/XPHBz4lboa/169
+#EXTINF:-1  group-title="Lista 04",| Cartoon Network HD | INF
+http://daletvplay.xyz:8080/9ThR5zqwvN/XPHBz4lboa/174
+#EXTINF:-1  group-title="Lista 04",| Catoon Network  HD | INF
+http://daletvplay.xyz:8080/9ThR5zqwvN/XPHBz4lboa/951
+#EXTINF:-1  group-title="Lista 04",| Disney Junior HD | INF
+http://daletvplay.xyz:8080/9ThR5zqwvN/XPHBz4lboa/964
+#EXTINF:-1  group-title="Lista 04",| Baby TV LQ | INF
+http://daletvplay.xyz:8080/9ThR5zqwvN/XPHBz4lboa/1441
+#EXTINF:-1  group-title="Lista 04",| Boomerang LQ | INF
+http://daletvplay.xyz:8080/9ThR5zqwvN/XPHBz4lboa/1442
+#EXTINF:-1  group-title="Lista 04",| Discovery Kids LQ | INF
+http://daletvplay.xyz:8080/9ThR5zqwvN/XPHBz4lboa/1443
+#EXTINF:-1  group-title="Lista 04",| Disney Channel LQ | INF
+http://daletvplay.xyz:8080/9ThR5zqwvN/XPHBz4lboa/1444
+#EXTINF:-1  group-title="Lista 04",| Disney JR | INF
+http://daletvplay.xyz:8080/9ThR5zqwvN/XPHBz4lboa/1445
+#EXTINF:-1  group-title="Lista 04",| Disney XD LQ | INF
+http://daletvplay.xyz:8080/9ThR5zqwvN/XPHBz4lboa/1446
+#EXTINF:-1  group-title="Lista 04",| Natgeo Kids LQ | INF
+http://daletvplay.xyz:8080/9ThR5zqwvN/XPHBz4lboa/1447
+#EXTINF:-1  group-title="Lista 04",| Nickelodeon LQ | INF
+http://daletvplay.xyz:8080/9ThR5zqwvN/XPHBz4lboa/1448
+#EXTINF:-1  group-title="Lista 04",| Baby TV HQ | INF
+http://daletvplay.xyz:8080/9ThR5zqwvN/XPHBz4lboa/1581
+#EXTINF:-1  group-title="Lista 04",| Boomerang HQ | INF
+http://daletvplay.xyz:8080/9ThR5zqwvN/XPHBz4lboa/1582
+#EXTINF:-1  group-title="Lista 04",| Discovery Kids HQ | INF
+http://daletvplay.xyz:8080/9ThR5zqwvN/XPHBz4lboa/1584
+#EXTINF:-1  group-title="Lista 04",| Disney Channel | INF
+http://daletvplay.xyz:8080/9ThR5zqwvN/XPHBz4lboa/1585
+#EXTINF:-1  group-title="Lista 04",| Disney XD HQ | INF
+http://daletvplay.xyz:8080/9ThR5zqwvN/XPHBz4lboa/1587
+#EXTINF:-1  group-title="Lista 04",| Natgeo Kids | INF
+http://daletvplay.xyz:8080/9ThR5zqwvN/XPHBz4lboa/1588
+#EXTINF:-1  group-title="Lista 04",| Nickelodeon HQ | INF
+http://daletvplay.xyz:8080/9ThR5zqwvN/XPHBz4lboa/1589
+#EXTINF:-1  group-title="Lista 04",| Tooncast HQ | INF
+http://daletvplay.xyz:8080/9ThR5zqwvN/XPHBz4lboa/1590
+#EXTINF:-1  group-title="Lista 04",| Nick Jr. HD | INF
+http://daletvplay.xyz:8080/9ThR5zqwvN/XPHBz4lboa/7471
+#EXTINF:-1  group-title="Lista 04",| Nick Jr | INF
+http://daletvplay.xyz:8080/9ThR5zqwvN/XPHBz4lboa/7472
+#EXTINF:-1  group-title="Lista 04",| Nick JR | INF
+http://daletvplay.xyz:8080/9ThR5zqwvN/XPHBz4lboa/7473
+#EXTINF:-1  group-title="Lista 04",| Nicktoons FHD | 
+http://daletvplay.xyz:8080/9ThR5zqwvN/XPHBz4lboa/55108
+#EXTM3U
+#EXTINF:-1  group-title="Lista 04",| Discovery Civilization FHD | CULT
+http://daletvplay.xyz:8080/9ThR5zqwvN/XPHBz4lboa/14858
+#EXTINF:-1  group-title="Lista 04",| Discovery H&H FHD | CUL
+http://daletvplay.xyz:8080/9ThR5zqwvN/XPHBz4lboa/14859
+#EXTINF:-1  group-title="Lista 04",| Discovery Science FHD | CUL
+http://daletvplay.xyz:8080/9ThR5zqwvN/XPHBz4lboa/14861
+#EXTINF:-1  group-title="Lista 04",| History Channel FHD | CUL
+http://daletvplay.xyz:8080/9ThR5zqwvN/XPHBz4lboa/55087
+#EXTINF:-1  group-title="Lista 04",| TLC | CUL
+http://daletvplay.xyz:8080/9ThR5zqwvN/XPHBz4lboa/46592
+#EXTINF:-1  group-title="Lista 04",| Animal Planet HD | CUL
+http://daletvplay.xyz:8080/9ThR5zqwvN/XPHBz4lboa/191
+#EXTINF:-1  group-title="Lista 04",| Animal Planet FHD | CUL
+http://daletvplay.xyz:8080/9ThR5zqwvN/XPHBz4lboa/192
+#EXTINF:-1  group-title="Lista 04",| Animal Panel sd | CUL
+http://daletvplay.xyz:8080/9ThR5zqwvN/XPHBz4lboa/193
+#EXTINF:-1  group-title="Lista 04",| Discovery Channel FHD | CUL
+http://daletvplay.xyz:8080/9ThR5zqwvN/XPHBz4lboa/195
+#EXTINF:-1  group-title="Lista 04",| Discovery Channel | CUL
+http://daletvplay.xyz:8080/9ThR5zqwvN/XPHBz4lboa/196
+#EXTINF:-1  group-title="Lista 04",| Dicovery Channel SD | CUL
+http://daletvplay.xyz:8080/9ThR5zqwvN/XPHBz4lboa/197
+#EXTINF:-1  group-title="Lista 04",| Discovery Civilization | CUL
+http://daletvplay.xyz:8080/9ThR5zqwvN/XPHBz4lboa/200
+#EXTINF:-1  group-title="Lista 04",| Discovery Familia | CUL
+http://daletvplay.xyz:8080/9ThR5zqwvN/XPHBz4lboa/202
+#EXTINF:-1  group-title="Lista 04",| Discovery Familiaa | CUL
+http://daletvplay.xyz:8080/9ThR5zqwvN/XPHBz4lboa/92207
+#EXTINF:-1  group-title="Lista 04",| Discovery H&H | CUL
+http://daletvplay.xyz:8080/9ThR5zqwvN/XPHBz4lboa/205
+#EXTINF:-1  group-title="Lista 04",| Discovery H&H HD | CUL
+http://daletvplay.xyz:8080/9ThR5zqwvN/XPHBz4lboa/206
+#EXTINF:-1  group-title="Lista 04",| Discovery Investigation | CUL
+http://daletvplay.xyz:8080/9ThR5zqwvN/XPHBz4lboa/208
+#EXTINF:-1  group-title="Lista 04",| Discovery Science | CUL
+http://daletvplay.xyz:8080/9ThR5zqwvN/XPHBz4lboa/211
+#EXTINF:-1  group-title="Lista 04",| Discovery Science | CUL
+http://daletvplay.xyz:8080/9ThR5zqwvN/XPHBz4lboa/212
+#EXTINF:-1  group-title="Lista 04",| Discovery Theather | CUL
+http://daletvplay.xyz:8080/9ThR5zqwvN/XPHBz4lboa/213
+#EXTINF:-1  group-title="Lista 04",| Discovery Theater | HQ
+http://daletvplay.xyz:8080/9ThR5zqwvN/XPHBz4lboa/215
+#EXTINF:-1  group-title="Lista 04",| Discovery Turbo | CUL
+http://daletvplay.xyz:8080/9ThR5zqwvN/XPHBz4lboa/231
+#EXTINF:-1  group-title="Lista 04",| Discovery Turbo FHD | CUL
+http://daletvplay.xyz:8080/9ThR5zqwvN/XPHBz4lboa/233
+#EXTINF:-1  group-title="Lista 04",| Discovery World LQ | CUL
+http://daletvplay.xyz:8080/9ThR5zqwvN/XPHBz4lboa/234
+#EXTINF:-1  group-title="Lista 04",| H2  | CUL
+http://daletvplay.xyz:8080/9ThR5zqwvN/XPHBz4lboa/237
+#EXTINF:-1  group-title="Lista 04",| History Channel | CUL
+http://daletvplay.xyz:8080/9ThR5zqwvN/XPHBz4lboa/240
+#EXTINF:-1  group-title="Lista 04",| History Channel FHD | CUL
+http://daletvplay.xyz:8080/9ThR5zqwvN/XPHBz4lboa/242
+#EXTINF:-1  group-title="Lista 04",| History Channel SD | CUL
+http://daletvplay.xyz:8080/9ThR5zqwvN/XPHBz4lboa/243
+#EXTINF:-1  group-title="Lista 04",| Nat Geo FHD | CUL
+http://daletvplay.xyz:8080/9ThR5zqwvN/XPHBz4lboa/244
+#EXTINF:-1  group-title="Lista 04",| Nat Geo | CUL
+http://daletvplay.xyz:8080/9ThR5zqwvN/XPHBz4lboa/245
+#EXTM3U
+#EXTINF:-1  group-title="Lista 04",| Comedy Central FHD | ENT
+http://daletvplay.xyz:8080/9ThR5zqwvN/XPHBz4lboa/14856
+#EXTINF:-1  group-title="Lista 04",| TruTV FHD | ENT
+http://daletvplay.xyz:8080/9ThR5zqwvN/XPHBz4lboa/55122
+#EXTINF:-1  group-title="Lista 04",| E! Entertainment | ENT
+http://daletvplay.xyz:8080/9ThR5zqwvN/XPHBz4lboa/46754
+#EXTINF:-1  group-title="Lista 04",| Distrito Comedia | ENT
+http://daletvplay.xyz:8080/9ThR5zqwvN/XPHBz4lboa/46539
+#EXTINF:-1  group-title="Lista 04",| Pasiones FHD | ENT
+http://daletvplay.xyz:8080/9ThR5zqwvN/XPHBz4lboa/1578
+#EXTINF:-1  group-title="Lista 04",| Lifetime HQ | ENT
+http://daletvplay.xyz:8080/9ThR5zqwvN/XPHBz4lboa/1577
+#EXTINF:-1  group-title="Lista 04",| Glitz  HQ | ENT
+http://daletvplay.xyz:8080/9ThR5zqwvN/XPHBz4lboa/1575
+#EXTINF:-1  group-title="Lista 04",| Gourmet HQ | ENT
+http://daletvplay.xyz:8080/9ThR5zqwvN/XPHBz4lboa/1571
+#EXTINF:-1  group-title="Lista 04",| Comedy Central HQ | ENT
+http://daletvplay.xyz:8080/9ThR5zqwvN/XPHBz4lboa/1570
+#EXTINF:-1  group-title="Lista 04",| Garage HQ | ENT
+http://daletvplay.xyz:8080/9ThR5zqwvN/XPHBz4lboa/1559
+#EXTINF:-1  group-title="Lista 04",| Temundo LQ | ENT
+http://daletvplay.xyz:8080/9ThR5zqwvN/XPHBz4lboa/1462
+#EXTINF:-1  group-title="Lista 04",| Pasiones HD | ENT
+http://daletvplay.xyz:8080/9ThR5zqwvN/XPHBz4lboa/1438
+#EXTINF:-1  group-title="Lista 04",| lifetime LQ | ENT
+http://daletvplay.xyz:8080/9ThR5zqwvN/XPHBz4lboa/1437
+#EXTINF:-1  group-title="Lista 04",|Film Art LQ | ENT
+http://daletvplay.xyz:8080/9ThR5zqwvN/XPHBz4lboa/1432
+#EXTINF:-1  group-title="Lista 04",| Gourmet LQ | ENT
+http://daletvplay.xyz:8080/9ThR5zqwvN/XPHBz4lboa/1431
+#EXTINF:-1  group-title="Lista 04",| Comedy Central LQ | ENT
+http://daletvplay.xyz:8080/9ThR5zqwvN/XPHBz4lboa/1430
+#EXTINF:-1  group-title="Lista 04",| Glitz LQ | ENT
+http://daletvplay.xyz:8080/9ThR5zqwvN/XPHBz4lboa/1435
+#EXTINF:-1  group-title="Lista 04",| Garage LQ | ENT
+http://daletvplay.xyz:8080/9ThR5zqwvN/XPHBz4lboa/1422
+#EXTINF:-1  group-title="Lista 04",| Telemundo HQ | ENT
+http://daletvplay.xyz:8080/9ThR5zqwvN/XPHBz4lboa/1602
+#EXTINF:-1  group-title="Lista 04",| Comedy Central HD | ENT
+http://daletvplay.xyz:8080/9ThR5zqwvN/XPHBz4lboa/953
+#EXTINF:-1  group-title="Lista 04",| Lifetime HD | ENT
+http://daletvplay.xyz:8080/9ThR5zqwvN/XPHBz4lboa/980
+#EXTINF:-1  group-title="Lista 04",| Univision HD | ENT
+http://daletvplay.xyz:8080/9ThR5zqwvN/XPHBz4lboa/72945
+#EXTINF:-1  group-title="Lista 04",| Univision New York HD | ENT
+http://daletvplay.xyz:8080/9ThR5zqwvN/XPHBz4lboa/72947
+#EXTINF:-1  group-title="Lista 04",| Univision Telenovelas HD | ENT
+http://daletvplay.xyz:8080/9ThR5zqwvN/XPHBz4lboa/72948
+#EXTINF:-1  group-title="Lista 04",| Univision Miami HD | ENT
+http://daletvplay.xyz:8080/9ThR5zqwvN/XPHBz4lboa/72958
+#EXTINF:-1  group-title="Lista 04",| Univision Dallas HD | ENT
+http://daletvplay.xyz:8080/9ThR5zqwvN/XPHBz4lboa/72959
+#EXTINF:-1  group-title="Lista 04",| Univision Puerto Rico HD | ENT
+http://daletvplay.xyz:8080/9ThR5zqwvN/XPHBz4lboa/72966
+#EXTINF:-1  group-title="Lista 04",| Unimas Este HD | ENT
+http://daletvplay.xyz:8080/9ThR5zqwvN/XPHBz4lboa/72967
+#EXTINF:-1  group-title="Lista 04",| Unimas New York HD | ENT
+http://daletvplay.xyz:8080/9ThR5zqwvN/XPHBz4lboa/72968
+#EXTINF:-1  group-title="Lista 04",| Unimas Georgia HD | ENT
+http://daletvplay.xyz:8080/9ThR5zqwvN/XPHBz4lboa/72969
+#EXTINF:-1  group-title="Lista 04",| NBC Universo | ENT
+http://daletvplay.xyz:8080/9ThR5zqwvN/XPHBz4lboa/72985
+#EXTINF:-1  group-title="Lista 04",| E! Entertainment HD | ENT
+http://daletvplay.xyz:8080/9ThR5zqwvN/XPHBz4lboa/46643
+#EXTM3U
+#EXTINF:-1  group-title="Lista 04",| MTV FHD | music
+http://daletvplay.xyz:8080/9ThR5zqwvN/XPHBz4lboa/55095
+#EXTINF:-1  group-title="Lista 04",| MTV Hits | music
+http://daletvplay.xyz:8080/9ThR5zqwvN/XPHBz4lboa/55096
+#EXTINF:-1  group-title="Lista 04",| MTV Live FHD | music
+http://daletvplay.xyz:8080/9ThR5zqwvN/XPHBz4lboa/55097
+#EXTINF:-1  group-title="Lista 04",| VH1 FHD | MUSIC
+http://daletvplay.xyz:8080/9ThR5zqwvN/XPHBz4lboa/55124
+#EXTINF:-1  group-title="Lista 04",| MTV (Latinoam\u00e9rica) | MUSIC
+http://daletvplay.xyz:8080/9ThR5zqwvN/XPHBz4lboa/20372
+#EXTINF:-1  group-title="Lista 04",| Zona Latina (CL) | MUSIC
+http://daletvplay.xyz:8080/9ThR5zqwvN/XPHBz4lboa/69728
+#EXTINF:-1  group-title="Lista 04",| VH1 LQ | MUSIC
+http://daletvplay.xyz:8080/9ThR5zqwvN/XPHBz4lboa/1453
+#EXTINF:-1  group-title="Lista 04",| VH1 HQ | MUSIC
+http://daletvplay.xyz:8080/9ThR5zqwvN/XPHBz4lboa/1594
+#EXTINF:-1  group-title="Lista 04",| MTV HIT LQ | MUSIC
+http://daletvplay.xyz:8080/9ThR5zqwvN/XPHBz4lboa/1593
+#EXTINF:-1  group-title="Lista 04",| MTV LQ | MUSIC
+http://daletvplay.xyz:8080/9ThR5zqwvN/XPHBz4lboa/1451
+#EXTINF:-1  group-title="Lista 04",| MTV HIT | MUSIC
+http://daletvplay.xyz:8080/9ThR5zqwvN/XPHBz4lboa/1452
+#EXTINF:-1  group-title="Lista 04",| MTV HQ | MUSIC
+http://daletvplay.xyz:8080/9ThR5zqwvN/XPHBz4lboa/1592
+#EXTINF:-1  group-title="Lista 04",| HTV  HQ | MUSIC
+http://daletvplay.xyz:8080/9ThR5zqwvN/XPHBz4lboa/1591
+#EXTINF:-1  group-title="Lista 04",| Much Music LQ | MUSIC
+http://daletvplay.xyz:8080/9ThR5zqwvN/XPHBz4lboa/1461
+#EXTINF:-1  group-title="Lista 04",| Much music HQ | MUSIC
+http://daletvplay.xyz:8080/9ThR5zqwvN/XPHBz4lboa/1601
+#EXTINF:-1  group-title="Lista 04",| VH1 MEGAHITS LQ | MUSIC
+http://daletvplay.xyz:8080/9ThR5zqwvN/XPHBz4lboa/1454
+#EXTINF:-1  group-title="Lista 04",| HTV LQ | MUSIC
+http://daletvplay.xyz:8080/9ThR5zqwvN/XPHBz4lboa/1450
+#EXTINF:-1  group-title="Lista 04",| MTV | MUSIC
+http://daletvplay.xyz:8080/9ThR5zqwvN/XPHBz4lboa/20370
+#EXTINF:-1  group-title="Lista 04",| MTV HIT | MUSIC
+http://daletvplay.xyz:8080/9ThR5zqwvN/XPHBz4lboa/20371
+#EXTM3U
+#EXTINF:-1  group-title="Lista 04",| Cnn Internacional HQ | NOT
+http://daletvplay.xyz:8080/9ThR5zqwvN/XPHBz4lboa/1597
+#EXTINF:-1  group-title="Lista 04",| Cnn en Espa\u00f1ol | NOT
+http://daletvplay.xyz:8080/9ThR5zqwvN/XPHBz4lboa/1596
+#EXTINF:-1  group-title="Lista 04",| Cnn Internacional HQ | NOT
+http://daletvplay.xyz:8080/9ThR5zqwvN/XPHBz4lboa/1456
+#EXTINF:-1  group-title="Lista 04",| Cnn en Espa\u00f1ol | NOT
+http://daletvplay.xyz:8080/9ThR5zqwvN/XPHBz4lboa/1455
